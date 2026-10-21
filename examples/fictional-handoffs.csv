@@ -1,0 +1,2 @@
+﻿"handoff_id","date_time","workflow_id","from_role","to_role","open_hazards_or_actions","isolated_zones_and_routes","next_required_action","acknowledged_by_role","acknowledged_at","evidence_reference"
+"HO-EX-01","2026-11-03T15:00-05:00","W04","Morning shift lead","Evening shift lead","H-EX-01 open; A-EX-01 in progress","East door closed; west route open","Check mat area at 17:00","Evening shift lead","2026-11-03T15:04-05:00","LOG-EX-0312"

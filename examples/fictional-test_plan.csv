@@ -1,0 +1,2 @@
+﻿"test_id","system_version","attribute","condition","method_edition","threshold","threshold_basis","approved_by_role","report_reference","result","disposition"
+"TP-EX-01","Guard rev. A","Attachment","After a specialist-set number of cleaning cycles","[Method named by specialist]","[Not yet approved]","","","","","Blocked until a threshold is approved"

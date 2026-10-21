@@ -1,0 +1,2 @@
+﻿"check_id","date","browser_and_version","device_and_os","opened_as","check_step","expected_result","actual_result","pass_fail_undetermined","issue_reference","resolution","tester_role"
+"SA-EX-01","2026-11-01","[Browser name and version]","[Device / OS]","index.html from a local folder","Manual check 3: edit, reload, draft persists","Draft persists after reload","","undetermined","","","IT or site lead"

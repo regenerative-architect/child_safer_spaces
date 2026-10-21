@@ -1,0 +1,2 @@
+﻿"asset_id","site_id","zone","product","assembly_version","batch_lot","installer","installed_date","report_reference","warranty_end","inspection_frequency","next_check","replacement_trigger","removal_method_reference"
+"AS-EX-01","EX-001","Queue","Edge guard (fictional product)","Rev. A on painted steel","LOT-EX-22","[Installer role]","","","","[Set by site after commissioning]","","Tear, lift or detachment","RM-EX-01"

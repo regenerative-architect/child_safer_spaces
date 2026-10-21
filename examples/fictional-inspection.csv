@@ -1,0 +1,2 @@
+﻿"check_id","site_id","zone","scheduled_at","completed_at","inspector_role","surface_condition","guard_condition","route_condition","defect_id","action","reopening_verified_by","evidence_reference"
+"I-EX-01","EX-001","Entrance","2026-11-03T07:00-05:00","2026-11-03T07:05-05:00","Shift lead","Wet near door; mat edge curling","n/a","West route open","H-EX-01","Isolated; facilities notified","Site manager","LOG-EX-0311"

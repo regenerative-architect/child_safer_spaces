@@ -1,0 +1,2 @@
+﻿"event_code","site_id","zone","detected_at","isolated_at","cleanup_complete_at","reopened_at","hazard_type","source_fixed","approved_method","verification_role","followup_action"
+"SP-EX-01","EX-001","Aisle 4","2026-11-03T12:10-05:00","2026-11-03T12:11-05:00","2026-11-03T12:19-05:00","2026-11-03T12:31-05:00","Liquid (drink)","yes — leaking bottle removed","Approved neutral cleaner; dried before reopening","Shift lead","None"
