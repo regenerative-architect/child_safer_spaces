@@ -1,0 +1,2 @@
+﻿"site_id","period_start","period_end","group","total_visitor_entries","exposure_method","missing_exposure_hours","all_falls","falls_with_injury","child_falls_with_injury","child_entries_if_valid","collisions","near_misses","serious_reported_events","unknown_severity_events","notes_no_personal_data"
+"EX-001","2026-11-01","2026-11-30","All visitors","150000","Door counter; staff and re-entries excluded","6","3","1","0","","0","4","0","0","FICTIONAL EXAMPLE — aggregate counts only"
