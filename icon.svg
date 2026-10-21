@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Child-Safer Spaces">
+  <!-- The child survey band (amber) standing on a floor line, with height ticks. Drawn for this package. -->
+  <rect width="64" height="64" rx="14" fill="#183b37"/>
+  <rect x="15" y="11" width="8" height="41" rx="3" fill="#f2b33d"/>
+  <path d="M28 19h8M28 30h11M28 41h8M12 52h40" stroke="#eef3ef" stroke-width="3.2" stroke-linecap="round"/>
+</svg>

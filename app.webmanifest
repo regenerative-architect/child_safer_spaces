@@ -1,0 +1,19 @@
+{
+  "name": "Child-Safer Spaces",
+  "short_name": "Child-Safer",
+  "description": "Offline planning kit for safer floors, carts and fixtures in places children visit.",
+  "lang": "en",
+  "start_url": "./index.html#/discover",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf1ee",
+  "theme_color": "#183b37",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

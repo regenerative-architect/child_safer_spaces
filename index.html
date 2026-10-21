@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- Network lock: this page may load only its own local files and may not connect anywhere.
+     manifest-src and the service worker (script-src 'self') are used only when the folder is served from a secure web address. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' file:; style-src 'self' file: 'unsafe-inline'; img-src 'self' file: data: blob:; manifest-src 'self'; connect-src 'none'; form-action 'none'; base-uri 'none'; object-src 'none'; frame-src 'none'">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="Child-Safer Spaces: a free, offline planning kit for reducing slips, trips, falls and fixture-impact injuries in shops and public buildings children visit.">
+<meta name="theme-color" content="#183b37">
+<title>Child-Safer Spaces 4.0</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<!-- Left: navigation tree, grouped by the six journey stages. A drawer on small screens. -->
+<aside id="sidebar" class="sidebar" aria-label="Workspace navigation">
+  <div class="brand">
+    <svg class="mark" viewBox="0 0 40 40" aria-hidden="true" focusable="false"><rect width="40" height="40" rx="9" fill="#0f2a26"/><rect x="9" y="7" width="5" height="26" rx="2" fill="#f2b33d"/><path d="M17 12h5M17 19h7M17 26h5M8 33h25" stroke="#e7efe9" stroke-width="2.2" stroke-linecap="round"/></svg>
+    <div><span class="brandname">Child-Safer Spaces</span><span class="edition">Version 4.0, global edition</span></div>
+  </div>
+  <nav aria-label="Workspace sections" id="nav"></nav>
+  <!-- On phones the top bar is short; these two controls live here instead. -->
+  <div class="sideactions"><button type="button" id="modebtn2" aria-pressed="false">Show full workspace</button><button type="button" id="ctxbtn2" aria-controls="context">About this view</button></div>
+  <p class="asidefoot">Offline planning kit. No accounts, no network, no approvals.</p>
+</aside>
+
+<!-- Right: "About this view" — layered explanations for whatever is on screen. -->
+<aside id="context" class="context" aria-labelledby="ctx-title"></aside>
+<div id="scrim" class="scrim" aria-hidden="true"></div>
+
+<div class="page">
+  <!-- Top bar: where you are, search, the essentials/full switch, the explanation panel and settings. -->
+  <header class="topbar" id="topbar">
+    <button type="button" id="menubtn" class="iconbtn menubtn" aria-controls="sidebar" aria-expanded="false">Menu</button>
+    <div class="crumbs"><span id="crumb">Discover</span><span id="workspace-name"></span></div>
+    <div class="topactions">
+      <button type="button" id="searchbtn" aria-haspopup="dialog" aria-keyshortcuts="Control+K Meta+K /">Search <kbd>Ctrl K</kbd></button>
+      <button type="button" id="modebtn" aria-pressed="false">Show full workspace</button>
+      <button type="button" id="ctxbtn" aria-controls="context" aria-expanded="false">About this view</button>
+      <button type="button" id="settingsbtn" aria-haspopup="dialog">Settings</button>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <div id="banner" hidden></div>
+    <div id="status" role="status" aria-live="polite"></div>
+    <section id="importpanel" hidden aria-label="Backup review"></section>
+    <section id="view">
+      <!-- Replaced as soon as the workspace scripts run. If it stays, the scripts did not load. -->
+      <div class="notice warning" id="noscript-notice">
+        <p><strong>The workspace scripts have not loaded.</strong> If this message stays visible, open <code>standalone.html</code> from the same folder, make sure the whole ZIP was extracted, or read README.md. The documents are also available as files in the <code>documents</code> folder and in <code>handbook.html</code>, which works without scripts.</p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Bottom: where your work is kept, and the data actions next to it. -->
+  <div class="statusbar" id="statusbar" role="region" aria-label="Workspace status and data actions">
+    <span id="storage" class="storage" data-state="pending">Checking storage…</span>
+    <span id="engine" class="sbitem">Checking…</span>
+    <button id="undo" type="button" disabled>Undo last change</button>
+    <button id="export" type="button">Export backup</button>
+    <button id="importbutton" type="button">Import backup…</button>
+    <input id="import" type="file" accept=".json,application/json" aria-label="Choose a planning backup file" hidden>
+    <span id="net" class="sbitem" title="A content-security policy in this page blocks every network connection.">No network</span>
+    <span id="offline" class="sbitem">Checking offline use…</span>
+  </div>
+
+  <footer class="sitefoot">
+    <p>Version 4.0, global edition, 20 October 2026. A general framework with U.S. and Canadian worked examples and a global adaptation layer. Draft materials for organizational adoption: no permit, signature, certification, partnership, endorsement or injury benefit is implied. Credits and licences: <a href="#/about">About, credits &amp; licences</a>.</p>
+    <div class="zeroharm"><strong>Zero Harm &amp; Anti-Coercion.</strong> This workspace exists to prevent injury and widen access. Do not use it to blame or surveil caregivers, children, workers or disabled visitors, to pressure anyone into taking part, or to hide unfavourable findings. Participation is voluntary and every change should be reversible. It makes no network connections and has no tracking or analytics: your planning data stays in this browser until you export it, and you can inspect and erase it under "Your data". Display settings are kept separately and can be reset at any time.</div>
+  </footer>
+</div>
+
+<!-- Search across the whole workspace (Ctrl K, Cmd K or "/"). Results are links; nothing runs from here. -->
+<dialog id="searchdlg" class="dialog" aria-labelledby="searchtitle">
+  <div class="dlghead"><h2 id="searchtitle">Search the workspace</h2><button type="button" id="searchclose" class="iconbtn">Close<span class="visually-hidden"> search</span></button></div>
+  <label for="searchq">Words to find<input type="search" id="searchq" autocomplete="off" placeholder="e.g. spill, translation, gate G2" aria-describedby="searchcount"></label>
+  <p id="searchcount" class="muted" role="status"></p>
+  <ul id="searchresults" class="results" aria-label="Search results"></ul>
+</dialog>
+
+<!-- Display settings. Stored in this browser only; never contains planning data. -->
+<dialog id="settingsdlg" class="dialog" aria-labelledby="settingstitle">
+  <div class="dlghead"><h2 id="settingstitle">Settings</h2><button type="button" id="settingsclose" class="iconbtn">Close<span class="visually-hidden"> settings</span></button></div>
+  <form id="settingsform" class="settings">
+    <fieldset><legend>Colour theme</legend>
+      <label class="choice"><input type="radio" name="set-theme" value="system"><span>Follow this device</span></label>
+      <label class="choice"><input type="radio" name="set-theme" value="light"><span>Light</span></label>
+      <label class="choice"><input type="radio" name="set-theme" value="dark"><span>Dark</span></label></fieldset>
+    <fieldset><legend>Text size</legend>
+      <label class="choice"><input type="radio" name="set-text" value="100"><span>Standard</span></label>
+      <label class="choice"><input type="radio" name="set-text" value="112"><span>Large</span></label>
+      <label class="choice"><input type="radio" name="set-text" value="125"><span>Larger</span></label>
+      <label class="choice"><input type="radio" name="set-text" value="150"><span>Largest</span></label></fieldset>
+    <fieldset><legend>Contrast</legend>
+      <label class="choice"><input type="radio" name="set-contrast" value="standard"><span>Standard</span></label>
+      <label class="choice"><input type="radio" name="set-contrast" value="more"><span>More contrast, solid surfaces</span></label></fieldset>
+    <fieldset><legend>Motion</legend>
+      <label class="choice"><input type="radio" name="set-motion" value="system"><span>Follow this device</span></label>
+      <label class="choice"><input type="radio" name="set-motion" value="reduce"><span>Reduce motion</span></label></fieldset>
+    <fieldset><legend>Background scene on Discover</legend>
+      <label class="choice"><input type="radio" name="set-atmosphere" value="auto"><span>Moving, when the device allows it</span></label>
+      <label class="choice"><input type="radio" name="set-atmosphere" value="still"><span>Still image</span></label>
+      <label class="choice"><input type="radio" name="set-atmosphere" value="off"><span>Off</span></label></fieldset>
+    <fieldset><legend>Surfaces</legend>
+      <label class="choice"><input type="radio" name="set-surfaces" value="glass"><span>Frosted glass</span></label>
+      <label class="choice"><input type="radio" name="set-surfaces" value="solid"><span>Solid</span></label></fieldset>
+    <fieldset><legend>Navigation</legend>
+      <label class="choice"><input type="radio" name="set-mode" value="essentials"><span>Essentials only</span></label>
+      <label class="choice"><input type="radio" name="set-mode" value="full"><span>Full workspace</span></label></fieldset>
+  </form>
+  <p id="settingsnote" class="muted" role="status"></p>
+  <p class="muted">Settings are stored in this browser's local storage under <code>child-safer-spaces-settings</code>. They contain no planning data.</p>
+  <div class="toolbar"><button type="button" id="settingsreset">Reset settings</button></div>
+</dialog>
+
+<div id="printarea"></div>
+<script src="data.js"></script>
+<script src="core.js"></script>
+<script src="store.js"></script>
+<script src="atmosphere.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

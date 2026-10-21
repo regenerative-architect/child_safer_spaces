@@ -1,0 +1,516 @@
+{
+  "name": "Child-Safer Spaces",
+  "version": "4.0",
+  "issued": "2026-10-20",
+  "sourcesChecked": "2026-10-19 to 2026-10-20",
+  "stateSchema": 3,
+  "backupFormat": {
+    "format": "child-safer-spaces",
+    "version": 3,
+    "reads": [
+      1,
+      2,
+      3
+    ]
+  },
+  "documents": [
+    {
+      "id": "01",
+      "title": "Prompt audit and final master prompt",
+      "role": "All",
+      "file": "documents/01.md",
+      "generated": false,
+      "hash": "0a03e19d5b12da"
+    },
+    {
+      "id": "02",
+      "title": "Program decision and executive brief",
+      "role": "Business",
+      "file": "documents/02.md",
+      "generated": false,
+      "hash": "1c24f2142b1262"
+    },
+    {
+      "id": "03",
+      "title": "Sequence, ownership and first-day plan",
+      "role": "All",
+      "file": "documents/03.md",
+      "generated": false,
+      "hash": "0dfa50e575a348"
+    },
+    {
+      "id": "04",
+      "title": "Evidence and hazard map",
+      "role": "Research",
+      "file": "documents/04.md",
+      "generated": false,
+      "hash": "1baa181665318d"
+    },
+    {
+      "id": "05",
+      "title": "Stakeholder appeal and adoption strategy",
+      "role": "All",
+      "file": "documents/05.md",
+      "generated": false,
+      "hash": "1ad8313aaed1e4"
+    },
+    {
+      "id": "06",
+      "title": "Jurisdiction and obligation register",
+      "role": "Government",
+      "file": "documents/06.md",
+      "generated": false,
+      "hash": "16f1e5cbe1b774"
+    },
+    {
+      "id": "07",
+      "title": "Authority consultation and approval request",
+      "role": "Government",
+      "file": "documents/07.md",
+      "generated": false,
+      "hash": "105a3dc095ed9e"
+    },
+    {
+      "id": "08",
+      "title": "Performance specification and acceptance schedule",
+      "role": "Supplier",
+      "file": "documents/08.md",
+      "generated": false,
+      "hash": "121a40b218c568"
+    },
+    {
+      "id": "09",
+      "title": "Supplier RFI, bid comparison and purchase terms",
+      "role": "Supplier",
+      "file": "documents/09.md",
+      "generated": false,
+      "hash": "1e2f9f8ccf7601"
+    },
+    {
+      "id": "10",
+      "title": "Pilot charter and operating agreement",
+      "role": "Business",
+      "file": "documents/10.md",
+      "generated": false,
+      "hash": "07aa7502e6274b"
+    },
+    {
+      "id": "11",
+      "title": "Installation and commissioning checklist",
+      "role": "Operations",
+      "file": "documents/11.md",
+      "generated": false,
+      "hash": "1f36f5f44ce60c"
+    },
+    {
+      "id": "12",
+      "title": "Daily inspection, cleaning and spill response SOP",
+      "role": "Operations",
+      "file": "documents/12.md",
+      "generated": false,
+      "hash": "1e92cb15f0cfd1"
+    },
+    {
+      "id": "13",
+      "title": "Staff training and competency record",
+      "role": "Operations",
+      "file": "documents/13.md",
+      "generated": false,
+      "hash": "0c1b57614e7613"
+    },
+    {
+      "id": "14",
+      "title": "Incident, stop, removal and restart protocol",
+      "role": "Operations",
+      "file": "documents/14.md",
+      "generated": false,
+      "hash": "1989813ef233ed"
+    },
+    {
+      "id": "15",
+      "title": "Pilot evaluation protocol",
+      "role": "Research",
+      "file": "documents/15.md",
+      "generated": false,
+      "hash": "15802c9f02c96a"
+    },
+    {
+      "id": "16",
+      "title": "Data dictionary and reporting specification",
+      "role": "Research",
+      "file": "documents/16.md",
+      "generated": false,
+      "hash": "0fb97e721a7b44"
+    },
+    {
+      "id": "17",
+      "title": "Business case and financial model",
+      "role": "Business",
+      "file": "documents/17.md",
+      "generated": false,
+      "hash": "100e84b45f8b88"
+    },
+    {
+      "id": "18",
+      "title": "Privacy, records and information governance",
+      "role": "All",
+      "file": "documents/18.md",
+      "generated": false,
+      "hash": "07bd63379905b4"
+    },
+    {
+      "id": "19",
+      "title": "Insurer and broker review package",
+      "role": "Insurance",
+      "file": "documents/19.md",
+      "generated": false,
+      "hash": "0911bd5830cdae"
+    },
+    {
+      "id": "20",
+      "title": "Government and public-health proposal",
+      "role": "Government",
+      "file": "documents/20.md",
+      "generated": false,
+      "hash": "0f60db0e1227af"
+    },
+    {
+      "id": "21",
+      "title": "Manufacturer, laboratory and installer work order",
+      "role": "Supplier",
+      "file": "documents/21.md",
+      "generated": false,
+      "hash": "0b2758979529b0"
+    },
+    {
+      "id": "22",
+      "title": "Landlord, tenant and cleaning responsibility schedule",
+      "role": "Property",
+      "file": "documents/22.md",
+      "generated": false,
+      "hash": "1980566ce06325"
+    },
+    {
+      "id": "23",
+      "title": "Public explanation and communications kit",
+      "role": "Public",
+      "file": "documents/23.md",
+      "generated": false,
+      "hash": "186598f3bb38f9"
+    },
+    {
+      "id": "24",
+      "title": "Adult stakeholder interview and feedback forms",
+      "role": "Public",
+      "file": "documents/24.md",
+      "generated": false,
+      "hash": "0c947961dd98a6"
+    },
+    {
+      "id": "25",
+      "title": "Scale, pause or stop decision memo",
+      "role": "Business",
+      "file": "documents/25.md",
+      "generated": false,
+      "hash": "1916ba74ec67cc"
+    },
+    {
+      "id": "26",
+      "title": "Repository, document control and bundle guide",
+      "role": "All",
+      "file": "documents/26.md",
+      "generated": false,
+      "hash": "09b4c771dbdbba"
+    },
+    {
+      "id": "27",
+      "title": "Intervention comparison and selection library",
+      "role": "Business",
+      "file": "documents/27.md",
+      "generated": false,
+      "hash": "14c0b0db9549cf"
+    },
+    {
+      "id": "28",
+      "title": "Site assessment and exposure-mapping workbook",
+      "role": "Operations",
+      "file": "documents/28.md",
+      "generated": false,
+      "hash": "1262b0cfed3970"
+    },
+    {
+      "id": "29",
+      "title": "Verification test plan and laboratory acceptance form",
+      "role": "Supplier",
+      "file": "documents/29.md",
+      "generated": false,
+      "hash": "1222f0d58efb23"
+    },
+    {
+      "id": "30",
+      "title": "Inclusive access and worker-ergonomics review",
+      "role": "Operations",
+      "file": "documents/30.md",
+      "generated": false,
+      "hash": "1ac397848bb8f6"
+    },
+    {
+      "id": "31",
+      "title": "Fire, hygiene and materials coordination brief",
+      "role": "Supplier",
+      "file": "documents/31.md",
+      "generated": false,
+      "hash": "017af9c2ec9779"
+    },
+    {
+      "id": "32",
+      "title": "Evidence register and commissioned research protocol",
+      "role": "Research",
+      "file": "documents/32.md",
+      "generated": false,
+      "hash": "13d345ed0fef1c"
+    },
+    {
+      "id": "33",
+      "title": "U.S. localization pathway with California example",
+      "role": "Government",
+      "file": "documents/33.md",
+      "generated": false,
+      "hash": "068dbf041e73e1"
+    },
+    {
+      "id": "34",
+      "title": "Canada localization pathway with Ontario example",
+      "role": "Government",
+      "file": "documents/34.md",
+      "generated": false,
+      "hash": "02492e67082187"
+    },
+    {
+      "id": "35",
+      "title": "Statistical analysis and feasibility planning appendix",
+      "role": "Research",
+      "file": "documents/35.md",
+      "generated": false,
+      "hash": "1fa57bf1cf9995"
+    },
+    {
+      "id": "36",
+      "title": "Delivery work breakdown and 90-day operating calendar",
+      "role": "Operations",
+      "file": "documents/36.md",
+      "generated": false,
+      "hash": "1fcbf4af3f0ca7"
+    },
+    {
+      "id": "37",
+      "title": "Funding, incentives and commercial adoption pathways",
+      "role": "Business",
+      "file": "documents/37.md",
+      "generated": false,
+      "hash": "1660203a368d0f"
+    },
+    {
+      "id": "38",
+      "title": "Coalition governance and independent assurance charter",
+      "role": "All",
+      "file": "documents/38.md",
+      "generated": false,
+      "hash": "0275c51d04c245"
+    },
+    {
+      "id": "39",
+      "title": "Ready-to-adapt procurement statement of work",
+      "role": "Supplier",
+      "file": "documents/39.md",
+      "generated": false,
+      "hash": "054e163762d2af"
+    },
+    {
+      "id": "40",
+      "title": "Audit, corrective action and effectiveness verification",
+      "role": "Operations",
+      "file": "documents/40.md",
+      "generated": false,
+      "hash": "1ff81a21f22615"
+    },
+    {
+      "id": "41",
+      "title": "Worked fictional example and completed sample records",
+      "role": "All",
+      "file": "documents/41.md",
+      "generated": false,
+      "hash": "12e4fc2eaa4e65"
+    },
+    {
+      "id": "42",
+      "title": "Outreach sequence and ready-to-adapt messages",
+      "role": "All",
+      "file": "documents/42.md",
+      "generated": false,
+      "hash": "1dddf71866811c"
+    },
+    {
+      "id": "43",
+      "title": "Ethics determination and data-sharing agreement outline",
+      "role": "Research",
+      "file": "documents/43.md",
+      "generated": false,
+      "hash": "171439014fd6f1"
+    },
+    {
+      "id": "44",
+      "title": "Year-by-year economics and scenario interpretation",
+      "role": "Business",
+      "file": "documents/44.md",
+      "generated": false,
+      "hash": "1a85cda1d64f4f"
+    },
+    {
+      "id": "45",
+      "title": "Master-prompt coverage and acceptance matrix",
+      "role": "All",
+      "file": "documents/45.md",
+      "generated": false,
+      "hash": "1b051103d7a197"
+    },
+    {
+      "id": "46",
+      "title": "Entity playbooks and first deliverables",
+      "role": "All",
+      "file": "documents/46.md",
+      "generated": false,
+      "hash": "124e437d0f2cf0"
+    },
+    {
+      "id": "47",
+      "title": "Operational job aids and scenario exercises",
+      "role": "Operations",
+      "file": "documents/47.md",
+      "generated": false,
+      "hash": "09d2858630c0a2"
+    },
+    {
+      "id": "48",
+      "title": "Launch dossier and go/no-go review agenda",
+      "role": "Business",
+      "file": "documents/48.md",
+      "generated": false,
+      "hash": "1e4516a37d0e52"
+    },
+    {
+      "id": "49",
+      "title": "Workflow cards and decision rights",
+      "role": "All",
+      "file": "documents/49.md",
+      "generated": true,
+      "hash": "13b2b83a3b1ec8"
+    },
+    {
+      "id": "50",
+      "title": "Two-page brief for officials",
+      "role": "Government",
+      "file": "documents/50.md",
+      "generated": false,
+      "hash": "0abdb7a94c0a79"
+    },
+    {
+      "id": "51",
+      "title": "Note de deux pages pour les responsables publics (traduction provisoire)",
+      "role": "Government",
+      "file": "documents/51.md",
+      "generated": false,
+      "hash": "06fc2ce0074a7c"
+    },
+    {
+      "id": "52",
+      "title": "Nota de dos páginas para autoridades (traducción provisional)",
+      "role": "Government",
+      "file": "documents/52.md",
+      "generated": false,
+      "hash": "0493729d72b4a0"
+    },
+    {
+      "id": "53",
+      "title": "Country and organization adaptation kit",
+      "role": "Government",
+      "file": "documents/53.md",
+      "generated": false,
+      "hash": "12a01070ea00e7"
+    },
+    {
+      "id": "54",
+      "title": "From one site to many — deployment pathway and ways to help",
+      "role": "All",
+      "file": "documents/54.md",
+      "generated": false,
+      "hash": "1d4507be42cdf5"
+    },
+    {
+      "id": "55",
+      "title": "Glossary",
+      "role": "All",
+      "file": "documents/55.md",
+      "generated": true,
+      "hash": "13ad8eed770dd0"
+    }
+  ],
+  "registers": [
+    "hazards",
+    "actions",
+    "jurisdiction",
+    "product_acceptance",
+    "inspection",
+    "spill_response",
+    "aggregate_outcomes",
+    "assets",
+    "budget",
+    "stakeholder_feedback",
+    "training",
+    "decisions",
+    "standards",
+    "change_control",
+    "evidence",
+    "test_plan",
+    "audit_findings",
+    "funding",
+    "consultation",
+    "site_profile",
+    "commissioning",
+    "publication_claims",
+    "handoffs",
+    "software_acceptance"
+  ],
+  "routes": [
+    "discover",
+    "start",
+    "brief",
+    "glossary",
+    "library",
+    "evidence",
+    "sources",
+    "workflows",
+    "pathway",
+    "plan",
+    "gates",
+    "registers",
+    "calculator",
+    "evaluation",
+    "adapt",
+    "data",
+    "about"
+  ],
+  "counts": {
+    "documents": 55,
+    "registers": 24,
+    "sources": 56,
+    "evidence": 39,
+    "tasks": 35,
+    "gates": 7,
+    "workflows": 16,
+    "rolePacks": 8,
+    "glossary": 32,
+    "routes": 17,
+    "startRules": 25
+  }
+}
