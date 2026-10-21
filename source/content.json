@@ -1,0 +1,4926 @@
+{
+ "title": "Child-Safer Spaces",
+ "version": "4.0",
+ "issued": "2026-10-20",
+ "sourcesChecked": "2026-10-19 to 2026-10-20",
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Guide to the ADA Standards, Chapter 3: Floor and ground surfaces",
+   "publisher": "U.S. Access Board",
+   "url": "https://www.access-board.gov/ada/guides/chapter-3-floor-and-ground-surfaces/",
+   "jurisdiction": "United States (ADA Titles II and III)",
+   "type": "Federal agency guidance",
+   "edition": "Online guide (page undated)",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Explains §§302–303: accessible floor surfaces must be stable, firm and slip resistant; the standards do not specify a minimum level of slip resistance; thick, cushioned or loose carpet impairs accessibility.",
+   "limits": "Guidance, not the enforceable text (see S28 and S30). U.S. only. Does not decide whether a site or element is covered."
+  },
+  {
+   "id": "S2",
+   "title": "Slips and trips in retail",
+   "publisher": "Health and Safety Executive (Great Britain)",
+   "url": "https://www.hse.gov.uk/retail/slips-and-trips.htm",
+   "jurisdiction": "Great Britain",
+   "type": "Regulator guidance",
+   "edition": "Page updated 2026-01-15",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Slips and trips are the single most common cause of major injury in retail; contamination is implicated in almost all slip accidents; signs and cones only warn and do not stop people entering — use barriers, close doors or clean in sections; damp mopped smooth floors are very slippery.",
+   "limits": "British law and workplace context; used here only as operational practice, not as U.S. or Canadian law. No effect sizes."
+  },
+  {
+   "id": "S3",
+   "title": "29 CFR 1910.22 Walking-working surfaces: general requirements",
+   "publisher": "U.S. Occupational Safety and Health Administration",
+   "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.22",
+   "jurisdiction": "United States (federal OSHA; state plans may differ)",
+   "type": "Regulation",
+   "edition": "Current text displayed by OSHA",
+   "retrieved": "2026-10-20",
+   "access": "Paragraphs (a) and (d) read",
+   "scope": "Walking-working surfaces kept clean, orderly and, to the extent feasible, dry; free of hazards such as leaks and spills; inspected regularly and as necessary; hazards corrected or guarded before employees use the surface again. No numerical coefficient of friction.",
+   "limits": "Protects employees, not customers. State-plan rules may be stricter."
+  },
+  {
+   "id": "S4",
+   "title": "FDA Food Code (landing page)",
+   "publisher": "U.S. Food and Drug Administration",
+   "url": "https://www.fda.gov/food/retail-food-protection/fda-food-code",
+   "jurisdiction": "United States (model code adopted by states, localities, tribes and territories)",
+   "type": "Model code",
+   "edition": "2026 edition is the most recent full edition (page current as of 2026-09-17)",
+   "retrieved": "2026-10-20",
+   "access": "Landing page read; Chapter 6 text not audited",
+   "scope": "Regulators use the Food Code as a model for their own food-safety rules.",
+   "limits": "Not law until adopted; adopted editions and amendments vary. Floor-surface provisions must be confirmed in the locally adopted text."
+  },
+  {
+   "id": "S5",
+   "title": "Codes Canada frequently asked questions (archived)",
+   "publisher": "National Research Council Canada",
+   "url": "https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-frequently-asked-questions",
+   "jurisdiction": "Canada",
+   "type": "Federal agency FAQ (archived)",
+   "edition": "Archived page",
+   "retrieved": "2026-10-19 (v2 check; not re-checked)",
+   "access": "Read in v2",
+   "scope": "Historical explanation of how national model codes are adopted.",
+   "limits": "Historical; not a current register of provincial or territorial adoption."
+  },
+  {
+   "id": "S6",
+   "title": "Codes Canada publications",
+   "publisher": "National Research Council Canada",
+   "url": "https://nrc.canada.ca/en/certifications-evaluations-standards/codes-canada/codes-canada-publications",
+   "jurisdiction": "Canada",
+   "type": "Publication list",
+   "edition": "Lists 2025 national model codes (page modified 2025-12-22)",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Lists the 2025 National Building, Fire, Plumbing and Energy codes first; directs readers to provincial or territorial officials to find which codes apply.",
+   "limits": "Publication is not adoption; provinces and territories adopt, amend or replace model codes."
+  },
+  {
+   "id": "S7",
+   "title": "ASTM F1292-26 Impact attenuation of surfacing materials within the use zone of playground equipment (public scope)",
+   "publisher": "ASTM International",
+   "url": "https://store.astm.org/f1292-26.html",
+   "jurisdiction": "Voluntary consensus standard",
+   "type": "Standard — public scope page",
+   "edition": "F1292-26, active (page updated 2026-09-14)",
+   "retrieved": "2026-10-20",
+   "access": "Public scope only; licensed text not audited",
+   "scope": "Playground surfacing in the use zone of playground equipment; laboratory critical height or drop-height performance using g-max and HIC; laboratory results do not account for aging, moisture, maintenance or compaction; specific to the risk of head injury, with limited evidence for other serious injuries such as long-bone fractures.",
+   "limits": "Not a retail floor or fixture method; cannot certify retail safety."
+  },
+  {
+   "id": "S8",
+   "title": "Mackey DC et al. (2019) FLIP randomized trial of compliant flooring in long-term care. PLoS Medicine 16(6): e1002843",
+   "publisher": "PLoS Medicine (peer reviewed)",
+   "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002843",
+   "jurisdiction": "Canada (single long-term care site)",
+   "type": "Randomized controlled trial",
+   "edition": "Published 2019",
+   "retrieved": "2026-10-20",
+   "access": "Abstract and results text read",
+   "scope": "150 rooms randomized; 2.54 cm compliant underlay beneath vinyl versus plywood. Serious fall-related injury rate ratio 1.04 (95% CI 0.45–2.39); falls rate ratio 1.21 (0.87–1.68), i.e. a non-significant point estimate of more falls; adverse outcomes were not assessed.",
+   "limits": "Older adults in long-term care; one product and assembly. Low transferability to children in retail."
+  },
+  {
+   "id": "S9",
+   "title": "Slip, trip and fall prevention (risk control services)",
+   "publisher": "Travelers (insurer)",
+   "url": "https://www.travelers.com/risk-control/specialties/slips-trips-falls-prevention",
+   "jurisdiction": "U.S. commercial insurer",
+   "type": "Insurer service description",
+   "edition": "Page undated",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Risk-control consultants analyze past loss history, evaluate walking surfaces, premises use and maintenance, and can measure wet and dry slip resistance.",
+   "limits": "One company's service description; no premium discount or endorsement is stated or implied."
+  },
+  {
+   "id": "S10",
+   "title": "ASTM F2508-23 Validation of walkway tribometry using research-based reference materials (public scope)",
+   "publisher": "ASTM International",
+   "url": "https://store.astm.org/standards/f2508",
+   "jurisdiction": "Voluntary consensus standard",
+   "type": "Standard — public scope page",
+   "edition": "F2508-23, active (page updated 2024-07-26)",
+   "retrieved": "2026-10-20",
+   "access": "Public scope only; licensed text not audited",
+   "scope": "Procedure for validating walkway tribometers against reference materials ranked by human subjects; explicitly not intended to establish a \"safe\" threshold for any walkway surface.",
+   "limits": "Validation practice only; does not convert readings into injury risk."
+  },
+  {
+   "id": "S11",
+   "title": "ASTM E648-25a Critical radiant flux of floor-covering systems using a radiant heat energy source (public scope)",
+   "publisher": "ASTM International",
+   "url": "https://store.astm.org/e0648-25a.html",
+   "jurisdiction": "Voluntary consensus standard (adopted by reference in some codes)",
+   "type": "Standard — public scope page",
+   "edition": "E648-25a, active (page updated 2025-12-17)",
+   "retrieved": "2026-10-20",
+   "access": "Public scope only; licensed text not audited",
+   "scope": "Measures critical radiant flux of horizontally mounted floor-covering systems; developed for corridors and exitways; not intended for routine estimation of flame spread elsewhere; does not by itself incorporate the factors needed for fire-hazard assessment.",
+   "limits": "Corrected in v3: version 2 cited an ASTM work-item page (WK95872) that does not name this standard. The required edition and class come from the adopted code and location."
+  },
+  {
+   "id": "S12",
+   "title": "Flammable Fabrics Act business guidance (carpets and rugs, 16 CFR 1630/1631)",
+   "publisher": "U.S. Consumer Product Safety Commission",
+   "url": "https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Flammable-Fabrics-Act",
+   "jurisdiction": "United States",
+   "type": "Federal agency guidance",
+   "edition": "Page undated",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Parts 1630 and 1631 provide surface-flammability tests for large and small carpets and rugs exposed to a small ignition source; certificates of compliance are required.",
+   "limits": "Applies to carpets and rugs as defined; does not classify every resilient mat, foam tile or fixture padding."
+  },
+  {
+   "id": "S13",
+   "title": "PIPEDA fair information principle 4: Limiting collection",
+   "publisher": "Office of the Privacy Commissioner of Canada",
+   "url": "https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/principles/p_collection/",
+   "jurisdiction": "Canada (where PIPEDA applies)",
+   "type": "Regulator guidance",
+   "edition": "Page modified 2020-08-13",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Collect only the personal information needed for a legitimate identified purpose, by fair and lawful means.",
+   "limits": "Not a determination of which privacy law applies (provincial laws may apply instead)."
+  },
+  {
+   "id": "S14",
+   "title": "ADA Update: A Primer for Small Business",
+   "publisher": "U.S. Department of Justice",
+   "url": "https://www.ada.gov/resources/title-iii-primer/",
+   "jurisdiction": "United States (ADA Title III)",
+   "type": "Federal agency guidance",
+   "edition": "Page last updated 2020-02-28",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Readily achievable barrier removal in existing facilities is a continuing duty; alterations must be accessible to the maximum extent feasible; temporary access interruptions must be remedied as soon as possible, and businesses should retrieve merchandise for customers who cannot get through a blocked aisle.",
+   "limits": "Guidance; does not decide a specific project."
+  },
+  {
+   "id": "S15",
+   "title": "Prevention of slips, trips and falls",
+   "publisher": "Canadian Centre for Occupational Health and Safety",
+   "url": "https://www.ccohs.ca/oshanswers/safety_haz/falls.html",
+   "jurisdiction": "Canada",
+   "type": "Federal agency guidance",
+   "edition": "Fact sheet last revised 2023-03-28",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Good housekeeping is the first and most important level of prevention; clean spills immediately; secure mats, rugs and carpets that do not lie flat.",
+   "limits": "Good practice; does not state provincial or territorial legal requirements."
+  },
+  {
+   "id": "S16",
+   "title": "California Code of Regulations, Title 8, section 3273 (\"Working Area\")",
+   "publisher": "California Department of Industrial Relations",
+   "url": "https://www.dir.ca.gov/title8/3273.html",
+   "jurisdiction": "California (workplaces)",
+   "type": "Regulation",
+   "edition": "Latest listed amendment operative 2017-04-01",
+   "retrieved": "2026-10-20",
+   "access": "Full section read",
+   "scope": "Permanent floors and platforms free of dangerous projections or obstructions, maintained in good repair and reasonably free of oil, grease or water; slippery work surfaces protected with mats, grates, cleats or equivalent.",
+   "limits": "Worker protection; not a statement of duties to customers."
+  },
+  {
+   "id": "S17",
+   "title": "Information Bulletin 25-01: 2025 California Building Standards Code effective date",
+   "publisher": "California Building Standards Commission",
+   "url": "https://www.dgs.ca.gov/-/media/Divisions/BSC/06-News/Information-Bulletins/2025/BSC-Bulletin-25-01-FINAL.pdf",
+   "jurisdiction": "California",
+   "type": "State agency bulletin",
+   "edition": "Dated 2025-07-01",
+   "retrieved": "2026-10-20",
+   "access": "Full bulletin read (direct retrieval)",
+   "scope": "1 January 2026 is the statewide effective date; permit applications submitted on or after that date comply with the 2025 code; the 2022 code remains for applications received by 31 December 2025; local amendments must be ratified and filed for each edition.",
+   "limits": "Does not determine a specific project, local amendments or existing-building provisions."
+  },
+  {
+   "id": "S18",
+   "title": "Accessibility in Ontario's Building Code",
+   "publisher": "Government of Ontario",
+   "url": "https://www.ontario.ca/page/accessibility-ontarios-building-code",
+   "jurisdiction": "Ontario",
+   "type": "Provincial government guidance",
+   "edition": "Page updated 2025-03-24",
+   "retrieved": "2026-10-20",
+   "access": "Full page read (direct retrieval; v2 had only a search extract)",
+   "scope": "The 2024 Building Code defines accessibility requirements for most new construction and extensive renovations; existing buildings are not affected unless an extensive renovation is planned; the code works together with the Design of Public Spaces standard.",
+   "limits": "Guidance page; verify the regulation text, amendments and transition provisions."
+  },
+  {
+   "id": "S19",
+   "title": "National Electronic Injury Surveillance System (NEISS)",
+   "publisher": "U.S. Consumer Product Safety Commission",
+   "url": "https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data",
+   "jurisdiction": "United States",
+   "type": "Surveillance system description",
+   "edition": "Page undated",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Nationally representative probability sample of hospital emergency departments reporting consumer-product-related visits; national estimates from the sample.",
+   "limits": "Product-associated ED visits only; no store-visit denominators; product codes do not cover every scenario."
+  },
+  {
+   "id": "S20",
+   "title": "Canadian Hospitals Injury Reporting and Prevention Program (CHIRPP)",
+   "publisher": "Public Health Agency of Canada",
+   "url": "https://www.canada.ca/en/public-health/services/injury-prevention/canadian-hospitals-injury-reporting-prevention-program.html",
+   "jurisdiction": "Canada",
+   "type": "Surveillance system description",
+   "edition": "Page modified 2026-03-02",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Emergency-department injury surveillance at 20 sites (11 paediatric, 9 general); records what the person was doing, what went wrong and where the injury occurred.",
+   "limits": "Not representative of all injuries in Canada; urban paediatric hospitals over-represented; fatal injuries under-represented."
+  },
+  {
+   "id": "S21",
+   "title": "Quality improvement activities FAQs",
+   "publisher": "U.S. HHS Office for Human Research Protections",
+   "url": "https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/quality-improvement-activities/index.html",
+   "jurisdiction": "United States (HHS-regulated research)",
+   "type": "Federal agency guidance",
+   "edition": "Undated; issued before the 2018 Requirements took effect",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Most quality-improvement efforts are not research subject to the HHS regulations; some are; intent to publish is an insufficient criterion for deciding.",
+   "limits": "Pre-2018 guidance; does not say who makes the determination; institutional policies apply."
+  },
+  {
+   "id": "S22",
+   "title": "TCPS 2 (2022), Chapter 2: Scope and approach",
+   "publisher": "Panel on Research Ethics (Government of Canada)",
+   "url": "https://ethics.gc.ca/eng/tcps2-eptc2_2022_chapter2-chapitre2.html",
+   "jurisdiction": "Canada (institutions bound by TCPS 2)",
+   "type": "Research-ethics policy",
+   "edition": "TCPS 2 (2022), issued 2023-01-11; current edition per the policy page",
+   "retrieved": "2026-10-20",
+   "access": "Chapter read",
+   "scope": "Article 2.1 defines research; Article 2.5: quality assurance/improvement, program evaluation and performance reviews are not research under the policy; pilot studies fall within the definition of research requiring REB review.",
+   "limits": "Applies where the policy binds the institution; institutional REB decides."
+  },
+  {
+   "id": "S23",
+   "title": "Tax benefits for businesses who have employees with disabilities",
+   "publisher": "U.S. Internal Revenue Service",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/tax-benefits-for-businesses-who-have-employees-with-disabilities",
+   "jurisdiction": "United States (federal tax)",
+   "type": "Federal agency guidance",
+   "edition": "Page reviewed 2026-06-30",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Disabled Access Credit (Form 8826) for small businesses that earned $1 million or less or had no more than 30 full-time employees in the previous year; barrier-removal deduction of up to $15,000 a year for qualified expenses removing architectural and transportation barriers.",
+   "limits": "No determination that this program or any flooring or padding expense qualifies."
+  },
+  {
+   "id": "S24",
+   "title": "Guide to the ADA Standards, Chapter 3: Protruding objects",
+   "publisher": "U.S. Access Board",
+   "url": "https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/",
+   "jurisdiction": "United States",
+   "type": "Federal agency guidance",
+   "edition": "Online guide (page undated)",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Objects with leading edges above the 27 in cane-detection height and below 80 in headroom are limited in how far they project into circulation paths (4 in); post-mounted objects 12 in; 80 in headroom.",
+   "limits": "Guidance; enforceable text in S28/S30."
+  },
+  {
+   "id": "S25",
+   "title": "ASTM F2753-21 Effect of dynamic rolling load over resilient floor covering systems (public scope)",
+   "publisher": "ASTM International",
+   "url": "https://store.astm.org/f2753-21.html",
+   "jurisdiction": "Voluntary consensus standard",
+   "type": "Standard — public scope page",
+   "edition": "F2753-21, active (page updated 2021-09-02)",
+   "retrieved": "2026-10-20",
+   "access": "Public scope only; licensed text not audited",
+   "scope": "Practice for determining the effect of dynamic rolling load on resilient floor coverings, including joints; intended for resilient, adhesive and underlayment manufacturers; diagnostic and comparative use.",
+   "limits": "No universal wheel or load acceptance value."
+  },
+  {
+   "id": "S26",
+   "title": "CAN/ULC-S102.2-18 (R2024) Surface burning characteristics of flooring, floor coverings and miscellaneous materials (listing)",
+   "publisher": "UL Standards & Engagement / ULC",
+   "url": "https://www.shopulstandards.com/ProductDetail.aspx?productId=ULC102.2",
+   "jurisdiction": "Canada",
+   "type": "Standard — public listing",
+   "edition": "Edition 8 (2018), reaffirmed 2024; listing shows both \"Archived\" and \"Active\" labels",
+   "retrieved": "2026-10-20",
+   "access": "Listing read",
+   "scope": "Compares flame spread and smoke developed values of floor surfaces and coverings and of materials that cannot be tested under CAN/ULC-S102.",
+   "limits": "Does not set performance requirements for specific uses; listing status should be confirmed; code professional decides edition, class and location."
+  },
+  {
+   "id": "S27",
+   "title": "CSA/ASC B651:23 Accessible design for the built environment (summary)",
+   "publisher": "Accessibility Standards Canada",
+   "url": "https://accessible.canada.ca/standards-and-technical-guides/standards-and-technical-guides-database/csa-asc-b651-accessible-design-built-environment",
+   "jurisdiction": "Canada",
+   "type": "Standard — official summary",
+   "edition": "2023 edition",
+   "retrieved": "2026-10-20",
+   "access": "Summary page read",
+   "scope": "Requirements for making buildings and facilities accessible to people with physical, sensory and cognitive disabilities; referenced in the National Building Code and other legislation.",
+   "limits": "Whether it binds a site depends on the adopting instrument; technical text not audited."
+  },
+  {
+   "id": "S28",
+   "title": "36 CFR part 1191, appendix D — ADA technical requirements §§302, 303, 307, 403 (unofficial copy)",
+   "publisher": "Legal Information Institute (copy of U.S. Access Board regulation)",
+   "url": "https://www.law.cornell.edu/cfr/text/36/appendix-D_to_part_1191",
+   "jurisdiction": "United States",
+   "type": "Regulation text (unofficial copy)",
+   "edition": "Current CFR text as mirrored",
+   "retrieved": "2026-10-20",
+   "access": "Sections 302, 303, 307 and 403.5.1 read",
+   "scope": "302.1 floor surfaces stable, firm and slip resistant; 302.2 carpet securely attached with firm cushion, pad or backing or none, pile ≤ 1/2 in (13 mm), exposed edges fastened with trim; 302.3 openings pass no sphere > 1/2 in; 303 changes in level ≤ 1/4 in vertical, 1/4–1/2 in bevelled no steeper than 1:2, > 1/2 in ramped; 307.2 objects with leading edges 27–80 in (685–2030 mm) protrude ≤ 4 in (100 mm); 307.4 headroom 80 in; 307.5 protruding objects shall not reduce required clear width; 403.5.1 clear width 36 in (915 mm), reducible to 32 in (815 mm) for ≤ 24 in (610 mm).",
+   "limits": "Unofficial copy — confirm against the official DOJ 2010 Standards (S30) or eCFR before citing in a compliance file. Scoping (which elements must comply) is set elsewhere."
+  },
+  {
+   "id": "S29",
+   "title": "28 CFR 36.211 Maintenance of accessible features",
+   "publisher": "eCFR (U.S. Government Publishing Office)",
+   "url": "https://www.ecfr.gov/current/title-28/chapter-I/part-36/subpart-C/section-36.211",
+   "jurisdiction": "United States (ADA Title III public accommodations)",
+   "type": "Regulation",
+   "edition": "eCFR up to date as of 2026-10-16",
+   "retrieved": "2026-10-20",
+   "access": "Full section read",
+   "scope": "Public accommodations maintain accessible features in operable working condition; isolated or temporary interruptions in service or access due to maintenance or repairs are not prohibited.",
+   "limits": "Does not define how long \"temporary\" may be; see DOJ guidance (S14)."
+  },
+  {
+   "id": "S30",
+   "title": "2010 ADA Standards for Accessible Design",
+   "publisher": "U.S. Department of Justice",
+   "url": "https://www.ada.gov/law-and-regs/design-standards/2010-stds/",
+   "jurisdiction": "United States (ADA Titles II and III)",
+   "type": "Official standards page",
+   "edition": "Published 2010-09-15 with the revised Title II and III regulations",
+   "retrieved": "2026-10-20",
+   "access": "Introductory sections read (chapter text via S28)",
+   "scope": "Identifies the 2010 Standards as the DOJ regulations plus the 2004 ADAAG (36 CFR part 1191, appendices B and D).",
+   "limits": "Retrieval of chapters 3–4 was truncated in this environment; technical text was read through S28."
+  },
+  {
+   "id": "S31",
+   "title": "Martin K, Chounthirath T, Xiang H, Smith GA (2014) Pediatric shopping-cart-related injuries treated in US emergency departments, 1990–2011. Clinical Pediatrics 53(3):277–285",
+   "publisher": "Clinical Pediatrics (peer reviewed); abstract via PCOM Digital Commons",
+   "url": "https://digitalcommons.pcom.edu/scholarly_papers/198",
+   "jurisdiction": "United States",
+   "type": "Surveillance study (NEISS)",
+   "edition": "Published 2014",
+   "retrieved": "2026-10-20",
+   "access": "Abstract only",
+   "scope": "An estimated 530,494 children under 15 were treated in U.S. emergency departments for shopping-cart injuries over 1990–2011 (about 24,113 a year); the head was injured in 78.1%; the concussion/closed-head-injury rate rose 213% (0.64 to 2.02 per 10,000); numbers did not decline after the 2004 cart standard.",
+   "limits": "Abstract-level reading; surveillance estimates without store-visit denominators; diagnostic trends can affect concussion counts."
+  },
+  {
+   "id": "S32",
+   "title": "O'Brien CW (2009) Shopping cart injuries to children under five, 2003–2008",
+   "publisher": "U.S. Consumer Product Safety Commission, Directorate for Epidemiology",
+   "url": "https://www.cpsc.gov/s3fs-public/shopcart2008.pdf",
+   "jurisdiction": "United States",
+   "type": "Federal agency analysis of NEISS",
+   "edition": "December 2009",
+   "retrieved": "2026-10-20",
+   "access": "Full report read",
+   "scope": "About 121,989 emergency-department-treated injuries 2003–2008 (95% CI 101,115–142,863); 2006–2008 annual average 21,065; falls from carts 82%, tip-overs 4%; head/face 84%; hospitalized 3%; ages one and two 59%; reported incidents included broken or missing restraint straps and car seats falling from carts.",
+   "limits": "Older data (2003–2008); estimates carry sampling error; no store denominators."
+  },
+  {
+   "id": "S33",
+   "title": "ASTM F2372-15(2021) Consumer safety performance specification for shopping carts (public scope)",
+   "publisher": "ASTM International",
+   "url": "https://store.astm.org/f2372-15r21.html",
+   "jurisdiction": "Voluntary consensus standard",
+   "type": "Standard — public scope page",
+   "edition": "F2372-15, reapproved 2021, active (page updated 2022-05-24)",
+   "retrieved": "2026-10-20",
+   "access": "Public scope only; licensed text not audited",
+   "scope": "Performance requirements, test methods and labelling for shopping carts and restraint systems for children at least six months and 15 lb up to four years and 35 lb; excludes infant carriers.",
+   "limits": "Voluntary; applies to cart design, not to how carts are used or maintained in a store."
+  },
+  {
+   "id": "S34",
+   "title": "Study finds safety intervention increases use of child safety restraints in shopping carts (news release on a 2006 Pediatrics study)",
+   "publisher": "Nationwide Children's Hospital",
+   "url": "https://www.nationwidechildrens.org/newsroom/news-releases/2006/08/study-finds-safety-intervention-successfully-increases-use-of-child-safety-restraints-in-shopping",
+   "jurisdiction": "United States (seven stores)",
+   "type": "Hospital news release (secondary source)",
+   "edition": "August 2006",
+   "retrieved": "2026-10-20",
+   "access": "News release read; primary article not retrieved",
+   "scope": "Three intervention and four comparison stores; greeters encouraged restraint use and caregivers received a coupon; correct restraint use in intervention stores rose from 15% to 49%; about half of children remained unrestrained or incorrectly restrained; injuries were not measured.",
+   "limits": "Secondary source; process outcome only; sample sizes and comparison figures not reported in the release."
+  },
+  {
+   "id": "S35",
+   "title": "Lachance CC et al. (2017) Compliant flooring to prevent fall-related injuries in older adults: a scoping review. PLoS ONE 12(2): e0171652",
+   "publisher": "PLoS ONE (peer reviewed)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171652",
+   "jurisdiction": "International literature (older adults; health-care settings)",
+   "type": "Scoping review",
+   "edition": "Published 2017",
+   "retrieved": "2026-10-20",
+   "access": "Abstract and results text read",
+   "scope": "Compliant flooring reduced fall-related impact forces in laboratory studies; may reduce injuries but may increase fall risk; clinical evidence was small studies without a powered trial; most workplace-safety records found more force was needed to push, pull or turn carts, beds, wheelchairs and lifts.",
+   "limits": "Older-adult and health-care evidence; no risk-of-bias assessment; predates the FLIP results (S8)."
+  },
+  {
+   "id": "S36",
+   "title": "Bell J et al. (2008) Evaluation of a comprehensive slip, trip, and fall prevention program for hospital employees (NOIRS 2008 abstract)",
+   "publisher": "National Institute for Occupational Safety and Health (CDC Stacks)",
+   "url": "https://stacks.cdc.gov/view/cdc/181530",
+   "jurisdiction": "United States (three acute-care hospitals)",
+   "type": "Conference abstract (not peer reviewed)",
+   "edition": "October 2008",
+   "retrieved": "2026-10-20",
+   "access": "Abstract read",
+   "scope": "A multi-component program (injury-record analysis, hazard assessments, housekeeping changes, flooring changes, ice and snow removal, footwear for some groups) was followed by a 58% fall in workers' compensation slip, trip and fall claims, adjusted rate ratio 0.42 (95% CI 0.33–0.54); liquid contamination was the most common cause.",
+   "limits": "Employees, not customers; before/after design without a comparison group described; footwear components do not transfer to customers."
+  },
+  {
+   "id": "S37",
+   "title": "WHO Child Growth Standards: height-for-age percentiles, boys and girls 2–5 years",
+   "publisher": "World Health Organization",
+   "url": "https://www.who.int/tools/child-growth-standards/standards/length-height-for-age",
+   "jurisdiction": "International growth reference",
+   "type": "Reference data tables",
+   "edition": "WHO Child Growth Standards (percentile tables, PDF)",
+   "retrieved": "2026-10-20",
+   "access": "Boys and girls 2–5 year percentile tables read",
+   "scope": "97th-percentile height: boys 92.9 cm at 2 years and 118.7 cm at 5 years; girls 91.8 cm and 118.4 cm. 3rd percentile at 2 years: boys 81.4 cm, girls 79.6 cm.",
+   "limits": "Height, not head or eye height; used only to set a program survey band. Older children need a 5–19 year reference."
+  },
+  {
+   "id": "S38",
+   "title": "ASTM F1637-21 Standard practice for safe walking surfaces (public scope)",
+   "publisher": "ASTM International",
+   "url": "https://store.astm.org/f1637-21.html",
+   "jurisdiction": "Voluntary consensus standard",
+   "type": "Standard — public scope page",
+   "edition": "F1637-21, active (page updated 2026-09-24)",
+   "retrieved": "2026-10-20",
+   "access": "Public scope only; licensed text not audited",
+   "scope": "Design and construction guidelines and minimum maintenance criteria for walking surfaces in new and existing buildings, for pedestrians in ordinary footwear; may not be adequate for people with certain mobility impairments; conformance will not remove all hazards.",
+   "limits": "Voluntary practice; applicability is a program or contract decision unless adopted by law."
+  },
+  {
+   "id": "S39",
+   "title": "ANSI A326.3-2021 Dynamic coefficient of friction (DCOF) of hard surface flooring materials (listing)",
+   "publisher": "ANSI Webstore (content provider: Tile Council of North America)",
+   "url": "https://webstore.ansi.org/standards/tca/ansia3262021",
+   "jurisdiction": "Voluntary consensus standard (U.S.)",
+   "type": "Standard — public listing",
+   "edition": "A326.3-2021 (revises 2017 edition); most recent per listing",
+   "retrieved": "2026-10-20",
+   "access": "Listing read; full text not audited",
+   "scope": "Describes a DCOF test method for hard surface flooring and includes DCOF specifications, product-use classifications and guidance on specifying.",
+   "limits": "Hard-surface flooring only; specification values were not audited here and are not a guarantee of in-use safety."
+  },
+  {
+   "id": "S40",
+   "title": "ANSI/ASSP A1264.2-2022 Reducing slip missteps on walking-working surfaces (listing)",
+   "publisher": "ANSI Webstore (content provider: American Society of Safety Professionals)",
+   "url": "https://webstore.ansi.org/standards/asse/ansiasspa12642022",
+   "jurisdiction": "Voluntary consensus standard (U.S. workplaces)",
+   "type": "Standard — public listing",
+   "edition": "A1264.2-2022 (revises 2006 edition)",
+   "retrieved": "2026-10-20",
+   "access": "Listing read; full text not audited",
+   "scope": "Provisions for reducing the risk of slip missteps in workplace situations, for safety, design and facility professionals.",
+   "limits": "Workplace scope; numeric values, if any, not audited."
+  },
+  {
+   "id": "S41",
+   "title": "45 CFR 46.102 Definitions for purposes of the human subjects policy",
+   "publisher": "eCFR (U.S. Government Publishing Office)",
+   "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.102",
+   "jurisdiction": "United States (federally conducted or supported research and institutions that apply it)",
+   "type": "Regulation",
+   "edition": "eCFR up to date as of 2026-10-15",
+   "retrieved": "2026-10-20",
+   "access": "Definitions read",
+   "scope": "Research is a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge; a human subject involves interaction/intervention or identifiable private information.",
+   "limits": "Applicability of part 46 depends on funding and institutional assurances (46.101, not retrieved)."
+  },
+  {
+   "id": "S42",
+   "title": "Guidelines for overt video surveillance in the private sector",
+   "publisher": "Office of the Privacy Commissioner of Canada",
+   "url": "https://www.priv.gc.ca/en/privacy-topics/surveillance/video-surveillance-by-businesses/gl_vs_080306/",
+   "jurisdiction": "Canada",
+   "type": "Regulator guidance",
+   "edition": "Issued 2008-03-06",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Consider less privacy-invasive alternatives first; use surveillance only for its stated purpose; notify the public before entry; secure recordings and limit access; delete when no longer needed; review periodically.",
+   "limits": "Guidance, not law; the binding sources are PIPEDA and provincial private-sector laws."
+  },
+  {
+   "id": "S43",
+   "title": "How to make customer service accessible (temporary disruptions)",
+   "publisher": "Government of Ontario",
+   "url": "https://www.ontario.ca/page/how-make-customer-service-accessible",
+   "jurisdiction": "Ontario",
+   "type": "Provincial government guidance",
+   "edition": "Page updated 2026-09-21; refers to O. Reg. 191/11",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "When accessible facilities or services are temporarily out of service, give public notice stating the reason, how long, and any alternative; post at the entrance or another high-traffic area, or on the website or phone line.",
+   "limits": "Guidance page; the regulation text (e-Laws) could not be retrieved in this environment."
+  },
+  {
+   "id": "S44",
+   "title": "The FDA releases 2026 Food Code",
+   "publisher": "U.S. Food and Drug Administration (constituent update)",
+   "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-releases-2026-food-code",
+   "jurisdiction": "United States",
+   "type": "Federal agency announcement",
+   "edition": "2026-09-17",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Announces the 2026 edition on 17 September 2026; adoption by state, local, tribal and territorial agencies is voluntary.",
+   "limits": "Announcement; does not cover floor-surface provisions."
+  },
+  {
+   "id": "S45",
+   "title": "Falls (fact sheet)",
+   "publisher": "World Health Organization",
+   "url": "https://www.who.int/news-room/fact-sheets/detail/falls",
+   "jurisdiction": "Global",
+   "type": "Intergovernmental fact sheet",
+   "edition": "2021-04-26",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Falls are the second leading cause of unintentional injury death worldwide (an estimated 684 000 deaths a year); nearly 40% of the disability-adjusted life years lost to falls worldwide occur in children; children are named as a high-risk group, with falls linked to developmental stages, supervision and hazardous environments; prevention should emphasise education, training, safer environments, research and policy.",
+   "limits": "Global estimates across all settings, mostly homes and daily life; no retail-specific data. Published 2021: check for a newer edition before quoting."
+  },
+  {
+   "id": "S46",
+   "title": "World report on child injury prevention, chapter 1: Child injuries in context",
+   "publisher": "World Health Organization and UNICEF (NCBI Bookshelf copy); editors Peden M, Oyegbite K, Ozanne-Smith J and others",
+   "url": "https://ncbi.nlm.nih.gov/books/NBK310643",
+   "jurisdiction": "Global",
+   "type": "Intergovernmental report (book chapter)",
+   "edition": "2008",
+   "retrieved": "2026-10-20",
+   "access": "Chapter 1 read (first 100 000 characters); the dedicated falls chapter could not be opened because the site showed a browser check",
+   "scope": "Falls are leading causes of non-fatal child injury but a small share of fatal child injuries; standards, product design and environmental modification are named prevention approaches; the chapter notes there was insufficient trial evidence that environmental changes in homes reduce the number of injuries.",
+   "limits": "Published 2008; general and home settings, not retail. The falls chapter was not reviewed here."
+  },
+  {
+   "id": "S47",
+   "title": "Preventable injuries kill 2000 children every day (news release on the World report on child injury prevention)",
+   "publisher": "World Health Organization",
+   "url": "https://www.who.int/news/item/10-12-2008-preventable-injuries-kill-2000-children-every-day",
+   "jurisdiction": "Global",
+   "type": "Intergovernmental news release",
+   "edition": "2008-12-10",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "Falls are one of the five leading causes of child injury death in the 2008 estimate (nearly 47 000 child deaths a year), with hundreds of thousands more less serious fall injuries; proven measures listed include standards and redesigning nursery furniture, toys and playground equipment.",
+   "limits": "2008 estimates; a news summary of the report, not the report itself."
+  },
+  {
+   "id": "S48",
+   "title": "Convention on the Rights of Persons with Disabilities (articles 4 and 9)",
+   "publisher": "United Nations, Office of the High Commissioner for Human Rights",
+   "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities",
+   "jurisdiction": "International treaty (binding on States Parties)",
+   "type": "Treaty text",
+   "edition": "General Assembly resolution A/RES/61/106 (2006)",
+   "retrieved": "2026-10-20",
+   "access": "Article 4(3) and article 9 read",
+   "scope": "Article 9 requires States Parties to take measures for access to the physical environment and to facilities and services open to the public, including minimum accessibility standards and ensuring that private entities offering facilities open to the public take accessibility into account; article 4(3) requires close consultation with persons with disabilities, including children with disabilities, through their representative organizations.",
+   "limits": "Obligations fall on States Parties, not directly on businesses; ratification and national implementation vary. Check the country's status and its own laws."
+  },
+  {
+   "id": "S49",
+   "title": "Sustainable Development Goal 11: targets 11.2 and 11.7",
+   "publisher": "United Nations Department of Economic and Social Affairs",
+   "url": "https://sdgs.un.org/goals/goal11",
+   "jurisdiction": "Global (voluntary framework)",
+   "type": "UN goal, target and indicator text",
+   "edition": "2030 Agenda (adopted 2015); page as published",
+   "retrieved": "2026-10-20",
+   "access": "Target and indicator text read",
+   "scope": "Target 11.7: by 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities.",
+   "limits": "Indicator 11.7.1 measures urban open space for public use, which privately run shops are not. Use as policy context, never as a business obligation."
+  },
+  {
+   "id": "S50",
+   "title": "ISO 21542:2021 Building construction — Accessibility and usability of the built environment",
+   "publisher": "International Organization for Standardization (ISO/TC 59/SC 16)",
+   "url": "https://www.iso.org/standard/71860.html",
+   "jurisdiction": "International voluntary standard (applies where adopted or referenced)",
+   "type": "International standard (public scope page)",
+   "edition": "Edition 2, 2021-06; systematic review recorded in 2026",
+   "retrieved": "2026-10-20",
+   "access": "Public scope page only; standard text not purchased",
+   "scope": "Requirements and recommendations for construction elements, fittings and products that affect getting into, moving within and leaving buildings, including evacuation; also applies to common spaces in multi-unit residential buildings.",
+   "limits": "Text not audited; national adoption varies; does not address child impact injuries specifically."
+  },
+  {
+   "id": "S51",
+   "title": "ISO/IEC Guide 50:2014 Safety aspects — Guidelines for child safety in standards and other specifications",
+   "publisher": "International Electrotechnical Commission webstore (joint ISO/IEC guide)",
+   "url": "https://webstore.iec.ch/en/publication/11940",
+   "jurisdiction": "International guidance for standards writers",
+   "type": "ISO/IEC guide (public abstract)",
+   "edition": "Edition 3.0, 2014-12-08",
+   "retrieved": "2026-10-20",
+   "access": "Public abstract only",
+   "scope": "Guidance for experts who develop and revise standards and specifications on potential sources of bodily harm to children from products they use or are likely to come into contact with, even if the products are not intended for children; intentional and non-physical harm are out of scope.",
+   "limits": "Abstract only; written for standards developers, not for sites; sets no thresholds."
+  },
+  {
+   "id": "S52",
+   "title": "ISO/IEC Guide 71:2014 Guide for addressing accessibility in standards",
+   "publisher": "International Organization for Standardization",
+   "url": "https://www.iso.org/standard/57385.html",
+   "jurisdiction": "International guidance for standards writers",
+   "type": "ISO/IEC guide (public scope page)",
+   "edition": "Edition 2, 2014-12 (reviewed and confirmed in 2021)",
+   "retrieved": "2026-10-20",
+   "access": "Public scope page only",
+   "scope": "Guidance to standards developers on addressing accessibility requirements and recommendations in standards for products, services and built environments.",
+   "limits": "Not a site requirement; text not audited."
+  },
+  {
+   "id": "S53",
+   "title": "ISO 7010:2019 Graphical symbols — Safety colours and safety signs — Registered safety signs",
+   "publisher": "International Organization for Standardization",
+   "url": "https://www.iso.org/standard/72424.html",
+   "jurisdiction": "International voluntary standard (applies where adopted or referenced)",
+   "type": "International standard (public scope page)",
+   "edition": "Edition 3, 2019-07, with amendments 1 to 11 (2020–2026); a revision is in progress",
+   "retrieved": "2026-10-20",
+   "access": "Public scope page only",
+   "scope": "Prescribes registered safety signs for accident prevention, fire protection, health hazard information and emergency evacuation, for all locations where safety issues related to people need to be addressed.",
+   "limits": "Sign catalogue not reviewed; national sign rules and languages may differ. A sign warns; it does not control a hazard."
+  },
+  {
+   "id": "S54",
+   "title": "Statement for World Day for Safety and Health at Work 2025 (ILO Office for Türkiye)",
+   "publisher": "International Labour Organization",
+   "url": "https://www.ilo.org/resource/statement/we-need-come-together-renew-our-commitment-occupational-safety-and-health",
+   "jurisdiction": "International (ILO member States)",
+   "type": "ILO official statement",
+   "edition": "2025-04-28",
+   "retrieved": "2026-10-20",
+   "access": "Full page read",
+   "scope": "States that in 2022 the International Labour Conference amended the ILO Declaration to add a safe and healthy working environment as a fifth fundamental principle, and that Conventions No. 155 and No. 187 are now considered fundamental conventions.",
+   "limits": "A statement about the 2022 decision, not the Declaration itself; national ratification and law vary."
+  },
+  {
+   "id": "S55",
+   "title": "Injury surveillance guidelines",
+   "publisher": "World Health Organization (with experts from the U.S. Centers for Disease Control and Prevention)",
+   "url": "https://www.who.int/publications/i/item/9241591331",
+   "jurisdiction": "Global",
+   "type": "Intergovernmental technical guidance",
+   "edition": "2001-03-16 (ISBN 9241591331)",
+   "retrieved": "2026-10-20",
+   "access": "Publication page read; manual not reviewed in full",
+   "scope": "Practical advice for researchers and practitioners on developing information systems that collect systematic injury data, including where resources, staff or equipment are limited.",
+   "limits": "2001 guidance; does not cover retail exposure measures or current privacy law."
+  },
+  {
+   "id": "S56",
+   "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+   "publisher": "World Wide Web Consortium (W3C)",
+   "url": "https://www.w3.org/TR/WCAG22/",
+   "jurisdiction": "International technical standard (referenced by many laws and policies)",
+   "type": "W3C Recommendation",
+   "edition": "2024-12-12",
+   "retrieved": "2026-10-20",
+   "access": "Status and selected success criteria read",
+   "scope": "Success criteria for accessible web content, including 2.2.2 Pause, Stop, Hide and 2.3.3 Animation from Interactions, which shaped this workspace's motion controls.",
+   "limits": "This package has not been audited for conformance; automated scans cover only some criteria."
+  }
+ ],
+ "evidence": [
+  {
+   "id": "E01",
+   "claim": "Contamination is implicated in almost all retail slip accidents; cleaning itself can create slippery floors",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S2",
+    "S15"
+   ],
+   "setting": "Great Britain retail; Canadian workplaces",
+   "transfer": "Mechanism plausible for children; no effect size",
+   "basis": "Regulator guidance",
+   "limits": "Guidance only",
+   "implication": "Prioritize source control, cleaning method and response time"
+  },
+  {
+   "id": "E02",
+   "claim": "Signs and cones only warn of a hazard; they do not prevent entry",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S2"
+   ],
+   "setting": "Great Britain retail",
+   "transfer": "Directly relevant: children do not read signs",
+   "basis": "Regulator guidance",
+   "limits": "No effect size",
+   "implication": "Isolation means a physical barrier or closure plus an accessible alternative"
+  },
+  {
+   "id": "E03",
+   "claim": "ADA accessible surfaces must be stable, firm and slip resistant; no minimum friction value is set",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S1",
+    "S28"
+   ],
+   "setting": "U.S. sites covered by the ADA",
+   "transfer": "Applies to all visitors including children with disabilities",
+   "basis": "Regulation text (unofficial copy) and agency guide",
+   "limits": "Coverage and stricter local rules decided locally",
+   "implication": "Do not cite an \"ADA friction number\"; specialists set method-specific thresholds"
+  },
+  {
+   "id": "E04",
+   "claim": "ADA carpet rules: securely attached, firm or no cushion, pile ≤ 1/2 in, exposed edges trimmed",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S28"
+   ],
+   "setting": "U.S. accessible routes",
+   "transfer": "Constrains cushioned coverings",
+   "basis": "Regulation text (unofficial copy)",
+   "limits": "Whether a product is \"carpet\" and whether the area is covered must be decided",
+   "implication": "Soft or cushioned coverings on routes need access review before purchase"
+  },
+  {
+   "id": "E05",
+   "claim": "ADA changes in level: ≤ 1/4 in vertical; ≤ 1/2 in bevelled at 1:2 maximum; larger changes ramped",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S28"
+   ],
+   "setting": "U.S. accessible routes",
+   "transfer": "Applies to mat, underlay and padding edges",
+   "basis": "Regulation text (unofficial copy)",
+   "limits": "Local rules may be stricter",
+   "implication": "Measure every new edge and transition at commissioning"
+  },
+  {
+   "id": "E06",
+   "claim": "ADA protruding objects: 27–80 in leading edges protrude ≤ 4 in; protrusions may not reduce required clear width; 80 in headroom",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S28",
+    "S24"
+   ],
+   "setting": "U.S. circulation paths",
+   "transfer": "Edge guards add projection",
+   "basis": "Regulation text and agency guide",
+   "limits": "Coverage decided locally",
+   "implication": "Check guard thickness at the real fixture"
+  },
+  {
+   "id": "E07",
+   "claim": "ADA accessible route clear width 36 in, reducible to 32 in for ≤ 24 in",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S28"
+   ],
+   "setting": "U.S. accessible routes",
+   "transfer": "Padding on aisle fixtures can narrow routes",
+   "basis": "Regulation text (unofficial copy)",
+   "limits": "Other width rules (turns, passing spaces) also apply",
+   "implication": "Measure route width after guards are fitted"
+  },
+  {
+   "id": "E08",
+   "claim": "Accessible features must be maintained; isolated or temporary interruptions for maintenance or repair are allowed; DOJ expects merchandise retrieval when an aisle is blocked",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S29",
+    "S14"
+   ],
+   "setting": "U.S. public accommodations",
+   "transfer": "Shapes how closures and isolations are run",
+   "basis": "Regulation and agency guidance",
+   "limits": "\"Temporary\" is not defined numerically",
+   "implication": "Isolation procedure includes assistance and prompt reopening"
+  },
+  {
+   "id": "E09",
+   "claim": "U.S. employers must inspect walking-working surfaces and correct or guard hazards before employees use them; no friction number",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S3"
+   ],
+   "setting": "U.S. workplaces",
+   "transfer": "Worker rule; customer duties differ",
+   "basis": "Regulation",
+   "limits": "State plans may differ",
+   "implication": "Use as the worker-safety floor; customer duties need counsel"
+  },
+  {
+   "id": "E10",
+   "claim": "Ontario guidance: give public notice of temporary disruptions to accessible facilities, with reason, duration and alternatives",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S43"
+   ],
+   "setting": "Ontario",
+   "transfer": "Applies to closures during installation or isolation",
+   "basis": "Provincial guidance",
+   "limits": "Regulation text not retrieved",
+   "implication": "Add notices to the installation and closure procedures for Ontario sites"
+  },
+  {
+   "id": "E11",
+   "claim": "Tribometer validation (F2508-23) is not intended to establish a safe threshold",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S10"
+   ],
+   "setting": "Standard scope",
+   "transfer": "Applies to any floor",
+   "basis": "Public scope",
+   "limits": "Licensed text not audited",
+   "implication": "Thresholds must be set by specialists before testing"
+  },
+  {
+   "id": "E12",
+   "claim": "Playground surfacing test F1292-26 is specific to head-injury risk in playground use zones; laboratory results ignore aging and maintenance",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S7"
+   ],
+   "setting": "Playground equipment",
+   "transfer": "None for retail aisles",
+   "basis": "Public scope",
+   "limits": "Licensed text not audited",
+   "implication": "Never cite playground certification for retail floors or fixtures"
+  },
+  {
+   "id": "E13",
+   "claim": "Floor-covering fire method E648-25a was developed for corridors and exitways and is not alone a fire-hazard assessment",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S11"
+   ],
+   "setting": "Standard scope",
+   "transfer": "Floor elements only",
+   "basis": "Public scope",
+   "limits": "Required class comes from the adopted code",
+   "implication": "Fixture padding needs its own code determination"
+  },
+  {
+   "id": "E14",
+   "claim": "A randomized trial of compliant flooring found no effect on serious fall injuries; falls were non-significantly higher; harms were not assessed",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S8"
+   ],
+   "setting": "Older adults, one long-term care site",
+   "transfer": "Low",
+   "basis": "Randomized trial (abstract/results read)",
+   "limits": "One product; different population",
+   "implication": "Do not claim cushioning efficacy for children or retail"
+  },
+  {
+   "id": "E15",
+   "claim": "Compliant flooring reduces laboratory impact forces but may raise fall risk and increases force to move wheeled equipment",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S35"
+   ],
+   "setting": "Older adults; health-care workers",
+   "transfer": "Mechanisms transfer (wheels, balance)",
+   "basis": "Scoping review",
+   "limits": "No risk-of-bias assessment",
+   "implication": "Rolling effort and stability are pass/fail criteria"
+  },
+  {
+   "id": "E16",
+   "claim": "An average of about 24,000 U.S. children under 15 a year were treated in emergency departments for shopping-cart injuries (1990–2011); most involved the head",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S31"
+   ],
+   "setting": "U.S. national surveillance 1990–2011",
+   "transfer": "Direct population and setting",
+   "basis": "Surveillance study (abstract level)",
+   "limits": "No store denominators",
+   "implication": "Route cart controls to an owner (task T35) before buying floor products"
+  },
+  {
+   "id": "E17",
+   "claim": "For children under five, falls from carts were 82% of cart injuries and tip-overs 4%; 84% involved the head or face",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S32"
+   ],
+   "setting": "U.S. national surveillance 2003–2008",
+   "transfer": "Direct",
+   "basis": "Federal analysis (full report)",
+   "limits": "Older data; sampling error",
+   "implication": "Prioritize restraint use and cart condition"
+  },
+  {
+   "id": "E18",
+   "claim": "Cart-related concussion/closed-head-injury rates rose 1990–2011 and totals did not fall after the 2004 cart standard",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S31"
+   ],
+   "setting": "U.S. national surveillance",
+   "transfer": "Direct",
+   "basis": "Surveillance study (abstract level)",
+   "limits": "Diagnostic trends may contribute",
+   "implication": "A design standard alone is not enough; operational controls matter"
+  },
+  {
+   "id": "E19",
+   "claim": "The shopping-cart standard F2372-15(2021) covers carts and restraints for children 6 months–4 years and excludes infant carriers",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S33"
+   ],
+   "setting": "Standard scope",
+   "transfer": "Direct for cart design",
+   "basis": "Public scope",
+   "limits": "Licensed text not audited",
+   "implication": "Use as a procurement criterion when replacing carts"
+  },
+  {
+   "id": "E20",
+   "claim": "A store-entrance intervention raised correct cart-restraint use from 15% to 49%; about half remained unrestrained",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S34"
+   ],
+   "setting": "Seven U.S. stores (2006)",
+   "transfer": "Direct setting; process outcome",
+   "basis": "Secondary news release",
+   "limits": "Injuries not measured; primary article not retrieved",
+   "implication": "Candidate operational control to evaluate, not an injury claim"
+  },
+  {
+   "id": "E21",
+   "claim": "A multi-component hospital-employee program was followed by 58% fewer slip, trip and fall claims",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S36"
+   ],
+   "setting": "Hospital employees",
+   "transfer": "Partial: housekeeping parts may transfer; footwear does not",
+   "basis": "Conference abstract",
+   "limits": "No comparison group described",
+   "implication": "Supports operational controls; not a customer estimate"
+  },
+  {
+   "id": "E22",
+   "claim": "No controlled study of retail edge guards or corner padding was found in this targeted review",
+   "category": "UNRESOLVED",
+   "sources": [],
+   "setting": "Targeted searches 2026-10-20",
+   "transfer": "—",
+   "basis": "Absence in a targeted search",
+   "limits": "Not a systematic search",
+   "implication": "Treat guards as an untested residual-hazard option"
+  },
+  {
+   "id": "E23",
+   "claim": "WHO 97th-percentile height is about 92–93 cm at age two and 118–119 cm at age five",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S37"
+   ],
+   "setting": "International growth reference",
+   "transfer": "Direct for survey height",
+   "basis": "Reference tables",
+   "limits": "Height, not head height",
+   "implication": "Basis for the survey band below"
+  },
+  {
+   "id": "E24",
+   "claim": "Survey fixture edges from the floor to at least 120 cm for ages two to five",
+   "category": "PROGRAM RECOMMENDATION",
+   "sources": [
+    "S37"
+   ],
+   "setting": "Program survey rule",
+   "transfer": "—",
+   "basis": "Derived from E23",
+   "limits": "Raise for older children; not a legal requirement",
+   "implication": "Use in the hazard walk (document 28)"
+  },
+  {
+   "id": "E25",
+   "claim": "Use a 90-day operational feasibility window after commissioning",
+   "category": "PROGRAM RECOMMENDATION",
+   "sources": [],
+   "setting": "Program design",
+   "transfer": "—",
+   "basis": "Program proposal",
+   "limits": "Not a powered effectiveness study",
+   "implication": "Agree locally; extend if needed"
+  },
+  {
+   "id": "E26",
+   "claim": "At 2 events per 100,000 entries, detecting a 20% reduction needs about 355 comparison events (about 17.7 million entries per arm)",
+   "category": "ILLUSTRATION",
+   "sources": [],
+   "setting": "Planning arithmetic",
+   "transfer": "—",
+   "basis": "Normal approximation for a log rate ratio",
+   "limits": "Ignores clustering; assumptions invented",
+   "implication": "A single-site pilot cannot support an injury-reduction claim"
+  },
+  {
+   "id": "E27",
+   "claim": "15,000 initial cost and 20,000 retained loss scenario",
+   "category": "ILLUSTRATION",
+   "sources": [],
+   "setting": "Calculator example",
+   "transfer": "—",
+   "basis": "Invented currency-unit inputs",
+   "limits": "Not quotes or loss data",
+   "implication": "Replace with quotes and validated loss data"
+  },
+  {
+   "id": "E28",
+   "claim": "Local injury reduction and insurance savings",
+   "category": "UNRESOLVED",
+   "sources": [],
+   "setting": "—",
+   "transfer": "—",
+   "basis": "No results or insurer commitment",
+   "limits": "Nothing established",
+   "implication": "No public benefit claim; premium changes excluded from models"
+  },
+  {
+   "id": "E29",
+   "claim": "U.S. disabled-access tax mechanisms exist with eligibility limits (credit for small businesses; deduction up to $15,000 a year)",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S23"
+   ],
+   "setting": "U.S. federal tax",
+   "transfer": "—",
+   "basis": "Federal agency guidance",
+   "limits": "Eligibility of this work not established",
+   "implication": "Tax review before any budget recognition"
+  },
+  {
+   "id": "E30",
+   "claim": "Research is defined by systematic investigation for generalizable knowledge (U.S.); TCPS 2 treats pilot studies as research requiring REB review",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S41",
+    "S22",
+    "S21"
+   ],
+   "setting": "U.S. and Canadian research ethics",
+   "transfer": "—",
+   "basis": "Regulation and policy",
+   "limits": "Institutional determination required",
+   "implication": "Obtain a determination before structured testing or evaluation"
+  },
+  {
+   "id": "E31",
+   "claim": "Video surveillance: consider less intrusive alternatives, limit to purpose, notify, secure and delete",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S42"
+   ],
+   "setting": "Canadian private sector",
+   "transfer": "—",
+   "basis": "Regulator guidance",
+   "limits": "Guidance, not law",
+   "implication": "No new CCTV for this program; footage stays in protected systems"
+  },
+  {
+   "id": "E32",
+   "claim": "Code editions depend on adoption and timing (2025 California code for permits from 1 Jan 2026; Ontario 2024 code for new construction and extensive renovation; 2025 national model codes published)",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S17",
+    "S18",
+    "S6"
+   ],
+   "setting": "California, Ontario, Canada",
+   "transfer": "—",
+   "basis": "Official bulletins and pages",
+   "limits": "Local amendments and project scope decide",
+   "implication": "Record edition and basis per requirement in the jurisdiction register"
+  },
+  {
+   "id": "E33",
+   "claim": "The FDA Food Code 2026 edition was released on 17 September 2026 as a model code",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S4",
+    "S44"
+   ],
+   "setting": "U.S. food establishments",
+   "transfer": "—",
+   "basis": "Federal agency pages",
+   "limits": "Adoption varies; floor provisions not audited",
+   "implication": "Health authority confirms the adopted text for food zones"
+  },
+  {
+   "id": "E34",
+   "claim": "Falls are the second leading cause of unintentional injury death worldwide, and nearly 40% of the disability-adjusted life years lost to falls occur in children",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S45"
+   ],
+   "setting": "Global, all settings",
+   "transfer": "Shows the scale of child falls; says nothing about retail's share",
+   "basis": "WHO fact sheet (2021)",
+   "limits": "Global estimate across settings",
+   "implication": "Child falls are a legitimate public-health priority; measure the retail share locally before claiming it"
+  },
+  {
+   "id": "E35",
+   "claim": "Falls are a leading cause of non-fatal child injury but account for a small share of child injury deaths",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S46",
+    "S47"
+   ],
+   "setting": "Global, 2008 estimates",
+   "transfer": "Supports measuring non-fatal outcomes; retail share unknown",
+   "basis": "WHO/UNICEF report chapter and news release",
+   "limits": "2008 data",
+   "implication": "Plan evaluations around non-fatal injuries and hazards, not deaths"
+  },
+  {
+   "id": "E36",
+   "claim": "In 2008 there was insufficient trial evidence that environmental changes in homes reduce the number of child injuries",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S46"
+   ],
+   "setting": "Homes",
+   "transfer": "Caution transfers: environmental change is plausible but unproven",
+   "basis": "WHO/UNICEF report chapter",
+   "limits": "Homes, not retail; 2008",
+   "implication": "Present site changes as reasonable precautions under evaluation, never as proven injury reductions"
+  },
+  {
+   "id": "E37",
+   "claim": "CRPD States Parties must take measures so that facilities open to the public, including privately run ones, take accessibility into account, and must consult disabled people, including disabled children",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S48"
+   ],
+   "setting": "International treaty",
+   "transfer": "Applies to every site change",
+   "basis": "Treaty text",
+   "limits": "Obligations fall on States, not businesses; ratification and national law vary",
+   "implication": "No child-safety change may reduce access; consult disability organizations before changing a site"
+  },
+  {
+   "id": "E38",
+   "claim": "A safe and healthy working environment has been an ILO fundamental principle since 2022",
+   "category": "VERIFIED SOURCE FACT",
+   "sources": [
+    "S54"
+   ],
+   "setting": "ILO member States",
+   "transfer": "Retail cleaning, cart handling and ergonomics",
+   "basis": "ILO statement",
+   "limits": "National ratification and law vary",
+   "implication": "Worker safety is part of every assessment, not a side issue"
+  },
+  {
+   "id": "E39",
+   "claim": "ISO 21542 (building accessibility) and ISO/IEC Guide 50 (child safety in product standards) are useful reference points; their public scopes do not describe retail child-impact thresholds",
+   "category": "PROGRAM RECOMMENDATION",
+   "sources": [
+    "S50",
+    "S51"
+   ],
+   "setting": "International",
+   "transfer": "Reference points for local reviews",
+   "basis": "Public scope pages",
+   "limits": "Standard texts not audited",
+   "implication": "Cite them as references in local reviews; never as an approval or a threshold"
+  }
+ ],
+ "gates": [
+  {
+   "id": "G0",
+   "title": "Scope and ownership",
+   "owner": "Sponsor",
+   "evidence": "Charter, site, responsible roles and immediate hazard controls"
+  },
+  {
+   "id": "G1",
+   "title": "Baseline and evidence",
+   "owner": "Evaluation lead",
+   "evidence": "Hazard map, exposure quality, adjacent mechanisms routed, privacy/ethics pathway and baseline limitations"
+  },
+  {
+   "id": "G2",
+   "title": "Local approval pathway",
+   "owner": "Facilities / legal",
+   "evidence": "Adopted rules, permits, landlord and authority determinations"
+  },
+  {
+   "id": "G3",
+   "title": "Product suitability",
+   "owner": "Procurement / specialists",
+   "evidence": "Accepted system dossier, approved criteria and mock-up results"
+  },
+  {
+   "id": "G4",
+   "title": "Commissioning",
+   "owner": "Site manager",
+   "evidence": "Installation acceptance, in-situ verification, approvals, training and withdrawal readiness"
+  },
+  {
+   "id": "G5",
+   "title": "Pilot review",
+   "owner": "Sponsor / evaluation",
+   "evidence": "Operational results, adverse findings and independent analysis"
+  },
+  {
+   "id": "G6",
+   "title": "Scale decision",
+   "owner": "Executive sponsor",
+   "evidence": "Documented decision, uncertainty, costs and site replication plan"
+  }
+ ],
+ "tasks": [
+  {
+   "id": "T01",
+   "gate": "G0",
+   "title": "Name sponsor, site lead and deputies",
+   "owner": "Sponsor",
+   "kind": "now",
+   "workflow": "W02"
+  },
+  {
+   "id": "T02",
+   "gate": "G0",
+   "title": "Define sites, jurisdiction and scope",
+   "owner": "Sponsor",
+   "kind": "now",
+   "workflow": "W02"
+  },
+  {
+   "id": "T03",
+   "gate": "G0",
+   "title": "Approve assessment budget and removal reserve approach",
+   "owner": "Finance",
+   "kind": "signed",
+   "workflow": "W02"
+  },
+  {
+   "id": "T04",
+   "gate": "G0",
+   "title": "Complete initial hazard walk and immediate controls",
+   "owner": "Operations",
+   "kind": "now",
+   "workflow": "W03"
+  },
+  {
+   "id": "T05",
+   "gate": "G0",
+   "title": "Adopt charter, responsibility matrix and decision rights",
+   "owner": "Sponsor",
+   "kind": "signed",
+   "workflow": "W02"
+  },
+  {
+   "id": "T06",
+   "gate": "G1",
+   "title": "Review baseline incidents and exposure quality",
+   "owner": "Evaluation",
+   "kind": "review",
+   "workflow": "W05"
+  },
+  {
+   "id": "T07",
+   "gate": "G1",
+   "title": "Approve privacy and research determination pathway",
+   "owner": "Privacy / evaluation",
+   "kind": "review",
+   "workflow": "W05"
+  },
+  {
+   "id": "T08",
+   "gate": "G1",
+   "title": "Consult adult community, disability and staff advisors",
+   "owner": "Community lead",
+   "kind": "now",
+   "workflow": "W06"
+  },
+  {
+   "id": "T09",
+   "gate": "G1",
+   "title": "Define candidate mechanisms and comparison design",
+   "owner": "Evaluation",
+   "kind": "review",
+   "workflow": "W05"
+  },
+  {
+   "id": "T10",
+   "gate": "G1",
+   "title": "Record evidence gaps and pre-analysis plan",
+   "owner": "Evaluation",
+   "kind": "review",
+   "workflow": "W05"
+  },
+  {
+   "id": "T35",
+   "gate": "G1",
+   "title": "Route cart, tip-over, falling-merchandise, door and escalator hazards to accountable owners",
+   "owner": "Evaluation / operations",
+   "kind": "now",
+   "workflow": "W03"
+  },
+  {
+   "id": "T11",
+   "gate": "G2",
+   "title": "Identify adopted rules, amendments and authorities",
+   "owner": "Legal / facilities",
+   "kind": "review",
+   "workflow": "W07"
+  },
+  {
+   "id": "T12",
+   "gate": "G2",
+   "title": "Resolve permit, fire and health review requirements",
+   "owner": "Facilities",
+   "kind": "review",
+   "workflow": "W07"
+  },
+  {
+   "id": "T13",
+   "gate": "G2",
+   "title": "Obtain landlord and contract responsibility decisions",
+   "owner": "Property / legal",
+   "kind": "signed",
+   "workflow": "W07"
+  },
+  {
+   "id": "T14",
+   "gate": "G2",
+   "title": "Review policy-specific insurer notice and conditions",
+   "owner": "Risk / broker",
+   "kind": "review",
+   "workflow": "W07"
+  },
+  {
+   "id": "T15",
+   "gate": "G3",
+   "title": "Compare elimination, repair, redesign and materials",
+   "owner": "Designer",
+   "kind": "review",
+   "workflow": "W08"
+  },
+  {
+   "id": "T16",
+   "gate": "G3",
+   "title": "Approve measurable acceptance criteria before testing",
+   "owner": "Specialists",
+   "kind": "review",
+   "workflow": "W08"
+  },
+  {
+   "id": "T17",
+   "gate": "G3",
+   "title": "Request comparable supplier dossiers and quotes",
+   "owner": "Procurement",
+   "kind": "now",
+   "workflow": "W09"
+  },
+  {
+   "id": "T18",
+   "gate": "G3",
+   "title": "Complete mock-up, loading, access and cleaning checks",
+   "owner": "Facilities",
+   "kind": "review",
+   "workflow": "W09"
+  },
+  {
+   "id": "T19",
+   "gate": "G3",
+   "title": "Independently review reports and resolve critical gaps",
+   "owner": "Specialists",
+   "kind": "review",
+   "workflow": "W09"
+  },
+  {
+   "id": "T20",
+   "gate": "G3",
+   "title": "Finalize contract, budget and restoration plan",
+   "owner": "Sponsor",
+   "kind": "signed",
+   "workflow": "W09"
+  },
+  {
+   "id": "T21",
+   "gate": "G4",
+   "title": "Verify approved installation and configuration records",
+   "owner": "Installer / facilities",
+   "kind": "review",
+   "workflow": "W10"
+  },
+  {
+   "id": "T22",
+   "gate": "G4",
+   "title": "Complete commissioning, in-situ verification and required inspections",
+   "owner": "Facilities",
+   "kind": "review",
+   "workflow": "W10"
+  },
+  {
+   "id": "T23",
+   "gate": "G4",
+   "title": "Demonstrate training and shift response coverage",
+   "owner": "Operations",
+   "kind": "now",
+   "workflow": "W10"
+  },
+  {
+   "id": "T24",
+   "gate": "G4",
+   "title": "Confirm data, maintenance and withdrawal readiness",
+   "owner": "Site manager",
+   "kind": "review",
+   "workflow": "W10"
+  },
+  {
+   "id": "T25",
+   "gate": "G4",
+   "title": "Hold go/no-go review and record signed releases",
+   "owner": "Sponsor",
+   "kind": "signed",
+   "workflow": "W10"
+  },
+  {
+   "id": "T26",
+   "gate": "G5",
+   "title": "Inspect initial trading and cleaning cycles",
+   "owner": "Operations",
+   "kind": "now",
+   "workflow": "W13"
+  },
+  {
+   "id": "T27",
+   "gate": "G5",
+   "title": "Review weekly defects, complaints and data quality",
+   "owner": "Site lead",
+   "kind": "now",
+   "workflow": "W13"
+  },
+  {
+   "id": "T28",
+   "gate": "G5",
+   "title": "Complete 30/60-day operational and budget reviews",
+   "owner": "Steering group",
+   "kind": "review",
+   "workflow": "W13"
+  },
+  {
+   "id": "T29",
+   "gate": "G5",
+   "title": "Analyze pilot results and balancing outcomes",
+   "owner": "Evaluation",
+   "kind": "review",
+   "workflow": "W13"
+  },
+  {
+   "id": "T30",
+   "gate": "G5",
+   "title": "Conduct independent assurance review",
+   "owner": "Independent reviewer",
+   "kind": "review",
+   "workflow": "W13"
+  },
+  {
+   "id": "T31",
+   "gate": "G6",
+   "title": "Decide scale, extend, redesign or remove",
+   "owner": "Sponsor",
+   "kind": "signed",
+   "workflow": "W14"
+  },
+  {
+   "id": "T32",
+   "gate": "G6",
+   "title": "Approve accurate aggregate public summary",
+   "owner": "Communications / evaluation",
+   "kind": "review",
+   "workflow": "W15"
+  },
+  {
+   "id": "T33",
+   "gate": "G6",
+   "title": "Fund replication, maintenance and withdrawal",
+   "owner": "Finance",
+   "kind": "signed",
+   "workflow": "W14"
+  },
+  {
+   "id": "T34",
+   "gate": "G6",
+   "title": "Record conditions, dissent and next review",
+   "owner": "Sponsor",
+   "kind": "signed",
+   "workflow": "W14"
+  }
+ ],
+ "registers": [
+  "hazards",
+  "actions",
+  "jurisdiction",
+  "product_acceptance",
+  "inspection",
+  "spill_response",
+  "aggregate_outcomes",
+  "assets",
+  "budget",
+  "stakeholder_feedback",
+  "training",
+  "decisions",
+  "standards",
+  "change_control",
+  "evidence",
+  "test_plan",
+  "audit_findings",
+  "funding",
+  "consultation",
+  "site_profile",
+  "commissioning",
+  "publication_claims",
+  "handoffs",
+  "software_acceptance"
+ ],
+ "schemas": {
+  "hazards": [
+   "hazard_id",
+   "site_id",
+   "zone",
+   "observed_at",
+   "mechanism",
+   "exposure",
+   "severity_1_to_5",
+   "likelihood_1_to_5",
+   "rating_rationale",
+   "immediate_control",
+   "owner",
+   "due_date",
+   "status",
+   "verification_reference"
+  ],
+  "actions": [
+   "action_id",
+   "gate",
+   "action",
+   "owner_role",
+   "due_date",
+   "status",
+   "dependency",
+   "evidence_reference",
+   "reviewer",
+   "closed_date"
+  ],
+  "jurisdiction": [
+   "requirement_id",
+   "site_id",
+   "type_LAW_CONTRACT_PROGRAM_PROPOSAL",
+   "topic",
+   "authority",
+   "adopted_edition",
+   "section_url",
+   "applicability_reason",
+   "permit_status",
+   "evidence_reference",
+   "owner",
+   "recheck_date"
+  ],
+  "product_acceptance": [
+   "criterion_id",
+   "assembly_version",
+   "attribute",
+   "method_edition",
+   "conditioning",
+   "threshold",
+   "rationale",
+   "approver",
+   "lab_report_reference",
+   "result",
+   "pass_fail_undetermined",
+   "action"
+  ],
+  "inspection": [
+   "check_id",
+   "site_id",
+   "zone",
+   "scheduled_at",
+   "completed_at",
+   "inspector_role",
+   "surface_condition",
+   "guard_condition",
+   "route_condition",
+   "defect_id",
+   "action",
+   "reopening_verified_by",
+   "evidence_reference"
+  ],
+  "spill_response": [
+   "event_code",
+   "site_id",
+   "zone",
+   "detected_at",
+   "isolated_at",
+   "cleanup_complete_at",
+   "reopened_at",
+   "hazard_type",
+   "source_fixed",
+   "approved_method",
+   "verification_role",
+   "followup_action"
+  ],
+  "aggregate_outcomes": [
+   "site_id",
+   "period_start",
+   "period_end",
+   "group",
+   "total_visitor_entries",
+   "exposure_method",
+   "missing_exposure_hours",
+   "all_falls",
+   "falls_with_injury",
+   "child_falls_with_injury",
+   "child_entries_if_valid",
+   "collisions",
+   "near_misses",
+   "serious_reported_events",
+   "unknown_severity_events",
+   "notes_no_personal_data"
+  ],
+  "assets": [
+   "asset_id",
+   "site_id",
+   "zone",
+   "product",
+   "assembly_version",
+   "batch_lot",
+   "installer",
+   "installed_date",
+   "report_reference",
+   "warranty_end",
+   "inspection_frequency",
+   "next_check",
+   "replacement_trigger",
+   "removal_method_reference"
+  ],
+  "budget": [
+   "line_id",
+   "cost_category",
+   "description",
+   "quantity",
+   "unit",
+   "unit_cost",
+   "currency",
+   "one_time_or_recurring",
+   "year",
+   "quote_reference",
+   "owner",
+   "approved_amount",
+   "actual_amount"
+  ],
+  "stakeholder_feedback": [
+   "feedback_id",
+   "date",
+   "adult_group",
+   "channel",
+   "theme_no_personal_data",
+   "barrier",
+   "action",
+   "owner",
+   "due_date",
+   "resolution"
+  ],
+  "training": [
+   "record_id",
+   "role_or_internal_code",
+   "shift",
+   "module_version",
+   "trainer_role",
+   "date",
+   "critical_steps_passed",
+   "retraining_action",
+   "verified_date",
+   "secure_record_reference"
+  ],
+  "decisions": [
+   "decision_id",
+   "gate",
+   "date",
+   "decision",
+   "rationale",
+   "evidence_reference",
+   "approver_role",
+   "conditions",
+   "dissent",
+   "review_date"
+  ],
+  "standards": [
+   "standard_id",
+   "site_id",
+   "topic",
+   "candidate_method",
+   "edition_required",
+   "legal_or_program_basis",
+   "applicability_decision",
+   "reviewer",
+   "licensed_text_reference",
+   "test_report",
+   "recheck_date"
+  ],
+  "change_control": [
+   "change_id",
+   "date",
+   "proposed_change",
+   "reason",
+   "affected_sites_documents",
+   "risk_review_reference",
+   "decision",
+   "approver",
+   "retest_required",
+   "training_required",
+   "effective_date"
+  ],
+  "evidence": [
+   "claim_id",
+   "claim",
+   "category",
+   "source_ids",
+   "population_setting",
+   "limitations",
+   "decision_implication",
+   "reviewer_role",
+   "recheck_date"
+  ],
+  "test_plan": [
+   "test_id",
+   "system_version",
+   "attribute",
+   "condition",
+   "method_edition",
+   "threshold",
+   "threshold_basis",
+   "approved_by_role",
+   "report_reference",
+   "result",
+   "disposition"
+  ],
+  "audit_findings": [
+   "finding_id",
+   "site_zone",
+   "classification",
+   "evidence_reference",
+   "containment",
+   "cause",
+   "corrective_action",
+   "owner_role",
+   "due_date",
+   "verification",
+   "status"
+  ],
+  "funding": [
+   "opportunity_id",
+   "existing_or_proposed",
+   "source",
+   "eligibility",
+   "cost_category",
+   "currency",
+   "amount",
+   "deadline",
+   "status",
+   "award_reference",
+   "restrictions"
+  ],
+  "consultation": [
+   "record_id",
+   "entity_role",
+   "question",
+   "date",
+   "response_reference",
+   "advice_or_binding_condition",
+   "unresolved_item",
+   "owner_role",
+   "due_date"
+  ],
+  "site_profile": [
+   "site_code",
+   "country",
+   "region",
+   "municipality",
+   "business_type",
+   "occupancy",
+   "scope",
+   "visitor_count_method",
+   "food_play_zones",
+   "owner_role"
+  ],
+  "commissioning": [
+   "item_id",
+   "site_zone",
+   "criterion",
+   "required_evidence",
+   "report_reference",
+   "pass_fail_undetermined",
+   "defect_id",
+   "reviewer_role",
+   "release_date"
+  ],
+  "publication_claims": [
+   "claim_id",
+   "proposed_statement",
+   "evidence_reference",
+   "scope_limit",
+   "reviewer_role",
+   "approved_or_rejected",
+   "decision_date",
+   "review_trigger"
+  ],
+  "handoffs": [
+   "handoff_id",
+   "date_time",
+   "workflow_id",
+   "from_role",
+   "to_role",
+   "open_hazards_or_actions",
+   "isolated_zones_and_routes",
+   "next_required_action",
+   "acknowledged_by_role",
+   "acknowledged_at",
+   "evidence_reference"
+  ],
+  "software_acceptance": [
+   "check_id",
+   "date",
+   "browser_and_version",
+   "device_and_os",
+   "opened_as",
+   "check_step",
+   "expected_result",
+   "actual_result",
+   "pass_fail_undetermined",
+   "issue_reference",
+   "resolution",
+   "tester_role"
+  ]
+ },
+ "registerMeta": {
+  "hazards": {
+   "purpose": "Observable hazards, immediate controls and owners.",
+   "docs": [
+    "04",
+    "28"
+   ],
+   "workflows": [
+    "W03"
+   ],
+   "scan": "record",
+   "example": [
+    "H-EX-01",
+    "EX-001",
+    "Entrance",
+    "2026-11-03T08:40-05:00",
+    "Mat edge lifts after loaded carts cross; rainwater tracks around edge",
+    "All visitors incl. strollers; busiest 08:00–10:00 (estimate)",
+    "3",
+    "4",
+    "Trip near a head-height fixture; frequent crossing (estimate, not measured)",
+    "Mat removed; area barricaded; dry west route open",
+    "Facilities lead",
+    "2026-11-04",
+    "open",
+    "FICTIONAL EXAMPLE — not a site record"
+   ]
+  },
+  "actions": {
+   "purpose": "Corrective and planning actions with owners, dependencies and evidence.",
+   "docs": [
+    "03",
+    "36"
+   ],
+   "workflows": [
+    "W03",
+    "W04"
+   ],
+   "scan": "record",
+   "example": [
+    "A-EX-01",
+    "G0",
+    "Investigate entrance water path; specify a fixed recessed mat",
+    "Facilities lead",
+    "2026-11-10",
+    "in_progress",
+    "H-EX-01",
+    "WO-EX-117 (fictional work order)",
+    "Site manager",
+    ""
+   ]
+  },
+  "jurisdiction": {
+   "purpose": "Each legal, contract, program or proposed requirement with its edition, basis and reviewer.",
+   "docs": [
+    "06",
+    "33",
+    "34"
+   ],
+   "workflows": [
+    "W07"
+   ],
+   "scan": "document",
+   "example": [
+    "R-EX-01",
+    "EX-001",
+    "LAW",
+    "Fire performance of a proposed fixture edge guard",
+    "[Local building/fire official]",
+    "UNDETERMINED",
+    "",
+    "Guard would be fixed to fixtures beside a path of travel; classification route unknown",
+    "undetermined",
+    "CO-EX-01",
+    "Facilities lead",
+    "2026-12-01"
+   ]
+  },
+  "product_acceptance": {
+   "purpose": "Acceptance criteria for the actual installed system, approved before testing.",
+   "docs": [
+    "08",
+    "29"
+   ],
+   "workflows": [
+    "W08"
+   ],
+   "scan": "document",
+   "example": [
+    "C-EX-01",
+    "Guard system rev. A (fictional)",
+    "Attachment after cleaning cycles",
+    "[Method to be named by specialist]",
+    "[Chemical and cycle count to be set]",
+    "[Not set — specialist approves before testing]",
+    "Detached parts create choking and trip hazards",
+    "[Specialist role]",
+    "",
+    "",
+    "undetermined",
+    "Blocked: threshold not approved"
+   ]
+  },
+  "inspection": {
+   "purpose": "Scheduled and completed inspections, defects found and reopening verification.",
+   "docs": [
+    "12"
+   ],
+   "workflows": [
+    "W04"
+   ],
+   "scan": "record",
+   "example": [
+    "I-EX-01",
+    "EX-001",
+    "Entrance",
+    "2026-11-03T07:00-05:00",
+    "2026-11-03T07:05-05:00",
+    "Shift lead",
+    "Wet near door; mat edge curling",
+    "n/a",
+    "West route open",
+    "H-EX-01",
+    "Isolated; facilities notified",
+    "Site manager",
+    "LOG-EX-0311"
+   ]
+  },
+  "spill_response": {
+   "purpose": "Spill and contamination events with the four response timestamps.",
+   "docs": [
+    "12"
+   ],
+   "workflows": [
+    "W04"
+   ],
+   "scan": "record",
+   "example": [
+    "SP-EX-01",
+    "EX-001",
+    "Aisle 4",
+    "2026-11-03T12:10-05:00",
+    "2026-11-03T12:11-05:00",
+    "2026-11-03T12:19-05:00",
+    "2026-11-03T12:31-05:00",
+    "Liquid (drink)",
+    "yes — leaking bottle removed",
+    "Approved neutral cleaner; dried before reopening",
+    "Shift lead",
+    "None"
+   ]
+  },
+  "aggregate_outcomes": {
+   "purpose": "Aggregate counts and exposure by site and period — never individual events.",
+   "docs": [
+    "15",
+    "16",
+    "35"
+   ],
+   "workflows": [
+    "W05",
+    "W13"
+   ],
+   "scan": "record",
+   "example": [
+    "EX-001",
+    "2026-11-01",
+    "2026-11-30",
+    "All visitors",
+    "150000",
+    "Door counter; staff and re-entries excluded",
+    "6",
+    "3",
+    "1",
+    "0",
+    "",
+    "0",
+    "4",
+    "0",
+    "0",
+    "FICTIONAL EXAMPLE — aggregate counts only"
+   ]
+  },
+  "assets": {
+   "purpose": "Installed products, batches, inspection frequency and removal method.",
+   "docs": [
+    "11",
+    "21"
+   ],
+   "workflows": [
+    "W10"
+   ],
+   "scan": "document",
+   "example": [
+    "AS-EX-01",
+    "EX-001",
+    "Queue",
+    "Edge guard (fictional product)",
+    "Rev. A on painted steel",
+    "LOT-EX-22",
+    "[Installer role]",
+    "",
+    "",
+    "",
+    "[Set by site after commissioning]",
+    "",
+    "Tear, lift or detachment",
+    "RM-EX-01"
+   ]
+  },
+  "budget": {
+   "purpose": "Cost lines with quotes, approvals and actuals.",
+   "docs": [
+    "17",
+    "44"
+   ],
+   "workflows": [
+    "W02",
+    "W09"
+   ],
+   "scan": "document",
+   "example": [
+    "B-EX-01",
+    "Independent testing",
+    "Attachment and cleaning tests (fictional)",
+    "1",
+    "lot",
+    "[from quote]",
+    "CAD",
+    "one-time",
+    "1",
+    "",
+    "Finance",
+    "",
+    ""
+   ]
+  },
+  "stakeholder_feedback": {
+   "purpose": "Themes from adult feedback — no personal details.",
+   "docs": [
+    "24"
+   ],
+   "workflows": [
+    "W06"
+   ],
+   "scan": "record",
+   "example": [
+    "F-EX-01",
+    "2026-11-05",
+    "Wheelchair users (paid advisory session)",
+    "In person",
+    "Queue turn too tight once guards are fitted",
+    "Turning space",
+    "Measure turning space; review guard thickness",
+    "Accessibility reviewer",
+    "2026-11-12",
+    ""
+   ]
+  },
+  "training": {
+   "purpose": "Competency demonstrations by role or internal code — never names.",
+   "docs": [
+    "13",
+    "47"
+   ],
+   "workflows": [
+    "W10"
+   ],
+   "scan": "record",
+   "example": [
+    "TR-EX-01",
+    "EMP-CODE-EX (internal code only)",
+    "Morning",
+    "SOP-12 v3",
+    "Shift lead",
+    "2026-11-04",
+    "4 of 5",
+    "Repeat the isolation step",
+    "",
+    "HR-REF-EX (fictional)"
+   ]
+  },
+  "decisions": {
+   "purpose": "Gate, stop, restart and scale decisions with evidence, approver, conditions and dissent.",
+   "docs": [
+    "14",
+    "25",
+    "48"
+   ],
+   "workflows": [
+    "W02",
+    "W11",
+    "W12",
+    "W14"
+   ],
+   "scan": "record",
+   "example": [
+    "D-EX-01",
+    "G0",
+    "2026-11-02",
+    "Approve assessment only; no installation",
+    "Hazards documented; no approvals yet",
+    "CHARTER-EX v1 (controlled record)",
+    "Sponsor",
+    "Removal reserve to be set before any purchase",
+    "None recorded",
+    "2026-11-30"
+   ]
+  },
+  "standards": {
+   "purpose": "Candidate methods, required edition, basis and applicability decision.",
+   "docs": [
+    "21",
+    "29"
+   ],
+   "workflows": [
+    "W08"
+   ],
+   "scan": "document",
+   "example": [
+    "ST-EX-01",
+    "EX-001",
+    "Tribometer validation",
+    "ASTM F2508",
+    "[Confirm edition; F2508-23 active on 2026-10-20]",
+    "PROGRAM",
+    "Pending specialist",
+    "[Specialist role]",
+    "",
+    "",
+    "2027-01-15"
+   ]
+  },
+  "change_control": {
+   "purpose": "Proposed changes to products, methods or documents and their review.",
+   "docs": [
+    "12",
+    "40"
+   ],
+   "workflows": [
+    "W12"
+   ],
+   "scan": "document",
+   "example": [
+    "CC-EX-01",
+    "2026-11-20",
+    "Change the cleaning chemical for the guard zone",
+    "Supplier discontinued the product",
+    "EX-001; SOP-12",
+    "RR-EX-04",
+    "Pending",
+    "Facilities lead",
+    "yes",
+    "yes",
+    ""
+   ]
+  },
+  "evidence": {
+   "purpose": "Claims with category, sources, setting, limits and decision implication.",
+   "docs": [
+    "32"
+   ],
+   "workflows": [
+    "W05"
+   ],
+   "scan": "document",
+   "example": [
+    "EV-EX-01",
+    "Cart falls are a leading child injury mechanism in U.S. stores",
+    "VERIFIED SOURCE FACT",
+    "S31,S32",
+    "U.S. emergency-department surveillance",
+    "No store denominators",
+    "Route cart controls before choosing floor products",
+    "Evaluation lead",
+    "2027-10-20"
+   ]
+  },
+  "test_plan": {
+   "purpose": "Planned tests with approved thresholds and their basis.",
+   "docs": [
+    "29"
+   ],
+   "workflows": [
+    "W08",
+    "W09"
+   ],
+   "scan": "document",
+   "example": [
+    "TP-EX-01",
+    "Guard rev. A",
+    "Attachment",
+    "After a specialist-set number of cleaning cycles",
+    "[Method named by specialist]",
+    "[Not yet approved]",
+    "",
+    "",
+    "",
+    "",
+    "Blocked until a threshold is approved"
+   ]
+  },
+  "audit_findings": {
+   "purpose": "Audit findings, containment, root cause and verification.",
+   "docs": [
+    "40"
+   ],
+   "workflows": [
+    "W13"
+   ],
+   "scan": "record",
+   "example": [
+    "AF-EX-01",
+    "EX-001 / Entrance",
+    "Major",
+    "AUD-EX-01 p.3",
+    "Daily mat check added",
+    "Mat saturates in heavy rain",
+    "Fixed recessed mat proposal",
+    "Facilities lead",
+    "2026-12-15",
+    "Recheck after three rain days",
+    "open"
+   ]
+  },
+  "funding": {
+   "purpose": "Existing and proposed funding — only confirmed awards count in a budget.",
+   "docs": [
+    "37"
+   ],
+   "workflows": [
+    "W02"
+   ],
+   "scan": "document",
+   "example": [
+    "FU-EX-01",
+    "PROPOSED",
+    "[Hypothetical municipal pilot fund]",
+    "Not established",
+    "Assessment",
+    "CAD",
+    "",
+    "",
+    "idea only",
+    "",
+    "Do not count in the budget"
+   ]
+  },
+  "consultation": {
+   "purpose": "Questions to authorities and advisors, answers, and whether each is advice or a binding condition.",
+   "docs": [
+    "07",
+    "42"
+   ],
+   "workflows": [
+    "W07"
+   ],
+   "scan": "record",
+   "example": [
+    "CO-EX-01",
+    "Local building official (role)",
+    "Does a fixture edge guard need a permit or fire review?",
+    "2026-11-08",
+    "",
+    "",
+    "Awaiting a written answer — silence is not approval",
+    "Facilities lead",
+    "2026-11-29"
+   ]
+  },
+  "site_profile": {
+   "purpose": "Non-identifying site facts used for routing.",
+   "docs": [
+    "28"
+   ],
+   "workflows": [
+    "W01",
+    "W02"
+   ],
+   "scan": "record",
+   "example": [
+    "EX-001",
+    "Canada",
+    "[Province]",
+    "[Municipality]",
+    "General retail (fictional)",
+    "[Confirm with a code professional]",
+    "Entrance and two queues",
+    "Door counter",
+    "No play area; snack kiosk",
+    "Site manager"
+   ]
+  },
+  "commissioning": {
+   "purpose": "Commissioning criteria, evidence and release.",
+   "docs": [
+    "11"
+   ],
+   "workflows": [
+    "W10"
+   ],
+   "scan": "document",
+   "example": [
+    "CM-EX-01",
+    "EX-001 / Queue",
+    "Guard retained after first full cleaning",
+    "Photo + check sheet",
+    "",
+    "undetermined",
+    "",
+    "Facilities lead",
+    ""
+   ]
+  },
+  "publication_claims": {
+   "purpose": "Every public statement with its evidence and approval decision.",
+   "docs": [
+    "23"
+   ],
+   "workflows": [
+    "W15"
+   ],
+   "scan": "document",
+   "example": [
+    "PC-EX-01",
+    "\"This store is now child-proof\"",
+    "none",
+    "—",
+    "Communications lead",
+    "rejected",
+    "2026-11-10",
+    "Never use: no evidence supports it"
+   ]
+  },
+  "handoffs": {
+   "purpose": "Shift, contractor, tenant and role handoffs with acknowledgement.",
+   "docs": [
+    "22",
+    "47"
+   ],
+   "workflows": [
+    "W16"
+   ],
+   "scan": "record",
+   "example": [
+    "HO-EX-01",
+    "2026-11-03T15:00-05:00",
+    "W04",
+    "Morning shift lead",
+    "Evening shift lead",
+    "H-EX-01 open; A-EX-01 in progress",
+    "East door closed; west route open",
+    "Check mat area at 17:00",
+    "Evening shift lead",
+    "2026-11-03T15:04-05:00",
+    "LOG-EX-0312"
+   ]
+  },
+  "software_acceptance": {
+   "purpose": "Your organization's own checks of this workspace in its browsers (see source/MANUAL-CHECKS.md).",
+   "docs": [
+    "26"
+   ],
+   "workflows": [
+    "W01"
+   ],
+   "scan": "document",
+   "example": [
+    "SA-EX-01",
+    "2026-11-01",
+    "[Browser name and version]",
+    "[Device / OS]",
+    "index.html from a local folder",
+    "Manual check 3: edit, reload, draft persists",
+    "Draft persists after reload",
+    "",
+    "undetermined",
+    "",
+    "",
+    "IT or site lead"
+   ]
+  }
+ },
+ "columnHints": {
+  "*_id": "A stable code you create (e.g. H-001). Never reuse it. No names.",
+  "site_id": "Non-identifying site code (e.g. S-014), not an address.",
+  "site_code": "Non-identifying site code (e.g. S-014), not an address.",
+  "zone": "Area code or short description (e.g. Entrance-East).",
+  "*_at": "Date-time with offset, e.g. 2026-11-03T08:40-05:00.",
+  "date_time": "Date-time with offset, e.g. 2026-11-03T08:40-05:00.",
+  "*_date": "Date as YYYY-MM-DD.",
+  "date": "Date as YYYY-MM-DD.",
+  "period_start": "Date as YYYY-MM-DD.",
+  "period_end": "Date as YYYY-MM-DD.",
+  "deadline": "Date as YYYY-MM-DD.",
+  "warranty_end": "Date as YYYY-MM-DD.",
+  "next_check": "Date as YYYY-MM-DD.",
+  "owner": "A role, not a person's name (e.g. Facilities lead).",
+  "*_role": "A role, not a person's name.",
+  "reviewer": "A role, not a person's name.",
+  "approver": "A role, not a person's name.",
+  "installer": "Company or role, not a person's name.",
+  "status": "open · in_progress · blocked · done · not_applicable (or your adopted list).",
+  "*_reference": "Pointer to the controlled record (e.g. DOC-123) — not the record itself.",
+  "severity_1_to_5": "1–5 sorting aid (document 04); not a legal safety determination.",
+  "likelihood_1_to_5": "1–5 sorting aid (document 04); not a legal safety determination.",
+  "pass_fail_undetermined": "pass · fail · undetermined. An undetermined critical item blocks public use.",
+  "type_LAW_CONTRACT_PROGRAM_PROPOSAL": "LAW, CONTRACT, PROGRAM or PROPOSAL (document 06).",
+  "threshold": "Only a value approved in writing BEFORE testing; leave blank until approved.",
+  "currency": "Currency code, e.g. USD or CAD.",
+  "notes_no_personal_data": "Counts or themes only — no names, ages, injuries or contact details.",
+  "theme_no_personal_data": "Themes only — no names, ages, injuries or contact details.",
+  "existing_or_proposed": "EXISTING (confirmed program) or PROPOSED (idea only).",
+  "advice_or_binding_condition": "ADVICE, or BINDING with the written source.",
+  "approved_or_rejected": "approved · rejected · revise.",
+  "one_time_or_recurring": "one-time or recurring.",
+  "child_entries_if_valid": "Leave blank unless a separately approved child-counting method exists.",
+  "exposure_method": "How entries were counted; note exclusions and outages.",
+  "category": "VERIFIED SOURCE FACT · PROGRAM RECOMMENDATION · ILLUSTRATION · UNRESOLVED.",
+  "source_ids": "Source register IDs, e.g. S2,S28.",
+  "secure_record_reference": "Pointer to the HR/training system record — never the worker's name.",
+  "role_or_internal_code": "Role or internal code only — never a worker's name.",
+  "adopted_edition": "Edition actually adopted for this site, or UNDETERMINED.",
+  "method_edition": "Method with edition year (e.g. ASTM F2508-23), as approved.",
+  "opened_as": "How the workspace was opened (index.html from folder, standalone.html, local web address)."
+ },
+ "workflows": [
+  {
+   "id": "W01",
+   "title": "Open the bundle and set up the workspace",
+   "phase": "Start",
+   "kind": "now",
+   "gate": "G0",
+   "owner": "Site lead",
+   "authority": "None needed (set-up only)",
+   "trigger": "First use of the bundle, a new device or browser, or a new version.",
+   "prerequisites": "The full ZIP extracted to an approved folder; one assigned editor.",
+   "inputs": "The bundle; a non-identifying site code; an approved backup location.",
+   "steps": [
+    "Open index.html (or standalone.html) and check the storage indicator in the status bar at the bottom of the page.",
+    "Enter the non-identifying site profile in the Implementation plan.",
+    "Export the first planning backup to the approved location and name it with the date.",
+    "Re-import that backup to see the validation preview, then cancel.",
+    "Record the browser and result in the software-acceptance register (source/MANUAL-CHECKS.md)."
+   ],
+   "outputs": "A dated backup file; a software-acceptance row.",
+   "acceptance": "The indicator shows \"Saved in this browser\" (or you have chosen to work from exports); the backup preview opens without errors.",
+   "escalation": "Storage unavailable or blocked: keep working and export before closing. Pages do not load: try standalone.html, then ask IT. Never bypass device or browser security settings.",
+   "docs": [
+    "26",
+    "18"
+   ],
+   "registers": [
+    "software_acceptance",
+    "site_profile"
+   ]
+  },
+  {
+   "id": "W02",
+   "title": "Appoint owners, scope and charter (G0)",
+   "phase": "Start",
+   "kind": "signed",
+   "gate": "G0",
+   "owner": "Sponsor",
+   "authority": "Sponsor (budget, scope, stop authority)",
+   "trigger": "A decision to explore the program at one or more sites.",
+   "prerequisites": "A sponsor willing to hold stop and withdrawal authority.",
+   "inputs": "Site list, organization chart, budget envelope, existing safety procedures.",
+   "steps": [
+    "Name the sponsor, site lead, facilities owner, evaluation lead and deputies (T01).",
+    "Define sites, jurisdiction and scope, including exclusions and adjacent mechanisms (T02).",
+    "Propose assessment budget and removal-reserve approach for signature (T03).",
+    "Adopt the charter, responsibility matrix and decision rights (document 10; document 49) (T05).",
+    "Record the G0 decision reference after the signed record exists."
+   ],
+   "outputs": "Signed charter in the controlled system; G0 decision row.",
+   "acceptance": "T01–T05 have dispositions with evidence references; the G0 note cites the signed record.",
+   "escalation": "No sponsor accepts stop authority: do not proceed beyond ordinary hazard correction. Budget refused: continue W03/W04 only.",
+   "docs": [
+    "02",
+    "03",
+    "10"
+   ],
+   "registers": [
+    "decisions",
+    "budget",
+    "site_profile"
+   ]
+  },
+  {
+   "id": "W03",
+   "title": "Initial hazard walk, immediate controls and routing",
+   "phase": "Start",
+   "kind": "now",
+   "gate": "G0",
+   "owner": "Site manager",
+   "authority": "Site manager (isolation and closure)",
+   "trigger": "Day 1; any layout, product, season or traffic change; a reported concern.",
+   "prerequisites": "Existing safety and emergency procedures; barriers and supplies available.",
+   "inputs": "Floor plan, the 0–120 cm child survey band (document 28), cart-fleet status, hazard checklist.",
+   "steps": [
+    "Walk every zone at opening, peak, cleaning and restocking where safely feasible, with facilities and a worker representative.",
+    "Record each observable condition in the hazard register — never people's details.",
+    "Isolate critical conditions at once with a physical barrier and an accessible alternative; offer assistance.",
+    "Take defective carts out of service and log them.",
+    "Assign owners and due dates in the action register.",
+    "Route carts, tip-over, falling merchandise, doors and escalators to their accountable owners (T35)."
+   ],
+   "outputs": "Hazard and action rows; routing decisions for adjacent mechanisms.",
+   "acceptance": "Every critical condition is isolated with an owner and verification; no hazard is kept for research; every adjacent mechanism has a named owner.",
+   "escalation": "No capacity to repair: tell the sponsor the same day. Regulated systems (egress, fire protection, structure) affected: landlord and the authority.",
+   "docs": [
+    "04",
+    "28",
+    "27"
+   ],
+   "registers": [
+    "hazards",
+    "actions"
+   ]
+  },
+  {
+   "id": "W04",
+   "title": "Daily inspection, spill response and reopening",
+   "phase": "Operate every day",
+   "kind": "now",
+   "gate": "",
+   "owner": "Shift lead",
+   "authority": "Shift lead isolates; the designated role reopens after verification",
+   "trigger": "Scheduled inspection, a spill or contamination report, cleaning, restocking or weather.",
+   "prerequisites": "Trained responder and deputy on shift; approved cleaning methods; barriers.",
+   "inputs": "Inspection schedule, approved chemicals and dilution, spill kit.",
+   "steps": [
+    "Protect people: physically block entry and keep an accessible alternative.",
+    "Offer assistance (for example, retrieve goods from a closed aisle).",
+    "Identify the hazard; call a specialist for unknown chemicals or blood.",
+    "Clean and fix the source with the approved method; keep the area closed while wet.",
+    "Verify dryness, residue, seams and guards before reopening.",
+    "Log the four timestamps; hand over open items at shift change (W16)."
+   ],
+   "outputs": "Spill-response and inspection rows; handoff rows.",
+   "acceptance": "All four timestamps recorded; reopening verified by the authorized role; recurring sources escalated.",
+   "escalation": "Recurring source or overdue repair: site manager the same shift. Product defect: suspend under W11.",
+   "docs": [
+    "12",
+    "13",
+    "47"
+   ],
+   "registers": [
+    "spill_response",
+    "inspection",
+    "handoffs"
+   ]
+  },
+  {
+   "id": "W05",
+   "title": "Baseline data, exposure and evidence plan (G1)",
+   "phase": "Plan",
+   "kind": "review",
+   "gate": "G1",
+   "owner": "Evaluation lead",
+   "authority": "Privacy officer (data access); research-ethics office (if research)",
+   "trigger": "G0 complete or near complete.",
+   "prerequisites": "Privacy and research-ethics determinations requested (T07).",
+   "inputs": "De-identified aggregate incident counts, visitor counts and their methods, the evidence ledger.",
+   "steps": [
+    "Ask the privacy officer which aggregate data may be shared and how.",
+    "Request a research or quality-improvement determination before any structured study.",
+    "Enter aggregate counts and exposure by period; record missing exposure.",
+    "Use Evaluation planning to see what the data can and cannot show.",
+    "Record evidence gaps and lock a pre-analysis plan (T09, T10)."
+   ],
+   "outputs": "Aggregate-outcome rows; evidence rows; determination references.",
+   "acceptance": "Event and exposure windows match; missingness documented; no identifiable data in the workspace; determinations recorded.",
+   "escalation": "Identifiable data offered or requested: stop and refer to the privacy officer. Determination refused or pending: operational controls only.",
+   "docs": [
+    "15",
+    "16",
+    "35",
+    "43",
+    "32"
+   ],
+   "registers": [
+    "aggregate_outcomes",
+    "evidence"
+   ]
+  },
+  {
+   "id": "W06",
+   "title": "Community, disability and worker consultation",
+   "phase": "Plan",
+   "kind": "review",
+   "gate": "G1",
+   "owner": "Community lead",
+   "authority": "Ethics office if the activity is research; sponsor for compensation",
+   "trigger": "Before selecting products, and before any physical pilot.",
+   "prerequisites": "Accessible formats; compensation arrangements; privacy notice.",
+   "inputs": "Interview guide (document 24), invitation (document 42).",
+   "steps": [
+    "Invite adult advisors through accessible, voluntary and compensated channels.",
+    "Explain recording, retention and withdrawal before participation.",
+    "Record themes and objections without personal details.",
+    "Feed barriers into the hazard and action registers."
+   ],
+   "outputs": "Stakeholder-feedback rows.",
+   "acceptance": "Each group's themes and objections recorded; responses assigned owners.",
+   "escalation": "Structured testing proposed: obtain an ethics determination first. Advisor raises a safety concern: treat as a hazard report (W03).",
+   "docs": [
+    "05",
+    "24",
+    "30",
+    "42"
+   ],
+   "registers": [
+    "stakeholder_feedback"
+   ]
+  },
+  {
+   "id": "W07",
+   "title": "Jurisdiction, permits, landlord and insurer routing (G2)",
+   "phase": "Plan",
+   "kind": "review",
+   "gate": "G2",
+   "owner": "Facilities / legal lead",
+   "authority": "Authorities having jurisdiction; landlord; insurer (each within its remit)",
+   "trigger": "A proposed physical change, or before any procurement commitment.",
+   "prerequisites": "An exact work scope and site profile.",
+   "inputs": "Documents 06, 07, 19, 22, 33/34; drawings and dossier.",
+   "steps": [
+    "List every requirement as LAW, CONTRACT, PROGRAM or PROPOSAL with citation, edition and reviewer.",
+    "Send the authority consultation request (document 07) and record answers as advice or binding conditions.",
+    "Obtain landlord consent and responsibility allocation in writing.",
+    "Ask the insurer for policy-specific notice and conditions in writing."
+   ],
+   "outputs": "Jurisdiction and consultation rows; written determinations.",
+   "acceptance": "Every requirement has type, citation, edition and reviewer; every \"not applicable\" has a reason; written determinations exist for regulated work.",
+   "escalation": "Conflicting advice: code professional or counsel decides. Silence: treat as unresolved, never as approval.",
+   "docs": [
+    "06",
+    "07",
+    "19",
+    "22",
+    "33",
+    "34"
+   ],
+   "registers": [
+    "jurisdiction",
+    "consultation"
+   ]
+  },
+  {
+   "id": "W08",
+   "title": "Option selection and acceptance criteria (G3, part 1)",
+   "phase": "Specify",
+   "kind": "review",
+   "gate": "G3",
+   "owner": "Designer with specialists",
+   "authority": "Competent specialists approve criteria before any test",
+   "trigger": "G2 pathway known for the proposed work.",
+   "prerequisites": "Hazard mechanisms documented; intervention library reviewed.",
+   "inputs": "Documents 08, 27, 29, 30, 31; hazard register.",
+   "steps": [
+    "Compare elimination, repair, redesign, operational and protective options for each mechanism.",
+    "Write acceptance criteria for the whole installed system with method, edition and threshold basis.",
+    "Have specialists approve thresholds before any test is ordered.",
+    "Record candidate methods and required editions in the standards register."
+   ],
+   "outputs": "Selection worksheet; product-acceptance, test-plan and standards rows.",
+   "acceptance": "Every mandatory criterion is pass/fail with an approved threshold or qualitative condition set before testing.",
+   "escalation": "No competent specialist available: no protective installation; continue ordinary controls.",
+   "docs": [
+    "08",
+    "27",
+    "29",
+    "30",
+    "31"
+   ],
+   "registers": [
+    "product_acceptance",
+    "test_plan",
+    "standards"
+   ]
+  },
+  {
+   "id": "W09",
+   "title": "Procurement, dossier and mock-up (G3, part 2)",
+   "phase": "Specify",
+   "kind": "signed",
+   "gate": "G3",
+   "owner": "Procurement lead",
+   "authority": "Sponsor signs the award after mandatory criteria pass",
+   "trigger": "Approved criteria exist (W08).",
+   "prerequisites": "G2 pathway established; budget envelope.",
+   "inputs": "Statement of work (document 39), RFI (document 09), acceptance schedule.",
+   "steps": [
+    "Issue the RFI/SOW with the acceptance schedule.",
+    "Pass/fail mandatory criteria before scoring.",
+    "Run the mock-up with loaded carts, mobility devices and the actual cleaning routine.",
+    "Commission an independent review of reports; resolve critical gaps.",
+    "Finalize contract, budget and restoration plan for signature (T20)."
+   ],
+   "outputs": "Dossier; mock-up records; signed award in the controlled record.",
+   "acceptance": "All mandatory criteria pass; no critical criterion undetermined; removal funded.",
+   "escalation": "Supplier withholds data: exclude the bid. Mock-up fails: return to W08.",
+   "docs": [
+    "09",
+    "21",
+    "39"
+   ],
+   "registers": [
+    "budget",
+    "test_plan"
+   ]
+  },
+  {
+   "id": "W10",
+   "title": "Installation, commissioning and go/no-go (G4)",
+   "phase": "Install",
+   "kind": "signed",
+   "gate": "G4",
+   "owner": "Site manager with facilities",
+   "authority": "Site manager and facilities sign the release; authorities inspect where required; sponsor decides go/no-go",
+   "trigger": "Signed award and approvals in place.",
+   "prerequisites": "G0–G3 complete; permits; landlord consent; notice of temporary disruption where required.",
+   "inputs": "Approved drawings and assembly; commissioning checklist (document 11).",
+   "steps": [
+    "Enforce installer hold points; record batches and deviations.",
+    "Repeat the approved slip-resistance check in situ; measure route widths, protrusions and transitions.",
+    "Demonstrate mobility aids, strollers, loaded carts and cleaning with consenting adults.",
+    "Demonstrate staff competency on every shift (T23).",
+    "Confirm maintenance, data and withdrawal readiness (T24).",
+    "Hold the go/no-go review and record signed releases (T25)."
+   ],
+   "outputs": "Commissioning and asset rows; signed release and go/no-go decision.",
+   "acceptance": "Every commissioning criterion passes; no critical defect open; training demonstrated; removal reserve available.",
+   "escalation": "Any critical defect: no public use. A no-go condition in document 48: decision is \"no-go\" regardless of schedule.",
+   "docs": [
+    "11",
+    "13",
+    "48",
+    "30"
+   ],
+   "registers": [
+    "commissioning",
+    "assets",
+    "training",
+    "decisions"
+   ]
+  },
+  {
+   "id": "W11",
+   "title": "Stop, isolate, suspend or withdraw",
+   "phase": "Operate every day",
+   "kind": "now",
+   "gate": "",
+   "owner": "Any trained worker starts; site manager suspends; sponsor withdraws",
+   "authority": "See the decision-rights matrix",
+   "trigger": "A stop trigger in document 14, or any concern that a system is unsafe.",
+   "prerequisites": "None — protective action never waits for proof of causation.",
+   "inputs": "Stop triggers; isolation equipment; contact sheet.",
+   "steps": [
+    "Isolate the area and keep an accessible alternative.",
+    "Notify the shift lead and site manager; use the emergency process for any injury.",
+    "Site manager suspends the affected installation.",
+    "Record the decision with a coded incident reference.",
+    "Check other sites with the same batch or assembly.",
+    "Sponsor decides permanent withdrawal if the risk cannot be corrected."
+   ],
+   "outputs": "Decision row; incident reference in the protected system; asset status.",
+   "acceptance": "The area is isolated promptly; the decision is recorded; affected batches are checked.",
+   "escalation": "Serious injury: emergency services, then legal/claims contacts under existing policy.",
+   "docs": [
+    "14",
+    "47"
+   ],
+   "registers": [
+    "decisions",
+    "assets",
+    "change_control"
+   ]
+  },
+  {
+   "id": "W12",
+   "title": "Correct and restart",
+   "phase": "Operate every day",
+   "kind": "review",
+   "gate": "G4",
+   "owner": "Facilities lead",
+   "authority": "Site manager and facilities; accessibility reviewer for access issues; authority where required; sponsor for pilot continuation",
+   "trigger": "A suspended system with a proposed correction.",
+   "prerequisites": "Root cause identified; corrected design.",
+   "inputs": "Original acceptance criteria; change-control record.",
+   "steps": [
+    "Record the root cause and the proposed correction in change control.",
+    "Retest against the pre-agreed criteria — never new criteria chosen after results.",
+    "Retrain staff and revise the procedure.",
+    "Collect the required signatures and record the restart decision."
+   ],
+   "outputs": "Change-control and decision rows; retest report reference.",
+   "acceptance": "Retest passes the pre-agreed criteria; signatures recorded; staff retrained.",
+   "escalation": "Repeated failure: sponsor considers withdrawal (W11).",
+   "docs": [
+    "14",
+    "40"
+   ],
+   "registers": [
+    "change_control",
+    "decisions",
+    "test_plan"
+   ]
+  },
+  {
+   "id": "W13",
+   "title": "Pilot operation and review (G5)",
+   "phase": "Evaluate",
+   "kind": "review",
+   "gate": "G5",
+   "owner": "Site lead with evaluation lead",
+   "authority": "Steering group; independent reviewer for assurance",
+   "trigger": "Go decision recorded (W10).",
+   "prerequisites": "Protocol, data flow and determinations in place.",
+   "inputs": "Weekly logs, aggregate outcomes, audit checklist (document 40).",
+   "steps": [
+    "Inspect after the first trading and cleaning cycles.",
+    "Review defects, complaints and data quality weekly.",
+    "Hold 30- and 60-day operational and budget reviews.",
+    "Analyze results and balancing outcomes with the evaluation lead.",
+    "Commission an independent assurance review."
+   ],
+   "outputs": "Weekly and monthly reports; audit findings; independent review.",
+   "acceptance": "Locally adopted feasibility criteria assessed honestly; adverse findings reported.",
+   "escalation": "Critical finding: W11. Data invalid: report as invalid, do not compute rates.",
+   "docs": [
+    "15",
+    "16",
+    "36",
+    "40"
+   ],
+   "registers": [
+    "aggregate_outcomes",
+    "audit_findings",
+    "inspection"
+   ]
+  },
+  {
+   "id": "W14",
+   "title": "Scale, extend, redesign or remove (G6)",
+   "phase": "Decide",
+   "kind": "signed",
+   "gate": "G6",
+   "owner": "Executive sponsor",
+   "authority": "Executive sponsor, after independent review",
+   "trigger": "Pilot review complete (G5).",
+   "prerequisites": "Evidence summary and independent review.",
+   "inputs": "Document 25 evidence table; cost scenarios; decision record.",
+   "steps": [
+    "Assemble the evidence summary, including adverse results and costs.",
+    "Answer the G6 questions in document 25.",
+    "Choose stop, revise, extend or staged scale, with the evidence each option needs.",
+    "Fund maintenance, replacement and withdrawal before any expansion.",
+    "Record conditions, dissent and the next review date."
+   ],
+   "outputs": "Signed decision memo; budget; replication plan.",
+   "acceptance": "The decision matches the evidence: feasibility alone never supports an injury-reduction claim.",
+   "escalation": "Evidence insufficient: extend evaluation rather than scale.",
+   "docs": [
+    "25",
+    "44"
+   ],
+   "registers": [
+    "decisions",
+    "budget"
+   ]
+  },
+  {
+   "id": "W15",
+   "title": "Public claims and outreach",
+   "phase": "Communicate",
+   "kind": "review",
+   "gate": "",
+   "owner": "Communications lead",
+   "authority": "Communications and evaluation leads; legal for material claims",
+   "trigger": "Any planned public statement, notice or outreach message.",
+   "prerequisites": "Confirmed facts and permissions.",
+   "inputs": "Documents 23 and 42; publication-claims register.",
+   "steps": [
+    "Draft the statement from dated records only.",
+    "Check for prohibited claims (\"childproof\", \"zero risk\", \"certified safe\", unsupported percentages, implied endorsements).",
+    "Record evidence, scope limit and decision in the publication-claims register.",
+    "Publish only approved statements through authorized channels."
+   ],
+   "outputs": "Publication-claims rows.",
+   "acceptance": "Every statement is tied to a dated record and approved; no prohibited claim.",
+   "escalation": "Evidence missing: reject or revise the statement.",
+   "docs": [
+    "23",
+    "42"
+   ],
+   "registers": [
+    "publication_claims"
+   ]
+  },
+  {
+   "id": "W16",
+   "title": "Handoffs between shifts, contractors, tenants and roles",
+   "phase": "Operate every day",
+   "kind": "now",
+   "gate": "",
+   "owner": "Outgoing lead",
+   "authority": "Incoming lead acknowledges",
+   "trigger": "Shift change, contractor visit end, tenant or provider change, role change.",
+   "prerequisites": "Current hazard and action lists.",
+   "inputs": "Handoff checklist (document 47).",
+   "steps": [
+    "List open hazards, isolated zones, temporary routes and next required actions.",
+    "Hand over in person or by the approved channel.",
+    "Incoming lead acknowledges and records the time."
+   ],
+   "outputs": "Handoff rows.",
+   "acceptance": "Every open hazard has an acknowledged owner.",
+   "escalation": "Not acknowledged: the outgoing lead keeps ownership and escalates to the site manager.",
+   "docs": [
+    "22",
+    "47"
+   ],
+   "registers": [
+    "handoffs"
+   ]
+  }
+ ],
+ "decisionRights": [
+  {
+   "decision": "Isolate a hazard or close an area",
+   "initiate": "Any trained worker",
+   "decide": "Shift lead confirms",
+   "evidence": "An observed condition; a safe accessible alternative",
+   "timing": "Immediately (program rule)",
+   "record": "Hazard or spill row",
+   "escalate": "Site manager if it cannot be made safe"
+  },
+  {
+   "decision": "Reopen an isolated area",
+   "initiate": "Shift lead",
+   "decide": "Designated reopening role",
+   "evidence": "Verification that the condition is corrected",
+   "timing": "After verification only",
+   "record": "Spill or inspection row",
+   "escalate": "Site manager"
+  },
+  {
+   "decision": "Suspend an installed system",
+   "initiate": "Any worker, shift lead or reviewer",
+   "decide": "Site manager",
+   "evidence": "A stop trigger (document 14); isolation in place",
+   "timing": "Same shift (program rule)",
+   "record": "Decision row; coded incident reference",
+   "escalate": "Sponsor and facilities"
+  },
+  {
+   "decision": "Withdraw a system permanently",
+   "initiate": "Site manager, facilities or evaluation lead",
+   "decide": "Sponsor",
+   "evidence": "Unresolved critical risk or failed mandatory criterion; removal plan",
+   "timing": "As soon as the decision is evidenced",
+   "record": "Decision row; asset status",
+   "escalate": "Authority or supplier where required"
+  },
+  {
+   "decision": "Approve a correction",
+   "initiate": "Facilities lead",
+   "decide": "Facilities lead with the relevant specialist",
+   "evidence": "Root cause; corrected design; retest plan against pre-agreed criteria",
+   "timing": "Before restart",
+   "record": "Change-control row",
+   "escalate": "Sponsor if criteria would change"
+  },
+  {
+   "decision": "Restart after suspension",
+   "initiate": "Facilities lead",
+   "decide": "Site manager and facilities lead; accessibility reviewer for access; authority where required; sponsor for pilot continuation",
+   "evidence": "Retest passed; retraining done; procedure revised",
+   "timing": "After all signatures",
+   "record": "Decision row",
+   "escalate": "Sponsor"
+  },
+  {
+   "decision": "Change product, adhesive, chemical or configuration",
+   "initiate": "Anyone",
+   "decide": "Facilities lead after review",
+   "evidence": "Change-control review; retest if performance could change",
+   "timing": "Before the change",
+   "record": "Change-control row",
+   "escalate": "Specialists; authority if regulated"
+  },
+  {
+   "decision": "Start public use (go-live)",
+   "initiate": "Site manager",
+   "decide": "Sponsor at go/no-go",
+   "evidence": "Commissioning passed; approvals; training; withdrawal readiness",
+   "timing": "Only after G4",
+   "record": "Signed release; decision row",
+   "escalate": "No-go conditions in document 48 cannot be waived"
+  },
+  {
+   "decision": "Extend the evaluation",
+   "initiate": "Evaluation lead",
+   "decide": "Steering group",
+   "evidence": "Feasibility met; analysis plan for effectiveness",
+   "timing": "At pilot review",
+   "record": "Decision row",
+   "escalate": "Sponsor"
+  },
+  {
+   "decision": "Scale to new sites",
+   "initiate": "Sponsor",
+   "decide": "Executive sponsor",
+   "evidence": "Independent review; no unresolved critical defects; site-by-site approvals; funded maintenance and removal",
+   "timing": "After G6",
+   "record": "Signed decision memo",
+   "escalate": "Repeat W07 and W10 at each site"
+  },
+  {
+   "decision": "Publish a claim",
+   "initiate": "Communications lead",
+   "decide": "Communications and evaluation leads; legal for material claims",
+   "evidence": "Dated evidence for every statement",
+   "timing": "Before publication",
+   "record": "Publication-claims row",
+   "escalate": "Reject if unsupported"
+  },
+  {
+   "decision": "Stop the whole program",
+   "initiate": "Any steering-group member",
+   "decide": "Sponsor",
+   "evidence": "Unmanageable risk, cost or loss of capacity",
+   "timing": "When evidenced",
+   "record": "Decision row",
+   "escalate": "Ordinary hazard correction continues regardless"
+  }
+ ],
+ "roles": [
+  {
+   "key": "Business",
+   "name": "Business sponsor",
+   "start": [
+    "02",
+    "03",
+    "10",
+    "17",
+    "49"
+   ],
+   "today": [
+    "Name the site lead and deputies",
+    "Authorize the assessment and the hazard walk",
+    "Ask finance for a removal-reserve proposal"
+   ],
+   "review": [
+    "Legal and insurance conditions",
+    "Accessibility tax eligibility (if any)"
+   ],
+   "signed": [
+    "Charter and decision rights",
+    "Budget envelope and removal reserve",
+    "Go/no-go and scale decisions"
+   ],
+   "handoff": "Site lead (W02 → W03)",
+   "first": "Signed charter plus budget envelope",
+   "workflows": [
+    "W02",
+    "W14"
+   ]
+  },
+  {
+   "key": "Operations",
+   "name": "Store manager and workers",
+   "start": [
+    "12",
+    "13",
+    "14",
+    "28",
+    "47"
+   ],
+   "today": [
+    "Walk the site, including carts and fixture edges in the 0–120 cm band",
+    "Isolate and correct hazards with existing procedures",
+    "Assign shift responders and start the handoff log"
+   ],
+   "review": [
+    "Changes to cleaning chemicals or methods"
+   ],
+   "signed": [
+    "Reopening release after a system defect",
+    "Commissioning release"
+   ],
+   "handoff": "Next shift lead at every shift change (W16)",
+   "first": "Current hazard/action list and shift procedure",
+   "workflows": [
+    "W03",
+    "W04",
+    "W11",
+    "W16"
+   ]
+  },
+  {
+   "key": "Property",
+   "name": "Landlord, facilities and contractors",
+   "start": [
+    "22",
+    "11",
+    "12",
+    "31"
+   ],
+   "today": [
+    "Identify alteration permissions and leak/substrate owners",
+    "Name the cart-fleet maintenance owner"
+   ],
+   "review": [
+    "Cleaning-method compatibility",
+    "Code and permit questions"
+   ],
+   "signed": [
+    "Responsibility schedule in the actual contracts"
+   ],
+   "handoff": "Facilities lead and incoming contractor (W16)",
+   "first": "Agreed responsibility schedule",
+   "workflows": [
+    "W07",
+    "W16"
+   ]
+  },
+  {
+   "key": "Supplier",
+   "name": "Suppliers, laboratories and installers",
+   "start": [
+    "08",
+    "09",
+    "21",
+    "29",
+    "39"
+   ],
+   "today": [
+    "Identify the exact configuration and every untested assumption"
+   ],
+   "review": [
+    "Acceptance criteria set by the buyer's specialists"
+   ],
+   "signed": [
+    "Contract and hold-point releases"
+   ],
+   "handoff": "Procurement lead (W09 → W10)",
+   "first": "Completed dossier and acceptance schedule",
+   "workflows": [
+    "W08",
+    "W09",
+    "W10"
+   ]
+  },
+  {
+   "key": "Government",
+   "name": "Government and public-health staff",
+   "start": [
+    "06",
+    "07",
+    "20",
+    "33",
+    "34"
+   ],
+   "today": [
+    "Identify your remit and the correct office"
+   ],
+   "review": [
+    "Determinations within your authority"
+   ],
+   "signed": [
+    "Permits and written determinations"
+   ],
+   "handoff": "Facilities/legal lead (W07)",
+   "first": "Local requirements or an authority response",
+   "workflows": [
+    "W07"
+   ]
+  },
+  {
+   "key": "Insurance",
+   "name": "Insurer, broker or self-insured risk team",
+   "start": [
+    "19",
+    "15",
+    "16",
+    "17",
+    "44"
+   ],
+   "today": [
+    "Share loss-data definitions and notice requirements"
+   ],
+   "review": [
+    "Coverage, contractor and notice conditions"
+   ],
+   "signed": [
+    "Any premium or term change, in writing"
+   ],
+   "handoff": "Sponsor and risk lead (W07)",
+   "first": "Written review questions and policy conditions",
+   "workflows": [
+    "W07",
+    "W14"
+   ]
+  },
+  {
+   "key": "Research",
+   "name": "Evaluation lead, advisors and researchers",
+   "start": [
+    "15",
+    "24",
+    "32",
+    "35",
+    "43"
+   ],
+   "today": [
+    "Use Evaluation planning to see what a pilot can show",
+    "Route adjacent mechanisms (T35)"
+   ],
+   "review": [
+    "Privacy and research-ethics determinations",
+    "Pre-analysis plan with an independent statistician"
+   ],
+   "signed": [
+    "Data-sharing agreement"
+   ],
+   "handoff": "Steering group (W13 → W14)",
+   "first": "Evaluation proposal with limitations",
+   "workflows": [
+    "W05",
+    "W06",
+    "W13"
+   ]
+  },
+  {
+   "key": "Public",
+   "name": "Communications and community",
+   "start": [
+    "23",
+    "24",
+    "42",
+    "05"
+   ],
+   "today": [
+    "Collect questions from adults; prepare accessible formats"
+   ],
+   "review": [
+    "Every public statement against dated evidence"
+   ],
+   "signed": [
+    "Approval of published statements by the named leads"
+   ],
+   "handoff": "Evaluation lead (W15)",
+   "first": "Approved factual notice",
+   "workflows": [
+    "W06",
+    "W15"
+   ]
+  }
+ ],
+ "localDecisions": [
+  {
+   "item": "Adopted building, fire and accessibility rules, editions and local amendments for the actual site",
+   "who": "Code professional; authority having jurisdiction",
+   "gate": "G2",
+   "why": "Editions depend on adoption and timing (S17, S18, S6)"
+  },
+  {
+   "item": "Permit and inspection pathway for any physical change",
+   "who": "Building and fire officials",
+   "gate": "G2/G4",
+   "why": "Only the authority can decide within its remit"
+  },
+  {
+   "item": "ADA and state access obligations (U.S.) or provincial accessibility and human-rights obligations (Canada)",
+   "who": "Accessibility professional; counsel",
+   "gate": "G2/G3",
+   "why": "Coverage and stricter local rules (S28, S29, S18, S27)"
+  },
+  {
+   "item": "Fire classification of floor elements and of padding on walls or fixtures",
+   "who": "Code professional; fire official",
+   "gate": "G2/G3",
+   "why": "Different provisions apply to different elements (S11)"
+  },
+  {
+   "item": "Food-zone surface requirements under the adopted food code",
+   "who": "Health authority",
+   "gate": "G2",
+   "why": "Model code adoption varies (S4)"
+  },
+  {
+   "item": "Customer premises-liability duties, claims notice and evidence preservation",
+   "who": "Local counsel; insurer",
+   "gate": "G2",
+   "why": "State/provincial law and policy terms"
+  },
+  {
+   "item": "Worker-safety regime and any stricter state or provincial rule",
+   "who": "Safety lead; counsel",
+   "gate": "G1/G2",
+   "why": "Federal OSHA, state plans and provinces differ (S3, S16)"
+  },
+  {
+   "item": "Landlord consent and allocation of responsibilities",
+   "who": "Property owner; counsel",
+   "gate": "G2",
+   "why": "Must be in the binding lease or contract"
+  },
+  {
+   "item": "Acceptance methods and thresholds for the actual installed system",
+   "who": "Competent specialists (traction, access, fire, hygiene, materials)",
+   "gate": "G3",
+   "why": "No universal pass values exist (S10)"
+  },
+  {
+   "item": "Independent test reports for the as-installed assembly",
+   "who": "Independent or accredited laboratory",
+   "gate": "G3",
+   "why": "Reports must match the configuration"
+  },
+  {
+   "item": "Privacy determination: fields, sharing, retention and any footage use",
+   "who": "Privacy officer; counsel",
+   "gate": "G1",
+   "why": "Applicable privacy law varies (S13, S42)"
+  },
+  {
+   "item": "Research-ethics determination for any structured study, participant testing or secondary data research",
+   "who": "Institutional REB/IRB",
+   "gate": "G1/G3",
+   "why": "Pilot studies can be research (S22, S41)"
+  },
+  {
+   "item": "Sample size and analysis plan for any effectiveness claim",
+   "who": "Independent statistician",
+   "gate": "G1/G5",
+   "why": "Rare events need large exposure (document 35)"
+  },
+  {
+   "item": "Insurance notice, conditions and any premium recognition",
+   "who": "Insurer, in writing",
+   "gate": "G2/G6",
+   "why": "A broker conversation is not a commitment"
+  },
+  {
+   "item": "Eligibility for any accessibility tax credit or deduction",
+   "who": "Tax adviser",
+   "gate": "Before budget recognition",
+   "why": "Eligibility rules apply (S23)"
+  },
+  {
+   "item": "Funding awards",
+   "who": "Funder, by written award",
+   "gate": "Before committed budget",
+   "why": "Proposals are not awards"
+  },
+  {
+   "item": "Signed charter, contracts, releases, go/no-go and scale decisions",
+   "who": "Authorized signatories, in controlled systems",
+   "gate": "G0/G3/G4/G6",
+   "why": "Workspace checkboxes are not signatures"
+  },
+  {
+   "item": "Accessibility and browser compatibility of this workspace in your own environment",
+   "who": "Your accessibility and IT staff",
+   "gate": "Before organizational reliance",
+   "why": "Only Chromium was tested here (TEST-REPORT.md)"
+  },
+  {
+   "item": "Which translated versions may be used, and who reviewed them",
+   "who": "Program owner and a qualified native-speaker reviewer",
+   "gate": "Before distribution",
+   "why": "The French and Spanish briefs (documents 51 and 52) are draft translations that no native speaker has reviewed"
+  }
+ ],
+ "rolePacks": {
+  "Business": [
+   "01",
+   "02",
+   "03",
+   "05",
+   "10",
+   "17",
+   "18",
+   "19",
+   "20",
+   "25",
+   "26",
+   "27",
+   "36",
+   "37",
+   "38",
+   "39",
+   "41",
+   "42",
+   "44",
+   "45",
+   "46",
+   "48",
+   "49",
+   "50",
+   "54",
+   "55"
+  ],
+  "Operations": [
+   "01",
+   "02",
+   "03",
+   "04",
+   "05",
+   "08",
+   "10",
+   "11",
+   "12",
+   "13",
+   "14",
+   "16",
+   "18",
+   "22",
+   "26",
+   "28",
+   "30",
+   "31",
+   "36",
+   "38",
+   "40",
+   "41",
+   "42",
+   "45",
+   "46",
+   "47",
+   "48",
+   "49",
+   "55"
+  ],
+  "Property": [
+   "01",
+   "02",
+   "03",
+   "05",
+   "06",
+   "07",
+   "08",
+   "10",
+   "11",
+   "12",
+   "14",
+   "18",
+   "22",
+   "26",
+   "28",
+   "30",
+   "31",
+   "33",
+   "34",
+   "38",
+   "39",
+   "40",
+   "41",
+   "42",
+   "45",
+   "46",
+   "48",
+   "49",
+   "53",
+   "55"
+  ],
+  "Supplier": [
+   "01",
+   "02",
+   "03",
+   "05",
+   "06",
+   "07",
+   "08",
+   "09",
+   "11",
+   "12",
+   "14",
+   "18",
+   "21",
+   "22",
+   "26",
+   "27",
+   "29",
+   "30",
+   "31",
+   "38",
+   "39",
+   "40",
+   "41",
+   "42",
+   "45",
+   "46",
+   "48",
+   "49",
+   "53",
+   "55"
+  ],
+  "Government": [
+   "01",
+   "02",
+   "03",
+   "04",
+   "05",
+   "06",
+   "07",
+   "15",
+   "16",
+   "18",
+   "20",
+   "25",
+   "26",
+   "27",
+   "29",
+   "30",
+   "31",
+   "32",
+   "33",
+   "34",
+   "35",
+   "37",
+   "38",
+   "41",
+   "42",
+   "43",
+   "45",
+   "46",
+   "48",
+   "49",
+   "50",
+   "51",
+   "52",
+   "53",
+   "54",
+   "55"
+  ],
+  "Insurance": [
+   "01",
+   "02",
+   "03",
+   "04",
+   "05",
+   "06",
+   "08",
+   "10",
+   "12",
+   "14",
+   "15",
+   "16",
+   "17",
+   "18",
+   "19",
+   "25",
+   "26",
+   "29",
+   "32",
+   "35",
+   "38",
+   "41",
+   "42",
+   "43",
+   "44",
+   "45",
+   "46",
+   "48",
+   "49",
+   "50",
+   "54",
+   "55"
+  ],
+  "Research": [
+   "01",
+   "02",
+   "03",
+   "04",
+   "05",
+   "15",
+   "16",
+   "17",
+   "18",
+   "24",
+   "25",
+   "26",
+   "28",
+   "29",
+   "30",
+   "32",
+   "35",
+   "38",
+   "40",
+   "41",
+   "42",
+   "43",
+   "44",
+   "45",
+   "46",
+   "48",
+   "49",
+   "50",
+   "53",
+   "55"
+  ],
+  "Public": [
+   "01",
+   "02",
+   "03",
+   "04",
+   "05",
+   "18",
+   "23",
+   "24",
+   "26",
+   "27",
+   "30",
+   "32",
+   "38",
+   "41",
+   "42",
+   "43",
+   "45",
+   "46",
+   "47",
+   "48",
+   "49",
+   "50",
+   "54",
+   "55"
+  ]
+ },
+ "edition": "Global edition",
+ "journey": [
+  {
+   "id": "discover",
+   "name": "Discover",
+   "line": "See the idea in two minutes.",
+   "route": "discover",
+   "who": "A child can discover it with an adult, using the read-aloud version."
+  },
+  {
+   "id": "understand",
+   "name": "Understand",
+   "line": "Learn what the program does, and what it does not claim.",
+   "route": "brief",
+   "who": "Any adult can understand the two-page brief."
+  },
+  {
+   "id": "explore",
+   "name": "Explore",
+   "line": "Read the documents, the evidence and the sources behind them.",
+   "route": "library",
+   "who": "A researcher can investigate every claim and its limits."
+  },
+  {
+   "id": "participate",
+   "name": "Participate",
+   "line": "Find your role, the people you work with and the ways to help.",
+   "route": "start",
+   "who": "Each organization sees its first steps and hand-offs."
+  },
+  {
+   "id": "apply",
+   "name": "Apply",
+   "line": "Plan a pilot, record decisions and check costs honestly.",
+   "route": "plan",
+   "who": "A site team runs an accountable pilot."
+  },
+  {
+   "id": "steward",
+   "name": "Steward",
+   "line": "Adapt it, review it, keep it honest and pass it on.",
+   "route": "adapt",
+   "who": "An institution can evaluate adoption, and a developer can extend the workspace."
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Accessible route",
+   "plain": "A path that people using wheelchairs, walkers, canes or strollers can actually use.",
+   "more": "Width, slope, surface, level changes and protruding objects are set by the accessibility rules that apply to the site.",
+   "see": "30"
+  },
+  {
+   "term": "Adverse effect",
+   "plain": "A harm caused by the change itself, such as a new trip edge or harder cart pushing.",
+   "more": "Pilots must look for and report adverse effects as well as benefits.",
+   "see": "15"
+  },
+  {
+   "term": "Aggregate data",
+   "plain": "Counts and rates about groups, never about named people.",
+   "more": "This workspace only holds aggregate, non-identifying planning information.",
+   "see": "16"
+  },
+  {
+   "term": "Authority having jurisdiction",
+   "plain": "The official body that decides which rules apply to a site and whether work is allowed.",
+   "more": "Often a building, fire or health official; there can be several for one site.",
+   "see": "06"
+  },
+  {
+   "term": "Baseline",
+   "plain": "How things are before you change anything, so later changes can be compared.",
+   "more": "Gate G1 records the baseline, its quality and its limits.",
+   "see": "15"
+  },
+  {
+   "term": "Child survey band",
+   "plain": "The zone from the floor to 120 cm where the kit looks for edges and corners at young children's height.",
+   "more": "Set from WHO growth standards [S37]: tall five-year-olds are about 118–119 cm (97th percentile). Raise it for older children.",
+   "see": "28"
+  },
+  {
+   "term": "Coded reference",
+   "plain": "A short code that points to a record kept in a protected system, instead of copying the details here.",
+   "more": "For example INC-REF-0042 rather than a child's name or injury.",
+   "see": "18"
+  },
+  {
+   "term": "Comparison group",
+   "plain": "Similar sites or periods without the change, used to judge whether the change made a difference.",
+   "more": "Without one, a drop in incidents may be chance or a trend.",
+   "see": "35"
+  },
+  {
+   "term": "Content-security policy",
+   "plain": "A rule built into the page that stops it loading or sending anything over a network.",
+   "more": "It is how the workspace keeps its no-network promise; you can read it in the page source.",
+   "see": "about"
+  },
+  {
+   "term": "Decision gate",
+   "plain": "A checkpoint where named people decide, with evidence, whether work may continue.",
+   "more": "Seven gates, G0 to G6, run in order. A gate reopens if its evidence changes.",
+   "see": "gates"
+  },
+  {
+   "term": "Design effect",
+   "plain": "How much bigger a study must be because sites, not single visits, are compared.",
+   "more": "A design effect of 2 doubles the number of events needed.",
+   "see": "35"
+  },
+  {
+   "term": "DCOF",
+   "plain": "Dynamic coefficient of friction: a measure of how slippery a hard floor is while something slides on it.",
+   "more": "Results depend on the method, the device and the conditions; a number alone is not a safety verdict.",
+   "see": "29"
+  },
+  {
+   "term": "Disability-adjusted life year",
+   "plain": "One year of healthy life lost to illness, disability or early death.",
+   "more": "WHO's falls fact sheet uses it to describe the burden of falls [S45].",
+   "see": "50"
+  },
+  {
+   "term": "Formula injection",
+   "plain": "A trick where text in a spreadsheet cell runs as a formula when the file is opened.",
+   "more": "The workspace adds an apostrophe to risky cells on export and removes it on import.",
+   "see": "registers"
+  },
+  {
+   "term": "Hazard",
+   "plain": "Something that could hurt someone, such as a wet patch, a loose mat or a sharp shelf corner.",
+   "more": "The hazard register records the hazard, who it affects and what was done.",
+   "see": "registers"
+  },
+  {
+   "term": "IndexedDB",
+   "plain": "A database built into your browser, where this workspace keeps your planning work on your own device.",
+   "more": "If the browser does not allow it, the workspace falls back to simpler browser storage, then to memory only.",
+   "see": "data"
+  },
+  {
+   "term": "Jurisdiction",
+   "plain": "The place whose laws apply: a country, state, province or city.",
+   "more": "Most rules in this kit are U.S. or Canadian worked examples; other places need their own review.",
+   "see": "adapt"
+  },
+  {
+   "term": "Material-neutral",
+   "plain": "Not favouring any product or material; the kit says what a solution must achieve, not what to buy.",
+   "more": "Products are compared against written performance criteria (document 08).",
+   "see": "08"
+  },
+  {
+   "term": "Net present value",
+   "plain": "Future costs and savings added up in today's money.",
+   "more": "A discount rate turns later amounts into present amounts; the calculator shows ranges, not a forecast.",
+   "see": "calculator"
+  },
+  {
+   "term": "Performance-based",
+   "plain": "Describing what has to be achieved, and how it will be checked, instead of naming a product.",
+   "more": "Acceptance criteria are written before buying anything (gate G3).",
+   "see": "08"
+  },
+  {
+   "term": "Pilot",
+   "plain": "A small, time-limited trial at a few sites, with a plan to stop or reverse it if needed.",
+   "more": "A pilot tests whether a change can be run well; it usually cannot prove fewer injuries.",
+   "see": "10"
+  },
+  {
+   "term": "Pre-mortem",
+   "plain": "Imagining that a plan has failed and listing the reasons, before you start.",
+   "more": "Used in the adaptation kit to find harms early.",
+   "see": "53"
+  },
+  {
+   "term": "Protruding object",
+   "plain": "Something sticking out into a walking route, such as a shelf edge or sign, that a person may not see.",
+   "more": "Accessibility rules limit how far objects may protrude at certain heights.",
+   "see": "24"
+  },
+  {
+   "term": "Quarantine (of saved data)",
+   "plain": "When saved work cannot be read, the workspace keeps an untouched copy and stops saving over it.",
+   "more": "You can download the copy, then start fresh or import a backup.",
+   "see": "data"
+  },
+  {
+   "term": "Rate ratio",
+   "plain": "One rate divided by another; 0.8 means 20% lower.",
+   "more": "Used in evaluation planning to describe the change you want to detect.",
+   "see": "evaluation"
+  },
+  {
+   "term": "Removal reserve",
+   "plain": "Money set aside in advance to take a change out again if it causes problems.",
+   "more": "Required before installation so that stopping is always affordable.",
+   "see": "17"
+  },
+  {
+   "term": "Service worker",
+   "plain": "A small browser helper that keeps a copy of the workspace files so a hosted copy opens without a connection.",
+   "more": "It is used only when the workspace is served from a secure web address; it never stores your planning data.",
+   "see": "data"
+  },
+  {
+   "term": "Slip resistance",
+   "plain": "How well a floor stops feet from sliding.",
+   "more": "It changes with water, cleaning products, wear and footwear, so it is checked in use, not only in a lab.",
+   "see": "12"
+  },
+  {
+   "term": "Statistical power",
+   "plain": "The chance that a study detects a real effect of the size you care about.",
+   "more": "Small pilots usually have low power for injuries, which is why the kit sets realistic aims.",
+   "see": "35"
+  },
+  {
+   "term": "Surveillance (injury)",
+   "plain": "Systematic collection of injury counts, for example from hospital emergency departments.",
+   "more": "It counts injuries; it does not watch people. Store CCTV is a separate, sensitive matter.",
+   "see": "15"
+  },
+  {
+   "term": "Tribometer",
+   "plain": "A device that measures how slippery a floor is.",
+   "more": "Different devices give different numbers; the method must be validated and agreed in advance.",
+   "see": "29"
+  },
+  {
+   "term": "Zero events",
+   "plain": "No injuries recorded during a period.",
+   "more": "Zero events are not proof of safety: small pilots often see none either way.",
+   "see": "35"
+  }
+ ],
+ "viewGuides": {
+  "discover": {
+   "what": "A short introduction to the program and the six stages of the journey.",
+   "why": "Most people decide in a minute whether something is worth their time.",
+   "how": "Read the summary, pick a stage, or answer three questions to find your starting point.",
+   "life": "Share it with a colleague or read the child-friendly version together with a child.",
+   "outcome": "You know what the kit is, what it is not, and where to go next.",
+   "technical": "The background image is generated in your browser and pauses when hidden, on low battery or with reduced motion.",
+   "uncertain": "The kit has not yet been evaluated for its effect on injuries."
+  },
+  "start": {
+   "what": "Your starting point: a few questions, then the steps that fit your role and your goal, plus each role's first-day tasks.",
+   "why": "The package is large; nobody needs all of it on day one.",
+   "how": "Answer the questions. Each suggestion says why it was chosen. Then open your role for today's tasks and hand-offs.",
+   "life": "Use it in a first meeting to agree who does what.",
+   "outcome": "Two to five next steps, and a list of what you can safely skip for now.",
+   "technical": "Suggestions come from fixed rules in source/content.json (startRules), so the same answers always give the same steps.",
+   "uncertain": "The rules are a sensible default, not advice for your situation."
+  },
+  "brief": {
+   "what": "A two-page brief for officials, with draft French and Spanish versions.",
+   "why": "Officials need the problem, the offer, the limits and the decisions that stay with them, quickly.",
+   "how": "Read it on screen, print it, or download a copy. Switch language at the top.",
+   "life": "Attach it to a briefing note, or use it to open a conversation with colleagues.",
+   "outcome": "A shareable summary that cites its sources.",
+   "technical": "The brief is documents 50 to 52; you can edit a local draft in the library.",
+   "uncertain": "The French and Spanish versions are draft translations that no native speaker has reviewed yet."
+  },
+  "glossary": {
+   "what": "Plain-language definitions of the terms used in this kit.",
+   "why": "Technical words should never stop someone from taking part.",
+   "how": "Search or scroll. Each term links to where it matters.",
+   "life": "Use it when preparing a meeting with people from other fields.",
+   "outcome": "Shared words for businesses, officials, workers and researchers.",
+   "technical": "The glossary is also document 55 in the handbook.",
+   "uncertain": "Definitions are simplified; the cited documents carry the detail."
+  },
+  "library": {
+   "what": "All documents and templates, with search and local drafts.",
+   "why": "This is the full content of the program.",
+   "how": "Filter by role or search. Open a document to read, print or edit a local draft.",
+   "life": "Adapt a template, such as the pilot charter, for your site.",
+   "outcome": "Documents you can print, edit and compare with the original.",
+   "technical": "Documents are Markdown files; drafts are saved in this browser and flagged when the original changes.",
+   "uncertain": "Many documents use U.S. and Canadian rules as worked examples."
+  },
+  "doc": {
+   "what": "One document from the library.",
+   "why": "Each document does one job, such as a checklist, a form or a plan.",
+   "how": "Read it, print it, or edit a local draft and compare it with the original.",
+   "life": "Use your draft in meetings; export the working handbook to share it.",
+   "outcome": "A document you can use as it is or adapt.",
+   "technical": "Bracketed codes such as [S12] link to the source register.",
+   "uncertain": "Drafts are yours; they are not reviewed by anyone else."
+  },
+  "evidence": {
+   "what": "Every claim the program makes, with its sources, limits and what it means for practice.",
+   "why": "Honest limits protect children, businesses and officials from false confidence.",
+   "how": "Filter by category. Read the limits column before quoting any claim.",
+   "life": "Check a claim before putting it in a proposal or a press release.",
+   "outcome": "Claims you can repeat with their caveats.",
+   "technical": "Categories: verified source fact, program recommendation, illustration and unresolved.",
+   "uncertain": "Evidence for children in retail settings is thin; most studies come from other settings."
+  },
+  "sources": {
+   "what": "The source register: every source with jurisdiction, edition, retrieval date, access level and limits.",
+   "why": "A citation is only useful if you know what it covers.",
+   "how": "Search or filter. Open the link to read the source yourself.",
+   "life": "Re-check a source before relying on it in a decision.",
+   "outcome": "A list you can verify, with notes on what was and was not read.",
+   "technical": "Sources older than a year since retrieval are marked for re-checking.",
+   "uncertain": "Paid standards were read only at their public scope pages."
+  },
+  "workflows": {
+   "what": "Step-by-step cards for each piece of work, with owner, authority, inputs, steps and escalation.",
+   "why": "Clear ownership prevents both inaction and unauthorised action.",
+   "how": "Open a card. Follow the steps and record the output in the named register.",
+   "life": "Use a card to brief a new team member.",
+   "outcome": "Repeatable procedures with clear hand-offs.",
+   "technical": "Cards are generated into document 49 for print.",
+   "uncertain": "Timings marked as program defaults need local confirmation."
+  },
+  "pathway": {
+   "what": "How the program can grow from one site to many places, and how different organizations can help.",
+   "why": "Spreading too fast, or without evidence, can cause harm and waste.",
+   "how": "Find your organization in the table of ways to help. Check the evidence needed before each step.",
+   "life": "Use it to plan a partnership or a funding proposal.",
+   "outcome": "A responsible route to wider use, and concrete actions for helpers.",
+   "technical": "This is document 54.",
+   "uncertain": "No partner, funder or endorsement exists yet; the pathway is a proposal."
+  },
+  "plan": {
+   "what": "The implementation plan: 35 tasks across seven gates, with owners, due dates and evidence.",
+   "why": "Tasks turn intentions into accountable work.",
+   "how": "Filter by gate or kind of work. Record status and an evidence reference for each task.",
+   "life": "Review the plan at each team meeting.",
+   "outcome": "A live task list that shows what blocks each gate.",
+   "technical": "Only status or evidence changes reopen a completed gate.",
+   "uncertain": "Task wording is general; adapt it to your site."
+  },
+  "gates": {
+   "what": "The seven decision gates and what each needs before it can be recorded as complete.",
+   "why": "Gates stop work from running ahead of approvals and evidence.",
+   "how": "Complete the tasks, then record the gate with a decision reference. Amend if something changes.",
+   "life": "Use it at go/no-go meetings.",
+   "outcome": "A clear record of what was decided, when and on what evidence.",
+   "technical": "Recording a gate here is not a signature; signatures live in your controlled systems.",
+   "uncertain": "Whether a gate is truly met is a human judgement."
+  },
+  "registers": {
+   "what": "Planning registers: hazards, actions, decisions and 21 more, with fictional examples.",
+   "why": "Registers keep facts in one place so people can check them.",
+   "how": "Pick a register, add rows, or import a CSV file. Export to share.",
+   "life": "Run the hazard walk with the hazard register open on a tablet.",
+   "outcome": "Structured, non-sensitive records you can export.",
+   "technical": "Exports neutralise spreadsheet formulas; imports are previewed and can be undone.",
+   "uncertain": "The personal-data check finds common patterns, not every name."
+  },
+  "calculator": {
+   "what": "Cost scenarios: net present value with ranges and best and worst combinations.",
+   "why": "Decisions need costs and uncertainty, not a single hopeful number.",
+   "how": "Enter your own assumptions and a basis for any savings. Read the ranges, not just the middle.",
+   "life": "Bring the cash-flow table to a budget meeting.",
+   "outcome": "Scenario numbers you can explain.",
+   "technical": "Discounting, escalation, replacement, salvage, withdrawal and removal costs are included.",
+   "uncertain": "Results are only as good as the assumptions; they are not forecasts."
+  },
+  "evaluation": {
+   "what": "Evaluation planning: how many events and visits a study would need, and what zero events can and cannot show.",
+   "why": "Most pilots are too small to prove an injury reduction; it is better to know that early.",
+   "how": "Enter the baseline rate and the change you want to detect.",
+   "life": "Use it before promising results to a funder or a council.",
+   "outcome": "A realistic aim for your pilot.",
+   "technical": "Uses the normal approximation for rate ratios and an exact Poisson upper bound for zero events.",
+   "uncertain": "Assumes stable rates and independent events; real data are messier."
+  },
+  "adapt": {
+   "what": "A kit for adapting the program to another country, region or organization.",
+   "why": "Laws, standards, languages and institutions differ; copying U.S. or Canadian rules would be wrong.",
+   "how": "Work through the eight steps. Record what you find in the jurisdiction, standards, consultation and decisions registers.",
+   "life": "Use it to start a national or municipal working group.",
+   "outcome": "A local version you can defend, with its rules, consultations and translations recorded.",
+   "technical": "This is document 53. International references are in the source register (S45 to S56).",
+   "uncertain": "This kit cannot tell you which laws apply in your country."
+  },
+  "data": {
+   "what": "Everything this workspace keeps in your browser, and controls to export, import, check and erase it.",
+   "why": "Your planning data belong to you and should never leave your device by surprise.",
+   "how": "Check where data are stored, export a backup, or erase selected parts.",
+   "life": "Export a backup before changing computer or browser.",
+   "outcome": "Control over your data, with nothing hidden.",
+   "technical": "Planning data live in the browser database (IndexedDB); settings live in local storage; nothing is sent anywhere.",
+   "uncertain": "Browsers can clear stored data; keep backups in an approved place."
+  },
+  "about": {
+   "what": "Credits, licences, privacy and how the workspace is built.",
+   "why": "You should know who made this, what it relies on and what it does not do.",
+   "how": "Read the credits and the Zero Harm & Anti-Coercion commitments.",
+   "life": "Check licences before copying or republishing.",
+   "outcome": "Clear attribution and limits.",
+   "technical": "No third-party code runs in the workspace. Test tools are listed but not shipped.",
+   "uncertain": "The package licence has not yet been chosen by the owner."
+  },
+  "notfound": {
+   "what": "A page that does not exist in this workspace.",
+   "why": "Links can break when documents are renamed or copied.",
+   "how": "Use search or go back to Discover.",
+   "life": "If a colleague sent the link, ask which version of the workspace they use.",
+   "outcome": "A way back.",
+   "technical": "Routes are listed in app.js (ROUTES).",
+   "uncertain": "None."
+  }
+ },
+ "startQuestions": [
+  {
+   "id": "who",
+   "text": "Which best describes you?",
+   "options": [
+    [
+     "business",
+     "I own or manage a business or site"
+    ],
+    [
+     "staff",
+     "I work on the floor, in facilities or in cleaning"
+    ],
+    [
+     "official",
+     "I work in government: building, health, workplace or consumer safety"
+    ],
+    [
+     "agency",
+     "I work in public health or injury prevention"
+    ],
+    [
+     "insurer",
+     "I work in insurance or risk advice"
+    ],
+    [
+     "researcher",
+     "I research or evaluate"
+    ],
+    [
+     "advocate",
+     "I represent disabled people, workers, families or a community"
+    ],
+    [
+     "supplier",
+     "I design, make or sell floors, fixtures or carts"
+    ],
+    [
+     "developer",
+     "I look after software or IT"
+    ],
+    [
+     "curious",
+     "I'm a parent, a carer or just curious"
+    ]
+   ]
+  },
+  {
+   "id": "where",
+   "text": "Where will this be used?",
+   "options": [
+    [
+     "us",
+     "United States"
+    ],
+    [
+     "ca",
+     "Canada"
+    ],
+    [
+     "other",
+     "Another country"
+    ],
+    [
+     "multi",
+     "Several countries, or not sure yet"
+    ]
+   ]
+  },
+  {
+   "id": "goal",
+   "text": "What do you want to do first?",
+   "options": [
+    [
+     "understand",
+     "Understand the idea"
+    ],
+    [
+     "decide",
+     "Decide whether to try it"
+    ],
+    [
+     "pilot",
+     "Start at one site"
+    ],
+    [
+     "adapt",
+     "Adapt it for my country or organization"
+    ],
+    [
+     "evaluate",
+     "Plan or review an evaluation"
+    ],
+    [
+     "spread",
+     "Help others take it up"
+    ]
+   ]
+  },
+  {
+   "id": "time",
+   "text": "How much time do you have today?",
+   "options": [
+    [
+     "short",
+     "About 15 minutes"
+    ],
+    [
+     "hour",
+     "About an hour"
+    ],
+    [
+     "more",
+     "Longer"
+    ]
+   ]
+  }
+ ],
+ "startRules": [
+  {
+   "id": "R01",
+   "when": {
+    "goal": [
+     "understand"
+    ]
+   },
+   "priority": 10,
+   "title": "Read the two-page brief",
+   "detail": "The problem, the offer, the limits and what stays with you, with sources.",
+   "target": {
+    "kind": "view",
+    "ref": "brief"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R02",
+   "when": {
+    "goal": [
+     "understand"
+    ],
+    "who": [
+     "curious",
+     "advocate"
+    ]
+   },
+   "priority": 12,
+   "title": "Read the child-friendly version together",
+   "detail": "Five short sentences for reading aloud with a child. No data are collected.",
+   "target": {
+    "kind": "view",
+    "ref": "discover#readaloud"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R03",
+   "when": {
+    "goal": [
+     "understand",
+     "decide",
+     "evaluate"
+    ],
+    "who": [
+     "researcher",
+     "insurer",
+     "agency",
+     "official"
+    ]
+   },
+   "priority": 20,
+   "title": "Check what the evidence does and does not show",
+   "detail": "Read the limits column before quoting any claim.",
+   "target": {
+    "kind": "view",
+    "ref": "evidence"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R04",
+   "when": {
+    "goal": [
+     "understand",
+     "spread"
+    ]
+   },
+   "priority": 40,
+   "title": "Keep the glossary open",
+   "detail": "Plain-language definitions for technical terms.",
+   "target": {
+    "kind": "view",
+    "ref": "glossary"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R05",
+   "when": {
+    "goal": [
+     "decide"
+    ],
+    "who": [
+     "business"
+    ]
+   },
+   "priority": 10,
+   "title": "Read the executive brief and the decision memo",
+   "detail": "What a pilot asks of you, and how you can stop it.",
+   "target": {
+    "kind": "doc",
+    "ref": "02"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R06",
+   "when": {
+    "goal": [
+     "decide",
+     "pilot"
+    ],
+    "who": [
+     "business"
+    ]
+   },
+   "priority": 15,
+   "title": "Check the cost scenarios with your own numbers",
+   "detail": "Include a removal reserve and a written basis for any savings.",
+   "target": {
+    "kind": "view",
+    "ref": "calculator"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R07",
+   "when": {
+    "goal": [
+     "decide"
+    ],
+    "who": [
+     "official",
+     "agency"
+    ]
+   },
+   "priority": 10,
+   "title": "Read the government and public-health proposal",
+   "detail": "Requested actions are proposals, not entitlements.",
+   "target": {
+    "kind": "doc",
+    "ref": "20"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R08",
+   "when": {
+    "goal": [
+     "pilot"
+    ]
+   },
+   "priority": 10,
+   "title": "Set up the workspace and make a first backup",
+   "detail": "Workflow W01: storage check, site code, first backup.",
+   "target": {
+    "kind": "wf",
+    "ref": "W01"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R09",
+   "when": {
+    "goal": [
+     "pilot"
+    ]
+   },
+   "priority": 12,
+   "title": "Walk the site from a child's height",
+   "detail": "Workflow W03: hazards from the floor to 120 cm, immediate controls and routing.",
+   "target": {
+    "kind": "wf",
+    "ref": "W03"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R10",
+   "when": {
+    "goal": [
+     "pilot"
+    ],
+    "who": [
+     "business",
+     "official",
+     "agency"
+    ]
+   },
+   "priority": 14,
+   "title": "Appoint owners and sign a charter",
+   "detail": "Workflow W02 needs a signed commitment before work goes further.",
+   "target": {
+    "kind": "wf",
+    "ref": "W02"
+   },
+   "work": "signed"
+  },
+  {
+   "id": "R11",
+   "when": {
+    "goal": [
+     "pilot"
+    ],
+    "who": [
+     "staff"
+    ]
+   },
+   "priority": 11,
+   "title": "Set up daily inspection and spill response",
+   "detail": "Workflow W04, with acknowledged shift hand-offs (W16).",
+   "target": {
+    "kind": "wf",
+    "ref": "W04"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R12",
+   "when": {
+    "where": [
+     "other",
+     "multi"
+    ]
+   },
+   "priority": 5,
+   "title": "Start with the adaptation kit",
+   "detail": "The kit's laws and standards are U.S. and Canadian examples; your rules must be found locally.",
+   "target": {
+    "kind": "view",
+    "ref": "adapt"
+   },
+   "work": "review"
+  },
+  {
+   "id": "R13",
+   "when": {
+    "goal": [
+     "adapt"
+    ]
+   },
+   "priority": 8,
+   "title": "Map the rules that apply to you",
+   "detail": "Record laws, standards and editions in the jurisdiction register before any change.",
+   "target": {
+    "kind": "reg",
+    "ref": "jurisdiction"
+   },
+   "work": "review"
+  },
+  {
+   "id": "R14",
+   "when": {
+    "goal": [
+     "adapt"
+    ],
+    "where": [
+     "us"
+    ]
+   },
+   "priority": 9,
+   "title": "Use the U.S. localization pathway",
+   "detail": "Document 33, with a California example.",
+   "target": {
+    "kind": "doc",
+    "ref": "33"
+   },
+   "work": "review"
+  },
+  {
+   "id": "R15",
+   "when": {
+    "goal": [
+     "adapt"
+    ],
+    "where": [
+     "ca"
+    ]
+   },
+   "priority": 9,
+   "title": "Use the Canada localization pathway",
+   "detail": "Document 34, with an Ontario example.",
+   "target": {
+    "kind": "doc",
+    "ref": "34"
+   },
+   "work": "review"
+  },
+  {
+   "id": "R16",
+   "when": {
+    "goal": [
+     "evaluate"
+    ]
+   },
+   "priority": 10,
+   "title": "Check how big a study would need to be",
+   "detail": "Most pilots cannot prove fewer injuries; set a realistic aim first.",
+   "target": {
+    "kind": "view",
+    "ref": "evaluation"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R17",
+   "when": {
+    "goal": [
+     "evaluate"
+    ],
+    "who": [
+     "researcher",
+     "agency"
+    ]
+   },
+   "priority": 12,
+   "title": "Read the evaluation protocol",
+   "detail": "Design, outcomes, harms and reporting (document 15).",
+   "target": {
+    "kind": "doc",
+    "ref": "15"
+   },
+   "work": "review"
+  },
+  {
+   "id": "R18",
+   "when": {
+    "goal": [
+     "spread"
+    ]
+   },
+   "priority": 10,
+   "title": "Find your organization in the ways to help",
+   "detail": "Concrete actions, and what to avoid, for each kind of helper.",
+   "target": {
+    "kind": "view",
+    "ref": "pathway"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R19",
+   "when": {
+    "goal": [
+     "spread"
+    ],
+    "who": [
+     "official",
+     "agency",
+     "advocate"
+    ]
+   },
+   "priority": 12,
+   "title": "Share the two-page brief",
+   "detail": "Draft French and Spanish versions are included; have them reviewed first.",
+   "target": {
+    "kind": "view",
+    "ref": "brief"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R20",
+   "when": {
+    "who": [
+     "advocate"
+    ]
+   },
+   "priority": 20,
+   "title": "Review the inclusive access and worker review",
+   "detail": "Document 30: what must not get worse for disabled visitors and workers.",
+   "target": {
+    "kind": "doc",
+    "ref": "30"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R21",
+   "when": {
+    "who": [
+     "supplier"
+    ]
+   },
+   "priority": 15,
+   "title": "Read the performance specification",
+   "detail": "Document 08: what a product must achieve, and how it is accepted. No product is endorsed.",
+   "target": {
+    "kind": "doc",
+    "ref": "08"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R22",
+   "when": {
+    "who": [
+     "developer"
+    ]
+   },
+   "priority": 10,
+   "title": "Check where data are kept and how the workspace is built",
+   "detail": "Storage, offline use, privacy controls and the maintainer guide.",
+   "target": {
+    "kind": "view",
+    "ref": "data"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R23",
+   "when": {
+    "who": [
+     "developer"
+    ]
+   },
+   "priority": 12,
+   "title": "Read the credits, licences and architecture notes",
+   "detail": "Routes, storage fallback and how to add a view.",
+   "target": {
+    "kind": "view",
+    "ref": "about"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R24",
+   "when": {
+    "who": [
+     "insurer"
+    ]
+   },
+   "priority": 14,
+   "title": "Read the insurer and broker review package",
+   "detail": "Document 19. No premium change is implied.",
+   "target": {
+    "kind": "doc",
+    "ref": "19"
+   },
+   "work": "now"
+  },
+  {
+   "id": "R25",
+   "when": {},
+   "priority": 90,
+   "title": "Find your role's first-day tasks",
+   "detail": "What you can begin today, what needs review, and who you hand off to.",
+   "target": {
+    "kind": "view",
+    "ref": "start#roles"
+   },
+   "work": "now"
+  }
+ ],
+ "startSkips": {
+  "understand": "Registers, cost scenarios and the evaluation calculator can wait until a pilot is proposed.",
+  "decide": "Commissioning checklists and daily procedures can wait until gate G3 is passed.",
+  "pilot": "Scale decisions, coalition charters and international pathways can wait until the pilot has been reviewed (G5).",
+  "adapt": "Site-level forms can wait until the rules that apply have been recorded (G2).",
+  "evaluate": "Product specifications and procurement documents can wait unless they change your outcome measures.",
+  "spread": "Site checklists are for the sites themselves; point people to them rather than filling them in."
+ },
+ "discover": {
+  "headline": "Look again, from a child's height.",
+  "lede": "Child-Safer Spaces is a free planning kit for shops and public buildings. It helps the people who run them find and fix what makes children slip, trip, fall or hit their heads, without making the space harder for anyone else to use.",
+  "band": "Survey band 0–120 cm. Tall two-year-olds are about 92–93 cm and tall five-year-olds about 118–119 cm (WHO growth standards, 97th percentile) [S37].",
+  "kitIs": [
+   "A planning kit: checklists, templates, workflows and decision gates.",
+   "Performance-based and material-neutral: it says what a fix must achieve, not what to buy.",
+   "Offline and private: no accounts, no network, no tracking. Your work stays on your device.",
+   "Free to read and try; a licence for reuse is still to be chosen by the owner."
+  ],
+  "kitIsNot": [
+   "Not a standard, a certification, legal advice or an approval.",
+   "Not proven to reduce injuries: no outcome evaluation has been completed.",
+   "Not a reason to collect data about children, carers or workers.",
+   "Not a product endorsement: soft flooring, foam and playground tests do not establish safety in shops."
+  ],
+  "readaloud": [
+   "Shops can be busy places, with carts, shelves and shiny floors.",
+   "Sometimes a floor gets wet, or a corner sticks out where small people walk.",
+   "The grown-ups who look after shops can crouch down and look from your height to find those spots.",
+   "Then they fix them, so everyone can walk around safely, including people who use wheelchairs.",
+   "If you see a spill or something sticking out, tell the grown-up you're with, or someone who works there."
+  ],
+  "claims": [
+   [
+    "Source fact",
+    "A narrow statement supported by a cited source, such as [S45]."
+   ],
+   [
+    "Projection",
+    "A number calculated from your own assumptions, such as a cost scenario. Not a forecast."
+   ],
+   [
+    "Program position",
+    "What this program recommends. You may disagree and adapt it."
+   ],
+   [
+    "Illustration",
+    "Invented examples (site EX-001) or imagery, such as the light on this page. Not data."
+   ]
+  ]
+ },
+ "attributions": [
+  {
+   "what": "Enhancement directive and interface concept for this edition",
+   "who": "Foster + Navi / Planetary Restoration Archive",
+   "note": "Credited as the project's enhancement directive asks. The owner has not yet chosen a licence for this package."
+  },
+  {
+   "what": "Planning method for this edition",
+   "who": "Feature Fusion Foundry, Foster + Navi / Planetary Restoration Archive (MIT License)",
+   "note": "Its published capability catalog and deterministic planning rules (commit f367304) informed ENHANCEMENT-PLAN.md. No Foundry code is included in this package.",
+   "url": "https://github.com/regenerative-architect/feature_fusion_foundry"
+  },
+  {
+   "what": "Sources",
+   "who": "The publishers listed in the source register",
+   "note": "Each source keeps its own copyright. The package quotes only short passages and links to the originals."
+  },
+  {
+   "what": "Test tools (not shipped)",
+   "who": "axe-core (Mozilla Public License 2.0), Playwright (Apache License 2.0), Chromium (BSD-style licences), Node.js (MIT License), Python (PSF License)",
+   "note": "Used to test this package; none of them is bundled or runs in the workspace."
+  },
+  {
+   "what": "Fonts and images",
+   "who": "Your device's own fonts; the background light is drawn by code in this package",
+   "note": "No web fonts, photographs or icon sets are downloaded or included."
+  }
+ ],
+ "routes": [
+  {
+   "id": "discover",
+   "label": "Discover",
+   "group": "discover",
+   "mode": "essentials",
+   "keywords": "introduction overview journey child read aloud what it is"
+  },
+  {
+   "id": "start",
+   "label": "Start here",
+   "group": "discover",
+   "mode": "essentials",
+   "keywords": "starting point questions roles first day hand-off"
+  },
+  {
+   "id": "brief",
+   "label": "Brief for officials",
+   "group": "understand",
+   "mode": "essentials",
+   "keywords": "officials government policy two-page french spanish translation"
+  },
+  {
+   "id": "glossary",
+   "label": "Glossary",
+   "group": "understand",
+   "mode": "essentials",
+   "keywords": "definitions terms words plain language"
+  },
+  {
+   "id": "library",
+   "label": "Documents & templates",
+   "group": "explore",
+   "mode": "essentials",
+   "keywords": "documents templates handbook print drafts"
+  },
+  {
+   "id": "evidence",
+   "label": "Evidence ledger",
+   "group": "explore",
+   "mode": "full",
+   "keywords": "claims evidence limits studies"
+  },
+  {
+   "id": "sources",
+   "label": "Source register",
+   "group": "explore",
+   "mode": "full",
+   "keywords": "sources citations references standards laws"
+  },
+  {
+   "id": "workflows",
+   "label": "Workflows & decision rights",
+   "group": "participate",
+   "mode": "full",
+   "keywords": "procedures steps owners authority escalation"
+  },
+  {
+   "id": "pathway",
+   "label": "From one site to many",
+   "group": "participate",
+   "mode": "essentials",
+   "keywords": "deployment scale partners ways to help catalysts outreach"
+  },
+  {
+   "id": "plan",
+   "label": "Implementation plan",
+   "group": "apply",
+   "mode": "essentials",
+   "keywords": "tasks owners due dates evidence"
+  },
+  {
+   "id": "gates",
+   "label": "Decision gates",
+   "group": "apply",
+   "mode": "full",
+   "keywords": "go no-go approvals gates G0 G6"
+  },
+  {
+   "id": "registers",
+   "label": "Planning registers",
+   "group": "apply",
+   "mode": "full",
+   "keywords": "hazards actions decisions csv records"
+  },
+  {
+   "id": "calculator",
+   "label": "Cost scenarios",
+   "group": "apply",
+   "mode": "full",
+   "keywords": "costs budget net present value finance"
+  },
+  {
+   "id": "evaluation",
+   "label": "Evaluation planning",
+   "group": "apply",
+   "mode": "full",
+   "keywords": "sample size power events statistics"
+  },
+  {
+   "id": "adapt",
+   "label": "Adapt to your country",
+   "group": "steward",
+   "mode": "essentials",
+   "keywords": "country international localization translation pre-mortem"
+  },
+  {
+   "id": "data",
+   "label": "Your data",
+   "group": "steward",
+   "mode": "essentials",
+   "keywords": "storage backup export import erase privacy offline"
+  },
+  {
+   "id": "about",
+   "label": "About, credits & licences",
+   "group": "steward",
+   "mode": "essentials",
+   "keywords": "attributions licences credits privacy architecture developers"
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+TAP version 13
+# Subtest: inventory: documents, sources, evidence, tasks, gates, registers, workflows, roles
+ok 1 - inventory: documents, sources, evidence, tasks, gates, registers, workflows, roles
+  ---
+  duration_ms: 2.500172
+  type: 'test'
+  ...
+# Subtest: every claim-level citation and evidence source resolves; every source states edition, retrieval date, access and limits
+ok 2 - every claim-level citation and evidence source resolves; every source states edition, retrieval date, access and limits
+  ---
+  duration_ms: 1.520524
+  type: 'test'
+  ...
+# Subtest: version 2 identifiers are preserved so existing drafts, tasks and CSVs stay compatible
+ok 3 - version 2 identifiers are preserved so existing drafts, tasks and CSVs stay compatible
+  ---
+  duration_ms: 1.76582
+  type: 'test'
+  ...
+# Subtest: workflows specify trigger, prerequisites, owner, authority, inputs, steps, record, acceptance and escalation
+ok 4 - workflows specify trigger, prerequisites, owner, authority, inputs, steps, record, acceptance and escalation
+  ---
+  duration_ms: 0.591195
+  type: 'test'
+  ...
+# Subtest: tasks: unique IDs, valid gates and workflows, a kind label, and every gate has tasks
+ok 5 - tasks: unique IDs, valid gates and workflows, a kind label, and every gate has tasks
+  ---
+  duration_ms: 0.31242
+  type: 'test'
+  ...
+# Subtest: fictional examples match their register columns and are labelled fictional
+ok 6 - fictional examples match their register columns and are labelled fictional
+  ---
+  duration_ms: 0.603066
+  type: 'test'
+  ...
+# Subtest: role packs include their entry documents and the coverage, playbook, launch and workflow documents
+ok 7 - role packs include their entry documents and the coverage, playbook, launch and workflow documents
+  ---
+  duration_ms: 0.311866
+  type: 'test'
+  ...
+# Subtest: prohibited claims appear only quoted or negated, never as program claims
+ok 8 - prohibited claims appear only quoted or negated, never as program claims
+  ---
+  duration_ms: 1.288714
+  type: 'test'
+  ...
+# Subtest: documents do not imply that foam, playground testing or zero incidents establishes retail safety
+ok 9 - documents do not imply that foam, playground testing or zero incidents establishes retail safety
+  ---
+  duration_ms: 2.009589
+  type: 'test'
+  ...
+# Subtest: Markdown escapes injected HTML and only links known source IDs
+ok 10 - Markdown escapes injected HTML and only links known source IDs
+  ---
+  duration_ms: 1.114629
+  type: 'test'
+  ...
+# Subtest: CSV round trip: BOM, quotes, commas, line breaks and Unicode
+ok 11 - CSV round trip: BOM, quotes, commas, line breaks and Unicode
+  ---
+  duration_ms: 0.884278
+  type: 'test'
+  ...
+# Subtest: CSV export neutralizes formula-like text (=, +, -, @, tab, CR, full-width) but leaves numbers numeric
+ok 12 - CSV export neutralizes formula-like text (=, +, -, @, tab, CR, full-width) but leaves numbers numeric
+  ---
+  duration_ms: 0.252295
+  type: 'test'
+  ...
+# Subtest: register import: exact headers, semicolon and tab files, and lossless re-import of neutralized cells
+ok 13 - register import: exact headers, semicolon and tab files, and lossless re-import of neutralized cells
+  ---
+  duration_ms: 1.815016
+  type: 'test'
+  ...
+# Subtest: personal-data check flags contact details, ages, injuries, claims and footage but not ordinary planning text
+ok 14 - personal-data check flags contact details, ages, injuries, claims and footage but not ordinary planning text
+  ---
+  duration_ms: 3.500361
+  type: 'test'
+  ...
+# Subtest: state validation accepts a blank state and rejects malformed or unexpected data
+ok 15 - state validation accepts a blank state and rejects malformed or unexpected data
+  ---
+  duration_ms: 1.475025
+  type: 'test'
+  ...
+# Subtest: version 2 migration keeps real drafts, drops unedited ones, preserves records and reopens gates that no longer qualify
+ok 16 - version 2 migration keeps real drafts, drops unedited ones, preserves records and reopens gates that no longer qualify
+  ---
+  duration_ms: 4.796072
+  type: 'test'
+  ...
+# Subtest: version 2 migration rejects damaged data instead of guessing
+ok 17 - version 2 migration rejects damaged data instead of guessing
+  ---
+  duration_ms: 1.281215
+  type: 'test'
+  ...
+# Subtest: version 1 migration keeps drafts and gate notes, reopens every gate and logs notes for retired gates
+ok 18 - version 1 migration keeps drafts and gate notes, reopens every gate and logs notes for retired gates
+  ---
+  duration_ms: 0.57776
+  type: 'test'
+  ...
+# Subtest: backups: version 3 round trip is lossless; unknown formats and versions are rejected
+ok 19 - backups: version 3 round trip is lossless; unknown formats and versions are rejected
+  ---
+  duration_ms: 0.39693
+  type: 'test'
+  ...
+# Subtest: storage: new, valid, unavailable and write-failure cases
+ok 20 - storage: new, valid, unavailable and write-failure cases
+  ---
+  duration_ms: 0.540735
+  type: 'test'
+  ...
+# Subtest: storage: unreadable version 3 data is quarantined, copied untouched and never silently replaced
+ok 21 - storage: unreadable version 3 data is quarantined, copied untouched and never silently replaced
+  ---
+  duration_ms: 0.348321
+  type: 'test'
+  ...
+# Subtest: storage: version 2 and version 1 browser data migrate without being modified
+ok 22 - storage: version 2 and version 1 browser data migrate without being modified
+  ---
+  duration_ms: 1.024619
+  type: 'test'
+  ...
+# Subtest: gates: only status or evidence changes reopen gates; owner and date edits do not
+ok 23 - gates: only status or evidence changes reopen gates; owner and date edits do not
+  ---
+  duration_ms: 0.758239
+  type: 'test'
+  ...
+# Subtest: gates: completion requires earlier gates, evidence and a decision reference; amending reopens downstream
+ok 24 - gates: completion requires earlier gates, evidence and a decision reference; amending reopens downstream
+  ---
+  duration_ms: 0.81762
+  type: 'test'
+  ...
+# Subtest: finance: version 2 fixtures still hold
+ok 25 - finance: version 2 fixtures still hold
+  ---
+  duration_ms: 0.693688
+  type: 'test'
+  ...
+# Subtest: finance: withdrawal, zero initial cost, documented other savings and break-even at or below zero
+ok 26 - finance: withdrawal, zero initial cost, documented other savings and break-even at or below zero
+  ---
+  duration_ms: 1.395012
+  type: 'test'
+  ...
+# Subtest: finance: uncertainty ranges sort by swing and combine pessimistic and optimistic cases
+ok 27 - finance: uncertainty ranges sort by swing and combine pessimistic and optimistic cases
+  ---
+  duration_ms: 0.547159
+  type: 'test'
+  ...
+# Subtest: evaluation planning matches known statistical values
+ok 28 - evaluation planning matches known statistical values
+  ---
+  duration_ms: 0.729517
+  type: 'test'
+  ...
+# Subtest: line diff and search snippets
+ok 29 - line diff and search snippets
+  ---
+  duration_ms: 0.398956
+  type: 'test'
+  ...
+# Subtest: generated files are up to date with the editable sources
+ok 30 - generated files are up to date with the editable sources
+  ---
+  duration_ms: 152.60799
+  type: 'test'
+  ...
+# Subtest: standalone file is self-contained and its CSP hashes match its inline scripts
+ok 31 - standalone file is self-contained and its CSP hashes match its inline scripts
+  ---
+  duration_ms: 13.812012
+  type: 'test'
+  ...
+# Subtest: every page has the network lock, the Zero Harm note and only local assets
+ok 32 - every page has the network lock, the Zero Harm note and only local assets
+  ---
+  duration_ms: 29.57455
+  type: 'test'
+  ...
+# Subtest: no network APIs, telemetry, secrets or personal email addresses in the package
+ok 33 - no network APIs, telemetry, secrets or personal email addresses in the package
+  ---
+  duration_ms: 17.890469
+  type: 'test'
+  ...
+# Subtest: SHA256SUMS.txt lists every file (except test run logs) with a matching checksum
+ok 34 - SHA256SUMS.txt lists every file (except test run logs) with a matching checksum
+  ---
+  duration_ms: 10.66253
+  type: 'test'
+  ...
+# Subtest: every route has a navigation group, a seven-part guide and a render function; the journey points to real routes
+ok 35 - every route has a navigation group, a seven-part guide and a render function; the journey points to real routes
+  ---
+  duration_ms: 0.641065
+  type: 'test'
+  ...
+# Subtest: starting point: same answers give the same explained steps; time caps them; other countries start with adaptation
+ok 36 - starting point: same answers give the same explained steps; time caps them; other countries start with adaptation
+  ---
+  duration_ms: 1.323244
+  type: 'test'
+  ...
+# Subtest: glossary terms are unique and link somewhere real; sources carry a re-check date
+ok 37 - glossary terms are unique and link somewhere real; sources carry a re-check date
+  ---
+  duration_ms: 0.565276
+  type: 'test'
+  ...
+# Subtest: translations are tagged with their language and labelled as unreviewed drafts; the brief cites its sources
+ok 38 - translations are tagged with their language and labelled as unreviewed drafts; the brief cites its sources
+  ---
+  duration_ms: 0.318129
+  type: 'test'
+  ...
+# Subtest: whole-workspace personal-data check reports where, never the matched text
+ok 39 - whole-workspace personal-data check reports where, never the matched text
+  ---
+  duration_ms: 0.383674
+  type: 'test'
+  ...
+# Subtest: display settings: defaults, only known values kept, damaged values ignored
+ok 40 - display settings: defaults, only known values kept, damaged values ignored
+  ---
+  duration_ms: 0.270318
+  type: 'test'
+  ...
+# Subtest: storage layer: falls back to localStorage, reads earlier versions without changing them, and refuses to overwrite another tab
+ok 41 - storage layer: falls back to localStorage, reads earlier versions without changing them, and refuses to overwrite another tab
+  ---
+  duration_ms: 8.403379
+  type: 'test'
+  ...
+# Subtest: storage layer: quota errors are reported, and with no storage at all the workspace runs from memory
+ok 42 - storage layer: quota errors are reported, and with no storage at all the workspace runs from memory
+  ---
+  duration_ms: 4005.513202
+  type: 'test'
+  ...
+# Subtest: offline copy: the service worker caches only listed local files and answers only same-origin GET requests
+ok 43 - offline copy: the service worker caches only listed local files and answers only same-origin GET requests
+  ---
+  duration_ms: 1.282134
+  type: 'test'
+  ...
+# Subtest: colour contrast of every text pair meets WCAG AA in light, dark and more-contrast themes
+ok 44 - colour contrast of every text pair meets WCAG AA in light, dark and more-contrast themes
+  ---
+  duration_ms: 3.979501
+  type: 'test'
+  ...
+# Subtest: the background scene is optional, stoppable and bounded
+ok 45 - the background scene is optional, stoppable and bounded
+  ---
+  duration_ms: 0.410364
+  type: 'test'
+  ...
+1..45
+# tests 45
+# suites 0
+# pass 45
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 4383.278723

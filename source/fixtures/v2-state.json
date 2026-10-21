@@ -1,0 +1,138 @@
+{
+ "site": "EX-FIXTURE-02",
+ "profile": {
+  "country": "Canada",
+  "region": "Ontario",
+  "municipality": "Fictional Town",
+  "business": "General retail (fictional)"
+ },
+ "edits": {
+  "12": "## Owner and coverage\nSite manager owns the procedure; each shift names a responder and deputy. Set inspection frequency by hazard, weather, traffic and incident history. Proposed minimum planning points: opening, shift handover, closing, and after cleaning/spills/restocking; high-risk zones need more frequent checks. Record the approved interval in the register.\n## Inspection\nWalk entrances, transitions, queues, aisles and guards. Check water, debris, curling, movement, seam gaps, loose parts, contamination, new projections and blocked routes. Record time, zone, defect, action and reopening verification. A blank log is not a completed inspection.\n## Spill/hazard response\n1. Protect people: prevent entry to the affected area and provide a safe accessible alternative; notify the shift lead. Do not block emergency escape.\n2. Identify the hazard and summon the appropriate trained responder. Unknown chemicals, blood or other specialist hazards use the existing specialist procedure.\n3. Remove contamination and address the source using the approved product, dilution and equipment. Keep the area isolated while wet or unsafe. HSE warns that signs alone do not prevent entry [S2].\n4. Inspect dryness, residue, seams, attachment and surrounding area; record verification before reopening.\n5. Log detection, isolation, cleanup and reopening times; investigate repeated sources and escalate repairs.\n## Cleaning plan\nList surface/zone [ ]; approved chemical and dilution [ ]; equipment [ ]; drying method [ ]; scheduled time [ ]; guard/seam inspection [ ]; waste route [ ]; responsible contractor [ ]. Do not change polish, coating, chemical or pad without compatibility review.\n## Escalation\nImmediately isolate lifting edges, unstable surfaces, detached guards, blocked access or sanitation failures. Escalate missed inspections, overdue repair and recurrent wetting to the manager. Document interim controls and restart under document 14. Retain records under the approved retention policy.\n## Local addition\nNight crew checks the east entrance at 22:00.",
+  "41": "Fully replaced local text for document 41 (fictional).",
+  "05": "## Value propositions to validate\n| Audience | Proposed appeal | Proof needed | First ask |\n| --- | --- | --- | --- |\n| Parents/caregivers | Fewer avoidable hazards during daily visits | Visible fixes, credible reporting, honest limits | Review a walk-through and feedback survey |\n| Disabled visitors/older adults | Safer routes without extra mobility effort | User involvement, accessible transitions and routes | Paid adult accessibility advisory session |\n| Store staff | Clear response duties and fewer repeat hazards | Workable time, training and repair support | Join shift walkthrough and usability trial |\n| Business leadership | Manageable risk and predictable total costs | Budget, operating feasibility and measured outcomes | Fund a bounded pilot |\n| Insurer/self-insured risk team | Auditable prevention and reliable data | Exposure-adjusted trends, maintenance and product evidence | Agree review and evidence criteria |\n| Government/public health | Prevention with equitable access | Independent results and feasible enforcement | Support evaluation and coordination |\n| Suppliers/landlords | Clear specifications and responsibility | Traceable acceptance and maintenance terms | Provide dossier and written permissions |\n## Adoption sequence\nRecruit one sponsor and a small set of suitable sites; engage disability representatives and staff before selecting products. Agree evidence questions with insurer and authorities, then obtain competing supplier responses. Publish a factual pilot notice. Review operational findings at 30, 60 and 90 days. Expand only after Gate G6; replication should include different exposure and store sizes.\n## Selection rubric\nScore each site 0–2 for documented hazard burden, data quality, management capacity, representative traffic, feasible comparison, and ability to isolate/revert changes. These are program screening scores, not risk certifications. Exclude sites unable to maintain a safe accessible route or fund removal. Include smaller businesses when maintenance capacity can be supported.\n## Prevent adoption friction\nOffer standard documents, shared testing, training time and procurement options. Keep public claims specific. Do not promise lower premiums, tax credits, grants or a universal return on investment. A large retailer is an example, not an assumed partner."
+ },
+ "gates": {
+  "G0": {
+   "done": true,
+   "note": "2026-10-19 Sponsor; CHARTER-EX v1"
+  },
+  "G1": {
+   "done": true,
+   "note": "2026-10-19 Evaluation lead; EVAL-EX-1"
+  }
+ },
+ "tasks": {
+  "T01": {
+   "owner": "Sponsor",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T01"
+  },
+  "T02": {
+   "owner": "Sponsor",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T02"
+  },
+  "T03": {
+   "owner": "Finance",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T03"
+  },
+  "T04": {
+   "owner": "Operations",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T04"
+  },
+  "T05": {
+   "owner": "Sponsor",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T05"
+  },
+  "T06": {
+   "owner": "Evaluation",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T06"
+  },
+  "T07": {
+   "owner": "Privacy / evaluation",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T07"
+  },
+  "T08": {
+   "owner": "Community lead",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T08"
+  },
+  "T09": {
+   "owner": "Evaluation",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T09"
+  },
+  "T10": {
+   "owner": "Evaluation",
+   "due": "2026-10-25",
+   "status": "done",
+   "evidence": "REF-T10"
+  },
+  "T11": {
+   "owner": "Legal / facilities",
+   "due": "",
+   "status": "in_progress",
+   "evidence": ""
+  }
+ },
+ "records": {
+  "hazards": [
+   [
+    "H-001",
+    "EX-FIXTURE-02",
+    "Entrance",
+    "2026-10-19T09:00-04:00",
+    "Mat edge lifts",
+    "All visitors",
+    "3",
+    "4",
+    "Estimate",
+    "Mat removed",
+    "Facilities lead",
+    "2026-10-21",
+    "open",
+    "LOG-1"
+   ]
+  ],
+  "publication_claims": [
+   [
+    "PC-1",
+    "=HYPERLINK(\"http://example.invalid\")",
+    "none",
+    "",
+    "Comms",
+    "rejected",
+    "2026-10-19",
+    "formula-like text kept as text"
+   ]
+  ]
+ },
+ "calc": {
+  "currency": "CAD",
+  "initial": 12000,
+  "annual": 1500,
+  "loss": 18000,
+  "reduction": 10,
+  "other": 500,
+  "years": 5,
+  "discount": 4,
+  "escalation": 2,
+  "replacementCost": 0,
+  "replacementYear": 0,
+  "salvage": 0
+ }
+}

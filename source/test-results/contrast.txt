@@ -1,0 +1,109 @@
+ok   light                 ink on paper               10.71 (min 4.5)  body text
+ok   light                 ink on surface             11.87 (min 4.5)  cards and documents
+ok   light                 ink on glass               11.66 (min 4.5)  top bar, status bar, hero panel
+ok   light                 muted on paper              5.95 (min 4.5)  secondary text
+ok   light                 muted on surface            6.59 (min 4.5)  secondary text on cards
+ok   light                 muted on glass              6.48 (min 4.5)  secondary text on glass
+ok   light                 link on paper               5.99 (min 4.5)  links
+ok   light                 link on surface             6.63 (min 4.5)  links on cards
+ok   light                 amber on glass              6.01 (min 4.5)  child band labels
+ok   light                 amber on surface            6.11 (min 4.5)  band labels on solid
+ok   light                 now on now-bg               6.81 (min 4.5)  "No approval needed" badge
+ok   light                 review on review-bg         6.78 (min 4.5)  "Needs local review" badge
+ok   light                 signed on signed-bg         8.31 (min 4.5)  "Needs signed commitment" badge
+ok   light                 del on del-bg               7.49 (min 4.5)  danger notices
+ok   light                 add on add-bg               7.17 (min 4.5)  draft comparison
+ok   light                 ink on amber-bg            10.84 (min 4.5)  warning notices
+ok   light                 ink on notice-bg            9.93 (min 4.5)  notices
+ok   light                 ink on head-bg             10.15 (min 4.5)  table headers
+ok   light                 side-ink on side           11.41 (min 4.5)  navigation
+ok   light                 side-muted on side          7.57 (min 4.5)  navigation stage labels
+ok   light                 #183b37 on lime            10.07 (min 4.5)  current navigation item
+ok   light                 focus on paper              5.27 (min 3)  focus ring
+ok   light                 focus on surface            5.84 (min 3)  focus ring on cards
+ok   light                 focus-dark on side          8.47 (min 3)  focus ring in navigation
+ok   light                 border on surface           4.01 (min 3)  control borders
+ok   light                 border on paper             3.62 (min 3)  control borders on page
+ok   light                 surface on green            6.59 (min 4.5)  primary button
+ok   dark                  ink on paper               14.51 (min 4.5)  body text
+ok   dark                  ink on surface             11.99 (min 4.5)  cards and documents
+ok   dark                  ink on glass                12.3 (min 4.5)  top bar, status bar, hero panel
+ok   dark                  muted on paper              9.02 (min 4.5)  secondary text
+ok   dark                  muted on surface            7.45 (min 4.5)  secondary text on cards
+ok   dark                  muted on glass              7.64 (min 4.5)  secondary text on glass
+ok   dark                  link on paper               9.91 (min 4.5)  links
+ok   dark                  link on surface             8.19 (min 4.5)  links on cards
+ok   dark                  amber on glass              8.93 (min 4.5)  child band labels
+ok   dark                  amber on surface            8.71 (min 4.5)  band labels on solid
+ok   dark                  now on now-bg               8.82 (min 4.5)  "No approval needed" badge
+ok   dark                  review on review-bg         9.12 (min 4.5)  "Needs local review" badge
+ok   dark                  signed on signed-bg         9.05 (min 4.5)  "Needs signed commitment" badge
+ok   dark                  del on del-bg               8.21 (min 4.5)  danger notices
+ok   dark                  add on add-bg               8.82 (min 4.5)  draft comparison
+ok   dark                  ink on amber-bg            11.55 (min 4.5)  warning notices
+ok   dark                  ink on notice-bg           10.49 (min 4.5)  notices
+ok   dark                  ink on head-bg             10.49 (min 4.5)  table headers
+ok   dark                  side-ink on side           16.43 (min 4.5)  navigation
+ok   dark                  side-muted on side         10.76 (min 4.5)  navigation stage labels
+ok   dark                  #183b37 on lime            10.07 (min 4.5)  current navigation item
+ok   dark                  focus on paper             11.81 (min 3)  focus ring
+ok   dark                  focus on surface            9.76 (min 3)  focus ring on cards
+ok   dark                  focus-dark on side         12.71 (min 3)  focus ring in navigation
+ok   dark                  border on surface           4.77 (min 3)  control borders
+ok   dark                  border on paper             5.77 (min 3)  control borders on page
+ok   dark                  #0f1f1c on green            9.91 (min 4.5)  primary button
+ok   light, more contrast  ink on paper               10.71 (min 4.5)  body text
+ok   light, more contrast  ink on surface             11.87 (min 4.5)  cards and documents
+ok   light, more contrast  ink on glass               11.87 (min 4.5)  top bar, status bar, hero panel
+ok   light, more contrast  muted on paper              9.37 (min 4.5)  secondary text
+ok   light, more contrast  muted on surface           10.38 (min 4.5)  secondary text on cards
+ok   light, more contrast  muted on glass             10.38 (min 4.5)  secondary text on glass
+ok   light, more contrast  link on paper               5.99 (min 4.5)  links
+ok   light, more contrast  link on surface             6.63 (min 4.5)  links on cards
+ok   light, more contrast  amber on glass              6.11 (min 4.5)  child band labels
+ok   light, more contrast  amber on surface            6.11 (min 4.5)  band labels on solid
+ok   light, more contrast  now on now-bg               6.81 (min 4.5)  "No approval needed" badge
+ok   light, more contrast  review on review-bg         6.78 (min 4.5)  "Needs local review" badge
+ok   light, more contrast  signed on signed-bg         8.31 (min 4.5)  "Needs signed commitment" badge
+ok   light, more contrast  del on del-bg               7.49 (min 4.5)  danger notices
+ok   light, more contrast  add on add-bg               7.17 (min 4.5)  draft comparison
+ok   light, more contrast  ink on amber-bg            10.84 (min 4.5)  warning notices
+ok   light, more contrast  ink on notice-bg            9.93 (min 4.5)  notices
+ok   light, more contrast  ink on head-bg             10.15 (min 4.5)  table headers
+ok   light, more contrast  side-ink on side           11.41 (min 4.5)  navigation
+ok   light, more contrast  side-muted on side          7.57 (min 4.5)  navigation stage labels
+ok   light, more contrast  #183b37 on lime            10.07 (min 4.5)  current navigation item
+ok   light, more contrast  focus on paper              5.27 (min 3)  focus ring
+ok   light, more contrast  focus on surface            5.84 (min 3)  focus ring on cards
+ok   light, more contrast  focus-dark on side          8.47 (min 3)  focus ring in navigation
+ok   light, more contrast  border on surface           8.12 (min 3)  control borders
+ok   light, more contrast  border on paper             7.32 (min 3)  control borders on page
+ok   light, more contrast  surface on green            6.59 (min 4.5)  primary button
+ok   dark, more contrast   ink on paper               14.51 (min 4.5)  body text
+ok   dark, more contrast   ink on surface             11.99 (min 4.5)  cards and documents
+ok   dark, more contrast   ink on glass               11.99 (min 4.5)  top bar, status bar, hero panel
+ok   dark, more contrast   muted on paper             12.88 (min 4.5)  secondary text
+ok   dark, more contrast   muted on surface           10.65 (min 4.5)  secondary text on cards
+ok   dark, more contrast   muted on glass             10.65 (min 4.5)  secondary text on glass
+ok   dark, more contrast   link on paper               9.91 (min 4.5)  links
+ok   dark, more contrast   link on surface             8.19 (min 4.5)  links on cards
+ok   dark, more contrast   amber on glass              8.71 (min 4.5)  child band labels
+ok   dark, more contrast   amber on surface            8.71 (min 4.5)  band labels on solid
+ok   dark, more contrast   now on now-bg               8.82 (min 4.5)  "No approval needed" badge
+ok   dark, more contrast   review on review-bg         9.12 (min 4.5)  "Needs local review" badge
+ok   dark, more contrast   signed on signed-bg         9.05 (min 4.5)  "Needs signed commitment" badge
+ok   dark, more contrast   del on del-bg               8.21 (min 4.5)  danger notices
+ok   dark, more contrast   add on add-bg               8.82 (min 4.5)  draft comparison
+ok   dark, more contrast   ink on amber-bg            11.55 (min 4.5)  warning notices
+ok   dark, more contrast   ink on notice-bg           10.49 (min 4.5)  notices
+ok   dark, more contrast   ink on head-bg             10.49 (min 4.5)  table headers
+ok   dark, more contrast   side-ink on side           16.43 (min 4.5)  navigation
+ok   dark, more contrast   side-muted on side         10.76 (min 4.5)  navigation stage labels
+ok   dark, more contrast   #183b37 on lime            10.07 (min 4.5)  current navigation item
+ok   dark, more contrast   focus on paper             11.81 (min 3)  focus ring
+ok   dark, more contrast   focus on surface            9.76 (min 3)  focus ring on cards
+ok   dark, more contrast   focus-dark on side         12.71 (min 3)  focus ring in navigation
+ok   dark, more contrast   border on surface           7.44 (min 3)  control borders
+ok   dark, more contrast   border on paper                9 (min 3)  control borders on page
+ok   dark, more contrast   #0f1f1c on green            9.91 (min 4.5)  primary button
+All 108 pairs meet the minimum.

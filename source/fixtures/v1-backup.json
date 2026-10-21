@@ -1,0 +1,20 @@
+{
+ "format": "child-safer-spaces",
+ "version": 1,
+ "state": {
+  "site": "EX-FIXTURE-01",
+  "edits": {
+   "03": "Version 1 local plan text (fictional)."
+  },
+  "gates": {
+   "G0": {
+    "done": true,
+    "note": "v1 sponsor note"
+   },
+   "G9": {
+    "done": false,
+    "note": "note for a gate that no longer exists"
+   }
+  }
+ }
+}

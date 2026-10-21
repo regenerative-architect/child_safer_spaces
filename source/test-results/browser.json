@@ -1,0 +1,204 @@
+{
+ "browser": "Chromium 141.0.7390.37",
+ "tests": 39,
+ "passed": 39,
+ "failed": 0,
+ "skipped": 0,
+ "results": [
+  {
+   "test": "loads_every_view_in_three_opening_modes",
+   "result": "pass",
+   "seconds": 7.71
+  },
+  {
+   "test": "keyboard_skip_link_navigation_focus_and_visible_focus_ring",
+   "result": "pass",
+   "seconds": 0.5
+  },
+  {
+   "test": "deep_links_history_and_unknown_addresses",
+   "result": "pass",
+   "seconds": 1.23
+  },
+  {
+   "test": "search_finds_views_documents_and_terms_and_is_keyboard_friendly",
+   "result": "pass",
+   "seconds": 0.79
+  },
+  {
+   "test": "settings_apply_at_once_persist_and_reset",
+   "result": "pass",
+   "seconds": 1.31
+  },
+  {
+   "test": "essentials_and_full_workspace_navigation",
+   "result": "pass",
+   "seconds": 2.01
+  },
+  {
+   "test": "phone_menu_and_explanation_drawers_trap_focus_and_close_with_escape",
+   "result": "pass",
+   "seconds": 1.29
+  },
+  {
+   "test": "starting_point_gives_explained_steps_and_links_that_work",
+   "result": "pass",
+   "seconds": 3.35
+  },
+  {
+   "test": "brief_translations_are_tagged_and_printable",
+   "result": "pass",
+   "seconds": 1.48
+  },
+  {
+   "test": "discover_background_scene_can_be_paused_and_respects_reduced_motion",
+   "result": "pass",
+   "seconds": 1.19
+  },
+  {
+   "test": "drafts_and_fields_persist_across_reload_in_the_browser_database",
+   "result": "pass",
+   "seconds": 4.77
+  },
+  {
+   "test": "version3_browser_data_is_copied_into_the_database_and_left_unchanged",
+   "result": "pass",
+   "seconds": 0.79
+  },
+  {
+   "test": "database_unavailable_falls_back_to_browser_storage",
+   "result": "pass",
+   "seconds": 1.22
+  },
+  {
+   "test": "blocked_storage_still_works_and_exports",
+   "result": "pass",
+   "seconds": 1.17
+  },
+  {
+   "test": "full_storage_warns_and_guards_page_close",
+   "result": "pass",
+   "seconds": 1.03
+  },
+  {
+   "test": "unreadable_saved_data_is_quarantined_not_overwritten",
+   "result": "pass",
+   "seconds": 1.68
+  },
+  {
+   "test": "another_tab_is_never_overwritten",
+   "result": "pass",
+   "seconds": 2.23
+  },
+  {
+   "test": "version2_browser_data_migrates_without_modification_and_drafts_are_flagged",
+   "result": "pass",
+   "seconds": 2.5
+  },
+  {
+   "test": "version1_browser_data_migrates",
+   "result": "pass",
+   "seconds": 0.46
+  },
+  {
+   "test": "backup_import_validates_previews_applies_and_undoes",
+   "result": "pass",
+   "seconds": 7.19
+  },
+  {
+   "test": "backup_export_reimport_round_trip",
+   "result": "pass",
+   "seconds": 2.16
+  },
+  {
+   "test": "export_check_warns_before_personal_details_leave",
+   "result": "pass",
+   "seconds": 3.15
+  },
+  {
+   "test": "csv_import_export_formula_safety_semicolons_and_undo",
+   "result": "pass",
+   "seconds": 2.05
+  },
+  {
+   "test": "personal_data_check_asks_before_saving",
+   "result": "pass",
+   "seconds": 2.36
+  },
+  {
+   "test": "html_and_script_injection_is_rendered_as_text",
+   "result": "pass",
+   "seconds": 3.39
+  },
+  {
+   "test": "gates_reopen_only_for_disposition_changes_and_amendments_are_undoable",
+   "result": "pass",
+   "seconds": 4.93
+  },
+  {
+   "test": "cost_scenarios_match_fixtures_and_reject_bad_input",
+   "result": "pass",
+   "seconds": 2.5
+  },
+  {
+   "test": "evaluation_planning_shows_exposure_needed_and_upper_bound",
+   "result": "pass",
+   "seconds": 1.94
+  },
+  {
+   "test": "print_current_document_and_static_handbook",
+   "result": "pass",
+   "seconds": 3.7
+  },
+  {
+   "test": "working_handbook_download_includes_local_drafts",
+   "result": "pass",
+   "seconds": 3.56
+  },
+  {
+   "test": "selective_reset_clears_only_what_is_ticked_and_can_be_undone",
+   "result": "pass",
+   "seconds": 5.17
+  },
+  {
+   "test": "erase_workspace_and_everything",
+   "result": "pass",
+   "seconds": 3.4
+  },
+  {
+   "test": "network_is_locked",
+   "result": "pass",
+   "seconds": 0.28
+  },
+  {
+   "test": "hosted_copy_works_offline_and_local_copies_register_nothing",
+   "result": "pass",
+   "seconds": 1.3
+  },
+  {
+   "test": "no_horizontal_scroll_at_phone_widths",
+   "result": "pass",
+   "seconds": 7.49
+  },
+  {
+   "test": "accessibility_scan_axe",
+   "result": "pass",
+   "seconds": 62.61
+  },
+  {
+   "test": "accessibility_scan_axe_transient_states",
+   "result": "pass",
+   "seconds": 20.63
+  },
+  {
+   "test": "restore_original_then_undo_brings_the_draft_back",
+   "result": "pass",
+   "seconds": 4.53
+  },
+  {
+   "test": "search_roles_workflow_links_filters_and_legacy_preview",
+   "result": "pass",
+   "seconds": 4.6
+  }
+ ]
+}
